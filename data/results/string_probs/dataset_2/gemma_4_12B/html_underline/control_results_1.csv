@@ -1,0 +1,1975 @@
+original_data_index,model_prefix,output_good,output_bad,category,focus_prefix,focus_suffix,output_good_logprob,output_bad_logprob,logprob_difference
+0,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Mary only gave the teacher a <u>book</u>.,Mary only gave the <u>teacher</u> a book.,ONLY,<u>,</u>,-127.0,-110.5,-16.5
+1,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Jack only read his <u>daughter</u> an article.,Jack only read his daughter an <u>article</u>.,ONLY,<u>,</u>,-147.0,-141.0,-6.0
+2,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Harvey only <u>vacuumed</u> the kitchen.,Harvey only vacuumed the <u>kitchen</u>.,ONLY,<u>,</u>,-121.0,-131.0,10.0
+3,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Jenna only bought the <u>red</u> car.,Jenna only bought the red <u>car</u>.,ONLY,<u>,</u>,-118.0,-127.0,9.0
+4,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Mike only drank a root beer float with the <u>accountant</u>.,Mike only drank a <u>root beer float</u> with the accountant.,ONLY,<u>,</u>,-153.0,-150.0,-3.0
+5,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Laura only <u>thinks</u> that the doctor cheated on the test.,Laura only thinks that the <u>doctor</u> cheated on the test.,ONLY,<u>,</u>,-133.0,-130.0,-3.0
+6,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Larry's Pub only serves drinks at the <u>bar</u>.,Larry's Pub only serves <u>drinks</u> at the bar.,ONLY,<u>,</u>,-109.0,-117.5,8.5
+7,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Jason only mailed his receipts to the <u>headquarters</u>.,Jason only mailed <u>his</u> receipts to the headquarters.,ONLY,<u>,</u>,-137.0,-131.0,-6.0
+8,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Sara only gave <u>her</u> dog water.,Sara only gave her dog <u>water</u>.,ONLY,<u>,</u>,-115.5,-119.0,3.5
+9,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Lucy only <u>swam</u> yesterday.,Lucy only swam <u>yesterday</u>.,ONLY,<u>,</u>,-127.0,-124.0,-3.0
+10,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Hannah only thinks about <u>food</u> when she's hungry.,Hannah only thinks about food when she's <u>hungry</u>.,ONLY,<u>,</u>,-122.0,-117.0,-5.0
+11,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Claire only plays chess when she's <u>sober</u>.,Claire only plays <u>chess</u> when she's sober.,ONLY,<u>,</u>,-134.0,-136.0,2.0
+12,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Jake only visits the east coast when it's <u>sunny</u>.,Jake only visits the <u>east</u> coast when it's sunny.,ONLY,<u>,</u>,-144.0,-133.0,-11.0
+13,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Darius only eats <u>peanuts</u> when he's drunk.,Darius only eats peanuts when he's <u>drunk</u>.,ONLY,<u>,</u>,-130.0,-125.0,-5.0
+14,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Professor Johnson only reviewed the <u>valedictorian's</u> book.,Professor Johnson only reviewed the valedictorian's <u>book</u>.,ONLY,<u>,</u>,-143.0,-147.0,4.0
+15,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Stacy and Mary only toured the <u>big</u> blue house.,Stacy and Mary only toured the big <u>blue</u> house.,ONLY,<u>,</u>,-133.0,-140.0,7.0
+16,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Linda only went to the <u>library</u> during homecoming.,Linda only went to the library during <u>homecoming</u>.,ONLY,<u>,</u>,-136.0,-131.0,-5.0
+17,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Marlon only eats burgers with <u>fries</u>.,Marlon only eats <u>burgers</u> with fries.,ONLY,<u>,</u>,-129.0,-137.0,8.0
+18,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Gary only disputed the claim that <u>he</u> was a spy.,Gary only disputed the claim that he was a <u>spy</u>.,ONLY,<u>,</u>,-130.0,-137.0,7.0
+19,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Steven only studied <u>French</u> literature.,Steven only studied French <u>literature</u>.,ONLY,<u>,</u>,-131.0,-136.0,5.0
+20,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",the judge only <u>fined</u> the athlete.,the judge only fined the <u>athlete</u>.,ONLY,<u>,</u>,-116.0,-125.0,9.0
+21,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",the manager only hired the teenager for a <u>two-week trial period</u>.,the manager only hired the <u>teenager</u> for a two-week trial period.,ONLY,<u>,</u>,-137.0,-140.0,3.0
+22,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Gavin only <u>visited</u> France.,Gavin only visited <u>France</u>.,ONLY,<u>,</u>,-108.5,-109.5,1.0
+23,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Jacques only has a <u>brown</u> belt in karate.,Jacques only has a brown belt in <u>karate</u>.,ONLY,<u>,</u>,-118.0,-126.5,8.5
+24,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Pete only bought the <u>Swiss</u> company.,Pete only bought <u>the</u> Swiss company.,ONLY,<u>,</u>,-125.5,-133.0,7.5
+25,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Janet only <u>considered</u> buying a dress.,Janet only considered buying a <u>dress</u>.,ONLY,<u>,</u>,-127.0,-133.0,6.0
+26,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Hilde only said that Dara lived in <u>Italy</u>.,Hilde only said that <u>Dara</u> lived in Italy.,ONLY,<u>,</u>,-140.0,-134.0,-6.0
+27,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Charles only got a <u>promotion</u>.,Charles only <u>got</u> a promotion.,ONLY,<u>,</u>,-124.5,-119.5,-5.0
+28,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Zach only makes chairs for <u>churches</u>.,Zach only makes <u>chairs</u> for churches.,ONLY,<u>,</u>,-136.0,-142.0,6.0
+29,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Jarvis only knows the <u>Italian</u> student.,Jarvis only knows the Italian <u>student</u>.,ONLY,<u>,</u>,-120.5,-129.0,8.5
+30,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Barbara only took <u>three</u> brownies.,Barbara only took three <u>brownies</u>.,ONLY,<u>,</u>,-122.0,-136.0,14.0
+31,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Zoe only saw hummingbirds in <u>May</u> this year.,Zoe only saw <u>hummingbirds</u> in May this year.,ONLY,<u>,</u>,-130.0,-139.0,9.0
+32,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Paul only came to Lena's <u>luncheon</u>.,Paul only came to <u>Lena's</u> luncheon.,ONLY,<u>,</u>,-158.0,-149.0,-9.0
+33,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Rob only wants the mayor of <u>New York</u> to come to the party.,Rob only wants the <u>mayor</u> of New York to come to the party.,ONLY,<u>,</u>,-133.0,-132.0,-1.0
+34,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Dave only looks at Greek art during the <u>summer</u>.,Dave only looks at <u>Greek</u> art during the summer.,ONLY,<u>,</u>,-133.0,-133.0,0.0
+35,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Jackson has only used the spade that <u>Mary</u> gave him.,Jackson has only used the <u>spade</u> that Mary gave him.,ONLY,<u>,</u>,-141.0,-127.5,-13.5
+36,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Professor Johnson only taught the students about the <u>French Revolution</u>.,Professor Johnson only taught the <u>students</u> about the French Revolution.,ONLY,<u>,</u>,-124.5,-134.0,9.5
+37,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Albert only works at the grocery store on <u>Wednesdays</u>.,Albert only works at the <u>grocery store</u> on Wednesdays.,ONLY,<u>,</u>,-129.0,-130.0,1.0
+38,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Alfonso only calls his boss <u>when he is sick</u>.,Alfonso only calls <u>his boss</u> when he is sick.,ONLY,<u>,</u>,-124.0,-124.0,0.0
+39,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Remy has only tried the <u>pasta</u> that Katherine made for him.,Remy has only tried the pasta that <u>Katherine</u> made for him.,ONLY,<u>,</u>,-134.0,-136.0,2.0
+40,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Vicky only asked the teacher about the <u>American</u> Revolution.,Vicky only asked the teacher about the <u>American Revolution</u>.,ONLY,<u>,</u>,-131.0,-134.0,3.0
+41,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Marv only eats pasta with a <u>fork</u>.,Marv only eats <u>pasta</u> with a fork.,ONLY,<u>,</u>,-131.0,-132.0,1.0
+42,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Barry only needs to buy <u>books</u> for Darlene.,Barry only needs to buy books for <u>Darlene</u>.,ONLY,<u>,</u>,-142.0,-134.0,-8.0
+43,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Selena only <u>feels</u> like Derek is annoyed with her.,Selena only feels like <u>Derek</u> is annoyed with her.,ONLY,<u>,</u>,-133.0,-143.0,10.0
+44,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Sparky only becomes aggressive toward other dogs <u>in summer</u>.,Sparky only becomes aggressive toward <u>other dogs</u> in summer.,ONLY,<u>,</u>,-136.0,-141.0,5.0
+45,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Bart only put <u>fruit</u> in the fridge.,Bart only put fruit in the <u>fridge</u>.,ONLY,<u>,</u>,-117.0,-121.0,4.0
+46,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Kurt only meant to <u>hurt</u> the governor.,Kurt only meant to hurt the <u>governor</u>.,ONLY,<u>,</u>,-144.0,-145.0,1.0
+47,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Marie only kept Lisa's <u>needle</u>.,Marie only kept <u>Lisa's</u> needle.,ONLY,<u>,</u>,-153.0,-148.0,-5.0
+48,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Nancy only lets Andy dance <u>in the basement</u>.,Nancy only lets Andy <u>dance</u> in the basement.,ONLY,<u>,</u>,-141.0,-128.0,-13.0
+49,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Victor only helped Fred <u>pack</u>.,Victor only helped <u>Fred</u> pack.,ONLY,<u>,</u>,-147.0,-139.0,-8.0
+50,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Peter only <u>showed</u> Rebecca the photo album.,Peter only showed Rebecca the <u>photo album</u>.,ONLY,<u>,</u>,-130.0,-127.5,-2.5
+51,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Linda only heard the <u>robin</u>.,Linda only <u>heard</u> the robin.,ONLY,<u>,</u>,-123.0,-110.5,-12.5
+52,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Phil gave a book to the <u>senator</u>.,Phil gave a <u>book</u> to the senator.,QUESTION_ANSWER,<u>,</u>,-121.0,-132.0,11.0
+53,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",David met the <u>president</u> of Hungary.,David met the president of <u>Hungary</u>.,QUESTION_ANSWER,<u>,</u>,-116.5,-113.5,-3.0
+54,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",That's the <u>manager's</u> credit card.,<u>That's</u> the manager's credit card.,QUESTION_ANSWER,<u>,</u>,-111.0,-99.0,-12.0
+55,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Harold thought that the <u>lawyer</u> would visit the accountant.,Harold thought that the lawyer would visit the <u>accountant</u>.,QUESTION_ANSWER,<u>,</u>,-154.0,-153.0,-1.0
+56,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",The Most Valuable Player award was given to the <u>quarterback</u>.,The Most Valuable Player award was <u>given</u> to the quarterback.,QUESTION_ANSWER,<u>,</u>,-116.0,-113.5,-2.5
+57,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",The richest person in the city is the <u>mayor</u>.,The richest person in the <u>city</u> is the mayor.,QUESTION_ANSWER,<u>,</u>,-109.0,-108.5,-0.5
+58,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",The banker from the <u>eastern</u> region denied the waiter a loan.,The banker from the eastern region denied the <u>waiter</u> a loan.,QUESTION_ANSWER,<u>,</u>,-142.0,-141.0,-1.0
+59,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",The analyst thinks the <u>underdogs</u> will win the championship.,The <u>analyst</u> thinks the underdogs will win the championship.,QUESTION_ANSWER,<u>,</u>,-122.0,-121.5,-0.5
+60,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",The teacher's wife moved to the <u>city</u>.,The <u>teacher's</u> wife moved to the city.,QUESTION_ANSWER,<u>,</u>,-115.5,-99.5,-16.0
+61,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",There were <u>four</u> books on the shelf.,There were four books on the <u>shelf</u>.,QUESTION_ANSWER,<u>,</u>,-91.0,-102.0,11.0
+62,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Cassandra can have cake <u>and</u> ice cream.,Cassandra can have <u>cake</u> and ice cream.,QUESTION_ANSWER,<u>,</u>,-108.0,-118.0,10.0
+63,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",The senator voted <u>against</u> the housing bill.,The senator voted against the housing <u>bill</u>.,QUESTION_ANSWER,<u>,</u>,-117.5,-125.0,7.5
+64,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",The secretary bought <u>some</u> of the cherries.,The <u>secretary</u> bought some of the cherries.,QUESTION_ANSWER,<u>,</u>,-120.5,-121.5,1.0
+65,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",The door was locked by the <u>policeman</u>.,The door <u>was</u> locked by the policeman.,QUESTION_ANSWER,<u>,</u>,-103.5,-100.5,-3.0
+66,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",The claim that the <u>valedictorian</u> was a communist upset Becky the most.,The claim that the valedictorian was a <u>communist</u> upset Becky the most.,QUESTION_ANSWER,<u>,</u>,-188.0,-173.0,-15.0
+67,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Jack <u>rented</u> the movie.,Jack rented the <u>movie</u>.,QUESTION_ANSWER,<u>,</u>,-112.0,-123.0,11.0
+68,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Dirk's favorite cake is <u>cheesecake</u>.,Dirk's favorite cake <u>is</u> cheesecake.,QUESTION_ANSWER,<u>,</u>,-107.0,-111.5,4.5
+69,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Jessica ran for <u>four hours</u>.,Jessica <u>ran</u> for four hours.,QUESTION_ANSWER,<u>,</u>,-120.0,-104.5,-15.5
+70,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Gary placed the bowl <u>below</u> the table.,Gary placed the <u>bowl</u> below the table.,QUESTION_ANSWER,<u>,</u>,-126.0,-131.0,5.0
+71,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",The <u>cat</u> ate the leftovers.,The cat ate the <u>leftovers</u>.,QUESTION_ANSWER,<u>,</u>,-104.5,-118.5,14.0
+72,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",The garage is on the <u>left</u> side of the house.,The <u>garage</u> is on the left side of the house.,QUESTION_ANSWER,<u>,</u>,-98.0,-95.5,-2.5
+73,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",The mayor gave the key to the city to his <u>secretary</u>.,The mayor gave the <u>key</u> to the city to his secretary.,QUESTION_ANSWER,<u>,</u>,-129.0,-119.5,-9.5
+74,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",The <u>middle</u> door is locked.,The middle door is <u>locked</u>.,QUESTION_ANSWER,<u>,</u>,-93.0,-96.0,3.0
+75,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",The <u>professor</u> ate the most blackberries.,The professor ate the <u>most</u> blackberries.,QUESTION_ANSWER,<u>,</u>,-119.5,-131.0,11.5
+76,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Louise destroyed the birdhouse with a <u>hammer</u>.,Louise destroyed the <u>birdhouse</u> with a hammer.,QUESTION_ANSWER,<u>,</u>,-119.5,-118.0,-1.5
+77,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",The train will leave <u>tomorrow</u> for Boston.,The train will leave tomorrow for <u>Boston</u>.,QUESTION_ANSWER,<u>,</u>,-111.5,-108.0,-3.5
+78,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Jackie's favorite book landed <u>on my desk</u>.,Jackie's <u>favorite</u> book landed on my desk.,QUESTION_ANSWER,<u>,</u>,-134.0,-116.0,-18.0
+79,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",The plate broke <u>yesterday</u>.,The plate <u>broke</u> yesterday.,QUESTION_ANSWER,<u>,</u>,-113.5,-103.5,-10.0
+80,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Kathy <u>ate</u> the orange.,Kathy ate the <u>orange</u>.,QUESTION_ANSWER,<u>,</u>,-101.0,-108.0,7.0
+81,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Jesse sent pictures of <u>herself</u> to Dave.,Jesse sent <u>pictures</u> of herself to Dave.,QUESTION_ANSWER,<u>,</u>,-114.0,-107.0,-7.0
+82,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>","On Wednesday, Barry stole the <u>chaplain's</u> car.","On <u>Wednesday</u>, Barry stole the chaplain's car.",QUESTION_ANSWER,<u>,</u>,-151.0,-124.5,-26.5
+83,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",The party was <u>fun</u>.,The <u>party</u> was fun.,QUESTION_ANSWER,<u>,</u>,-101.0,-89.5,-11.5
+84,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Last night's dinner was cooked by the <u>chef</u>.,Last night's dinner was <u>cooked</u> by the chef.,QUESTION_ANSWER,<u>,</u>,-99.5,-99.5,0.0
+85,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",The machinist bought <u>nails</u> at the store.,The machinist <u>bought</u> nails at the store.,QUESTION_ANSWER,<u>,</u>,-127.5,-119.0,-8.5
+86,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",A <u>dictionary</u> fell off the shelf.,A dictionary fell <u>off</u> the shelf.,QUESTION_ANSWER,<u>,</u>,-100.0,-117.0,17.0
+87,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",This piano was purchased at the <u>mall</u>.,This <u>piano</u> was purchased at the mall.,QUESTION_ANSWER,<u>,</u>,-104.0,-103.5,-0.5
+88,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>","During the contest, Claire ate <u>six</u> donuts.","During the contest, Claire ate six <u>donuts</u>.",QUESTION_ANSWER,<u>,</u>,-124.0,-124.0,0.0
+89,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",The ketchup has spent <u>two weeks</u> in the fridge.,The <u>ketchup</u> has spent two weeks in the fridge.,QUESTION_ANSWER,<u>,</u>,-113.0,-120.0,7.0
+90,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>","During karaoke, the manager accidentally stepped on the <u>secretary's</u> foot.","During karaoke, the <u>manager</u> accidentally stepped on the secretary's foot.",QUESTION_ANSWER,<u>,</u>,-136.0,-130.0,-6.0
+91,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Danielle was born in <u>November</u>.,Danielle was <u>born</u> in November.,QUESTION_ANSWER,<u>,</u>,-101.5,-101.5,0.0
+92,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Ronnie reached level <u>eight</u>.,Ronnie reached <u>level</u> eight.,QUESTION_ANSWER,<u>,</u>,-121.0,-121.0,0.0
+93,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",The big <u>blue</u> house got the most bids.,The <u>big</u> blue house got the most bids.,QUESTION_ANSWER,<u>,</u>,-128.0,-121.0,-7.0
+94,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",The customer who bought the <u>red</u> bowl came back for a refund yesterday.,The customer who bought the red bowl came <u>back</u> for a refund yesterday.,QUESTION_ANSWER,<u>,</u>,-133.0,-149.0,16.0
+95,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Joanna <u>loved</u> the president's memoir.,Joanna loved the <u>president's</u> memoir.,QUESTION_ANSWER,<u>,</u>,-119.5,-136.0,16.5
+96,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",The <u>wooden</u> table was broken during the party.,The wooden table was broken during the <u>party</u>.,QUESTION_ANSWER,<u>,</u>,-102.0,-123.0,21.0
+97,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",The last piece of cake was eaten by the <u>boss</u>.,The <u>last</u> piece of cake was eaten by the boss.,QUESTION_ANSWER,<u>,</u>,-120.5,-108.0,-12.5
+98,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",The professor's latest article was published <u>yesterday</u>.,The professor's latest article was <u>published</u> yesterday.,QUESTION_ANSWER,<u>,</u>,-110.0,-121.0,11.0
+99,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Gary transported his lumber in his <u>truck</u>.,Gary <u>transported</u> his lumber in his truck.,QUESTION_ANSWER,<u>,</u>,-121.5,-118.0,-3.5
+100,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",The workers loaded the truck with <u>furniture</u>.,The <u>workers</u> loaded the truck with furniture.,QUESTION_ANSWER,<u>,</u>,-115.0,-107.0,-8.0
+101,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Jacob's <u>mother</u> signed his release form.,Jacob's mother signed <u>his</u> release form.,QUESTION_ANSWER,<u>,</u>,-114.5,-123.5,9.0
+102,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>","and the <u>student</u> went to Milan, too.","and the student <u>went</u> to Milan, too.",TOO,<u>,</u>,-112.5,-114.0,1.5
+103,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>","and he ate <u>dessert</u> yesterday, too.","and he ate dessert <u>yesterday</u>, too.",TOO,<u>,</u>,-130.0,-126.0,-4.0
+104,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>","and she gave a book to the <u>dean</u>, too.","and she gave a <u>book</u> to the dean, too.",TOO,<u>,</u>,-124.0,-136.0,12.0
+105,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>","and he was upset by the claim that the <u>novice</u> was a cheater, too.","and he was upset by the claim that the novice was a <u>cheater</u>, too.",TOO,<u>,</u>,-144.0,-151.0,7.0
+106,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>","and he brought a laptop from <u>work</u>, too.","and he <u>brought</u> a laptop from work, too.",TOO,<u>,</u>,-122.5,-117.5,-5.0
+107,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>","and she <u>rolled</u> a red ball, too.","and she rolled a <u>red</u> ball, too.",TOO,<u>,</u>,-111.5,-127.0,15.5
+108,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>","and it has a <u>porch</u>, too.","and it <u>has</u> a porch, too.",TOO,<u>,</u>,-115.0,-110.0,-5.0
+109,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>","and the <u>red</u> car broke down, too.","and the red <u>car</u> broke down, too.",TOO,<u>,</u>,-101.5,-109.5,8.0
+110,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>","and the piano from <u>Japan</u> is out of tune, too.","and the piano from Japan is <u>out</u> of tune, too.",TOO,<u>,</u>,-115.5,-123.5,8.0
+111,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>","and the <u>cat</u> that drank the milk got sick, too.","and the cat that drank the <u>milk</u> got sick, too.",TOO,<u>,</u>,-120.0,-129.0,9.0
+112,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>","and the contestant who ate <u>twenty</u> hot dogs won money, too.","and the contestant who ate twenty hot dogs <u>won</u> money, too.",TOO,<u>,</u>,-147.0,-136.0,-11.0
+113,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>","and the <u>blue</u> house has a broken window, too.","and the blue house has a <u>broken</u> window, too.",TOO,<u>,</u>,-112.0,-116.0,4.0
+114,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>","and the <u>junior</u> engineer got a bonus, too.","and the junior engineer got a <u>bonus</u>, too.",TOO,<u>,</u>,-114.0,-112.5,-1.5
+115,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>","and he doubted the <u>dean's</u> story, too.","and he doubted the dean's <u>story</u>, too.",TOO,<u>,</u>,-135.0,-137.0,2.0
+116,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>","and he wondered who ate the <u>biscuit</u>, too.","and <u>he</u> wondered who ate the biscuit, too.",TOO,<u>,</u>,-141.0,-128.0,-13.0
+117,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>","and the <u>lawyer</u> dropped his fork, too.","and <u>the</u> lawyer dropped his fork, too.",TOO,<u>,</u>,-127.0,-116.5,-10.5
+118,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>","and she drinks protein shakes after <u>dinner</u> on Wednesdays, too.","and she drinks protein shakes after dinner on <u>Wednesdays</u>, too.",TOO,<u>,</u>,-142.0,-139.0,-3.0
+119,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>","and the <u>stone</u> house fell apart, too.","and the stone house <u>fell apart</u>, too.",TOO,<u>,</u>,-108.5,-110.5,2.0
+120,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>","and she ate the pastry that had <u>poppy</u> seeds, too.","and she ate the pastry that <u>had</u> poppy seeds, too.",TOO,<u>,</u>,-136.0,-141.0,5.0
+121,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>","and she fetched a <u>ball</u>, too.","and she <u>fetched</u> a ball, too.",TOO,<u>,</u>,-115.0,-106.0,-9.0
+122,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>","and there were <u>raspberries</u> in it, too.","and there were raspberries in <u>it</u>, too.",TOO,<u>,</u>,-118.0,-114.0,-4.0
+123,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>","and he failed <u>physics</u>, too.","and he <u>failed</u> physics, too.",TOO,<u>,</u>,-118.0,-108.0,-10.0
+124,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>","and he said what made him <u>sad</u>, too.","and he <u>said</u> what made him sad, too.",TOO,<u>,</u>,-116.5,-112.0,-4.5
+125,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>","and he succeeded in <u>hugging</u> the dog, too.","and he succeeded in hugging the <u>dog</u>, too.",TOO,<u>,</u>,-126.5,-133.0,6.5
+126,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>","and he let her <u>dye</u> his hair, too.","and he <u>let</u> her dye his hair, too.",TOO,<u>,</u>,-117.0,-117.0,0.0
+127,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>","and he forgave Lisa for <u>underpreparing</u>, too.","and he forgave <u>Lisa</u> for underpreparing, too.",TOO,<u>,</u>,-147.0,-140.0,-7.0
+128,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>","and he warned her about the <u>dean's</u> betrayal, too.","and he warned her about the dean's <u>betrayal</u>, too.",TOO,<u>,</u>,-141.0,-150.0,9.0
+129,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>","and they talked on the <u>phone</u>, too.","and <u>they</u> talked on the phone, too.",TOO,<u>,</u>,-107.0,-105.0,-2.0
+130,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>","and the <u>space</u> museum was destroyed, too.","and the space <u>museum</u> was destroyed, too.",TOO,<u>,</u>,-112.5,-107.5,-5.0
+131,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>","and she did a <u>drawing</u> of the president, too.","and she did a drawing of the <u>president</u>, too.",TOO,<u>,</u>,-130.0,-121.5,-8.5
+132,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>","and the painting of Jerry's <u>brother's</u> dog was gone, too.","and the <u>painting</u> of Jerry's brother's dog was gone, too.",TOO,<u>,</u>,-138.0,-129.0,-9.0
+133,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>","and she reviewed a paper about <u>American</u> economics, too.","and she reviewed a paper <u>about</u> American economics, too.",TOO,<u>,</u>,-132.0,-136.0,4.0
+134,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>","and he sent an invitation to the prime minister of a <u>poor</u> country, too.","and he sent an <u>invitation</u> to the prime minister of a poor country, too.",TOO,<u>,</u>,-132.0,-132.0,0.0
+135,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>","and he has regrets about pointing the finger at his <u>classmate</u>, too.","and he has regrets about pointing the <u>finger</u> at his classmate, too.",TOO,<u>,</u>,-151.0,-147.0,-4.0
+136,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>","and David was reprimanded by the <u>corporal</u>, too.","and <u>David</u> was reprimanded by the corporal, too.",TOO,<u>,</u>,-129.0,-122.0,-7.0
+137,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>","and a <u>credit</u> card came in the mail, too.","and a credit card <u>came</u> in the mail, too.",TOO,<u>,</u>,-112.0,-113.0,1.0
+138,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>","and he <u>batted</u> last night, too.","and he batted last <u>night</u>, too.",TOO,<u>,</u>,-120.5,-133.0,12.5
+139,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>","and he likes <u>mango</u> ice cream, too.","and he <u>likes</u> mango ice cream, too.",TOO,<u>,</u>,-125.0,-121.0,-4.0
+140,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>","and they should <u>run</u> on training days, too.","and they should run on <u>training</u> days, too.",TOO,<u>,</u>,-130.0,-119.0,-11.0
+141,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>","and he studied their <u>naval</u> capabilities, too.","and he studied their naval <u>capabilities</u>, too.",TOO,<u>,</u>,-131.0,-135.0,4.0
+142,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>","and she likes ice cream with chocolate <u>sprinkles</u>, too.","and she likes ice cream with <u>chocolate</u> sprinkles, too.",TOO,<u>,</u>,-124.0,-126.0,2.0
+143,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>","and the <u>jury</u> considers him guilty, too.","and the jury considers him <u>guilty</u>, too.",TOO,<u>,</u>,-121.0,-122.5,1.5
+144,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>","and she bought one that <u>Vera</u> liked, too.","and she bought <u>one</u> that Vera liked, too.",TOO,<u>,</u>,-133.0,-132.0,-1.0
+145,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>","and at <u>Yale</u> he studied philosophy, too.","and at Yale he <u>studied</u> philosophy, too.",TOO,<u>,</u>,-118.0,-114.5,-3.5
+146,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>","and he <u>worked</u> in Italy last year, too.","and he worked in Italy <u>last</u> year, too.",TOO,<u>,</u>,-119.5,-132.0,12.5
+147,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>","and he reads novels written in <u>English</u>, too.","and he reads novels <u>written</u> in English, too.",TOO,<u>,</u>,-126.0,-130.0,4.0
+148,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>","and she read the names of the students who did <u>not</u> pass the test, too.","and she read the names of the students who did not <u>pass</u> the test, too.",TOO,<u>,</u>,-136.0,-130.0,-6.0
+149,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>","and she dated men with tattoos on their <u>chests</u>, too.","and she <u>dated</u> men with tattoos on their chests, too.",TOO,<u>,</u>,-139.0,-122.5,-16.5
+150,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>","and the <u>modern</u> French chef used olive oil, too.","and the modern <u>French</u> chef used olive oil, too.",TOO,<u>,</u>,-118.0,-124.0,6.0
+151,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>","and he bought a sleek <u>black</u> sports car, too.","and he bought a sleek black <u>sports</u> car, too.",TOO,<u>,</u>,-120.0,-125.5,5.5
+152,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Nina always buys mint ice cream on <u>Wednesdays</u>.,Nina always buys <u>mint</u> ice cream on Wednesdays.,ADV_QUANT,<u>,</u>,-136.0,-140.0,4.0
+153,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",David always drinks whiskey when he's <u>alone</u>.,David always drinks <u>whiskey</u> when he's alone.,ADV_QUANT,<u>,</u>,-137.0,-136.0,-1.0
+154,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",the <u>doctor</u> always brings in the newspaper on weekdays.,the doctor always brings in the newspaper on <u>weekdays</u>.,ADV_QUANT,<u>,</u>,-126.0,-142.0,16.0
+155,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Marie always eats pancakes for <u>breakfast</u>.,Marie always eats <u>pancakes</u> for breakfast.,ADV_QUANT,<u>,</u>,-130.0,-130.0,0.0
+156,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Joseph always rides his <u>red</u> bicycle in front of guests.,Joseph always rides his red bicycle in front of <u>guests</u>.,ADV_QUANT,<u>,</u>,-162.0,-161.0,-1.0
+157,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Gloria always <u>rents</u> sports cars.,Gloria always rents <u>sports</u> cars.,ADV_QUANT,<u>,</u>,-123.5,-126.5,3.0
+158,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Corey always eats <u>sandwiches</u> for lunch.,Corey always eats sandwiches for <u>lunch</u>.,ADV_QUANT,<u>,</u>,-126.0,-124.0,-2.0
+159,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",<u>Melissa</u> always prosecutes murder trials.,Melissa always prosecutes <u>murder</u> trials.,ADV_QUANT,<u>,</u>,-114.0,-127.5,13.5
+160,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Mark always plays chess on the <u>computer</u>.,Mark always plays <u>chess</u> on the computer.,ADV_QUANT,<u>,</u>,-131.0,-135.0,4.0
+161,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Chester always eats wings with <u>fries</u>.,Chester always eats <u>wings</u> with fries.,ADV_QUANT,<u>,</u>,-128.0,-140.0,12.0
+162,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Luke usually buys <u>meat</u> at the small grocery store.,Luke usually buys meat at the <u>small</u> grocery store.,ADV_QUANT,<u>,</u>,-130.0,-127.5,-2.5
+163,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Betsy usually drives fast on the <u>highway</u>.,Betsy usually drives <u>fast</u> on the highway.,ADV_QUANT,<u>,</u>,-122.0,-115.0,-7.0
+164,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Bradley is usually rude to <u>telemarketers</u>.,Bradley is usually <u>rude</u> to telemarketers.,ADV_QUANT,<u>,</u>,-120.5,-121.5,1.0
+165,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Louise usually uses her <u>phone</u> for emails.,Louise usually uses her phone for <u>emails</u>.,ADV_QUANT,<u>,</u>,-122.5,-130.0,7.5
+166,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Fred usually plays guitar in a <u>trio</u>.,Fred usually plays <u>guitar</u> in a trio.,ADV_QUANT,<u>,</u>,-125.5,-138.0,12.5
+167,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Natalie usually skis in <u>winter</u>.,Natalie usually <u>skis</u> in winter.,ADV_QUANT,<u>,</u>,-120.5,-111.0,-9.5
+168,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",the <u>junior</u> secretary usually handles calls on Mondays.,the junior secretary usually handles calls on <u>Mondays</u>.,ADV_QUANT,<u>,</u>,-128.0,-131.0,3.0
+169,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Terry usually <u>hugs</u> his friends.,Terry usually hugs his <u>friends</u>.,ADV_QUANT,<u>,</u>,-117.0,-121.0,4.0
+170,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",the <u>boss</u> usually pays for dinner.,the boss usually pays for <u>dinner</u>.,ADV_QUANT,<u>,</u>,-106.0,-117.0,11.0
+171,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Dale usually loses to <u>powerlifters</u>.,Dale usually <u>loses</u> to powerlifters.,ADV_QUANT,<u>,</u>,-142.0,-130.0,-12.0
+172,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Bob mostly eats <u>lean</u> meat for dinner.,Bob mostly eats lean meat for <u>dinner</u>.,ADV_QUANT,<u>,</u>,-125.5,-136.0,10.5
+173,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Dolly mostly uses <u>cash</u> to buy rugs.,Dolly mostly uses cash to buy <u>rugs</u>.,ADV_QUANT,<u>,</u>,-144.0,-145.0,1.0
+174,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Gavin mostly reads newspapers in his <u>study</u>.,Gavin mostly reads <u>newspapers</u> in his study.,ADV_QUANT,<u>,</u>,-131.0,-130.0,-1.0
+175,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Jerry mostly writes about <u>baseball</u> in June.,Jerry mostly writes about baseball in <u>June</u>.,ADV_QUANT,<u>,</u>,-145.0,-138.0,-7.0
+176,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",the software engineer mostly codes in the <u>afternoon</u>.,the software engineer mostly <u>codes</u> in the afternoon.,ADV_QUANT,<u>,</u>,-122.0,-117.5,-4.5
+177,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Vera mostly has meetings when she's on the <u>east</u> coast.,Vera mostly has <u>meetings</u> when she's on the east coast.,ADV_QUANT,<u>,</u>,-148.0,-153.0,5.0
+178,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Warren mostly invests in American <u>tech</u> companies.,Warren mostly invests in <u>American</u> tech companies.,ADV_QUANT,<u>,</u>,-149.0,-146.0,-3.0
+179,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",the <u>parents</u> mostly take care of the cats.,the parents mostly take care of the <u>cats</u>.,ADV_QUANT,<u>,</u>,-119.5,-134.0,14.5
+180,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Bill mostly uses his <u>truck</u> to transport furniture.,Bill mostly uses his truck to transport <u>furniture</u>.,ADV_QUANT,<u>,</u>,-130.0,-132.0,2.0
+181,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Paul mostly works on <u>positional</u> chess during his lessons.,Paul mostly works on positional chess during his <u>lessons</u>.,ADV_QUANT,<u>,</u>,-162.0,-148.0,-14.0
+182,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",the <u>lawyer</u> typically leads the morning meeting on Mondays.,the lawyer typically leads the morning meeting on <u>Mondays</u>.,ADV_QUANT,<u>,</u>,-127.0,-137.0,10.0
+183,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Bryan typically eats <u>lunch</u> during the weekly meeting.,Bryan typically eats lunch during the <u>weekly meeting</u>.,ADV_QUANT,<u>,</u>,-141.0,-139.0,-2.0
+184,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Lisa typically drinks beer at a <u>bar</u>.,Lisa typically drinks <u>beer</u> at a bar.,ADV_QUANT,<u>,</u>,-126.0,-132.0,6.0
+185,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Helga typically eats sushi in <u>Japan</u>.,Helga typically eats <u>sushi</u> in Japan.,ADV_QUANT,<u>,</u>,-114.5,-138.0,23.5
+186,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Sparky typically barks at <u>children</u>.,Sparky typically <u>barks</u> at children.,ADV_QUANT,<u>,</u>,-121.5,-113.5,-8.0
+187,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Jessica typically <u>runs</u> in the morning.,Jessica typically runs in the <u>morning</u>.,ADV_QUANT,<u>,</u>,-112.0,-115.0,3.0
+188,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Randy typically skips <u>morning</u> meetings.,Randy typically <u>skips</u> morning meetings.,ADV_QUANT,<u>,</u>,-135.0,-125.0,-10.0
+189,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",the assistant typically teaches from <u>home</u>.,the assistant typically <u>teaches</u> from home.,ADV_QUANT,<u>,</u>,-125.5,-121.0,-4.5
+190,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Franny typically drinks wine with <u>dinner</u>.,Franny typically drinks <u>wine</u> with dinner.,ADV_QUANT,<u>,</u>,-137.0,-138.0,1.0
+191,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Lindsay typically defeats <u>young</u> players.,Lindsay typically <u>defeats</u> young players.,ADV_QUANT,<u>,</u>,-138.0,-138.0,0.0
+192,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Sarah didn't buy the <u>green</u> shirt.,Sarah didn't buy the green <u>shirt</u>.,CONTRAST1,<u>,</u>,-107.5,-109.0,1.5
+193,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Dave didn't buy the blue <u>car</u>.,Dave didn't buy the <u>blue</u> car.,CONTRAST1,<u>,</u>,-113.0,-107.0,-6.0
+194,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Professor Johnson didn't hire the student from <u>Italy</u>.,Professor Johnson didn't hire the <u>student</u> from Italy.,CONTRAST1,<u>,</u>,-142.0,-145.0,3.0
+195,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",The <u>math</u> professor didn't win the teaching prize.,The math professor didn't win the <u>teaching</u> prize.,CONTRAST1,<u>,</u>,-132.0,-147.0,15.0
+196,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Lisa didn't drive the car her <u>mother</u> gave her.,<u>Lisa</u> didn't drive the car her mother gave her.,CONTRAST1,<u>,</u>,-129.0,-109.0,-20.0
+197,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Betsy didn't <u>bike</u> across the country.,Betsy didn't bike across the <u>country</u>.,CONTRAST1,<u>,</u>,-121.0,-126.0,5.0
+198,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",The <u>teacher</u> didn't get a raise this year.,The teacher didn't get a raise this <u>year</u>.,CONTRAST1,<u>,</u>,-105.0,-126.5,21.5
+199,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Dr. Jones didn't <u>cure</u> the terrible disease.,Dr. Jones didn't cure the <u>terrible</u> disease.,CONTRAST1,<u>,</u>,-121.0,-122.0,1.0
+200,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Fiona didn't read the Bible <u>last</u> year.,Fiona didn't <u>read</u> the Bible last year.,CONTRAST1,<u>,</u>,-137.0,-122.0,-15.0
+201,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Silvia didn't read the <u>newspaper</u> last night.,<u>Silvia</u> didn't read the newspaper last night.,CONTRAST1,<u>,</u>,-112.5,-109.5,-3.0
+202,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",<u>Jake</u> didn't walk the dog this morning.,Jake didn't walk the <u>dog</u> this morning.,CONTRAST1,<u>,</u>,-106.0,-123.0,17.0
+203,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Fred didn't compose a <u>symphony</u>.,Fred didn't <u>compose</u> a symphony.,CONTRAST1,<u>,</u>,-129.0,-120.5,-8.5
+204,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Pierre didn't have <u>three</u> children.,Pierre didn't have three <u>children</u>.,CONTRAST1,<u>,</u>,-117.0,-119.5,2.5
+205,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Vera didn't eat a <u>chocolate</u> muffin.,Vera didn't eat a chocolate <u>muffin</u>.,CONTRAST1,<u>,</u>,-123.0,-119.0,-4.0
+206,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Arnold didn't pay with <u>five</u> dollar bills.,Arnold didn't pay with five <u>dollar</u> bills.,CONTRAST1,<u>,</u>,-125.5,-127.5,2.0
+207,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",The book of <u>jokes</u> wasn't stolen.,The <u>book</u> of jokes wasn't stolen.,CONTRAST1,<u>,</u>,-122.0,-117.0,-5.0
+208,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",The <u>talented</u> student's diary wasn't lost in the fire.,The talented student's diary wasn't lost in the <u>fire</u>.,CONTRAST1,<u>,</u>,-123.5,-135.0,11.5
+209,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Rob didn't buy Swiss <u>jewelry</u>.,Rob didn't buy <u>Swiss</u> jewelry.,CONTRAST1,<u>,</u>,-145.0,-127.5,-17.5
+210,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",The professor didn't <u>grade</u> Dana's paper.,The professor didn't grade Dana's <u>paper</u>.,CONTRAST1,<u>,</u>,-122.0,-128.0,6.0
+211,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Jessica didn't <u>buy</u> the car.,<u>Jessica</u> didn't buy the car.,CONTRAST1,<u>,</u>,-92.0,-90.0,-2.0
+212,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Steve didn't invest in a <u>tech</u> company.,Steve didn't invest in a tech <u>company</u>.,CONTRAST1,<u>,</u>,-129.0,-132.0,3.0
+213,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",<u>Janet</u> didn't buy the pink bicycle.,Janet didn't buy the <u>pink</u> bicycle.,CONTRAST1,<u>,</u>,-107.5,-123.5,16.0
+214,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Jerry didn't take the watch from the <u>drawer</u>.,Jerry didn't <u>take</u> the watch from the drawer.,CONTRAST1,<u>,</u>,-123.5,-111.5,-12.0
+215,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",The <u>vase</u> didn't fall off the table.,The vase didn't fall off the <u>table</u>.,CONTRAST1,<u>,</u>,-99.5,-112.0,12.5
+216,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",A <u>red</u> envelope didn't come in the mail.,A red <u>envelope</u> didn't come in the mail.,CONTRAST1,<u>,</u>,-103.0,-115.0,12.0
+217,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Derek's dog didn't bite a <u>squirrel</u>.,Derek's <u>dog</u> didn't bite a squirrel.,CONTRAST1,<u>,</u>,-120.5,-120.0,-0.5
+218,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",The evidence didn't fall down a <u>well</u>.,The <u>evidence</u> didn't fall down a well.,CONTRAST1,<u>,</u>,-130.0,-123.0,-7.0
+219,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",The elevator didn't go <u>up</u>.,The elevator didn't <u>go</u> up.,CONTRAST1,<u>,</u>,-116.5,-104.5,-12.0
+220,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Fred didn't cook with <u>whole</u> milk.,Fred didn't cook with whole <u>milk</u>.,CONTRAST1,<u>,</u>,-131.0,-143.0,12.0
+221,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Peter didn't read the <u>poem</u> that Lisa wrote for him.,Peter didn't read the poem that <u>Lisa</u> wrote for him.,CONTRAST1,<u>,</u>,-133.0,-128.0,-5.0
+222,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Blake didn't <u>throw</u> the football.,Blake didn't throw the <u>football</u>.,CONTRAST1,<u>,</u>,-107.0,-117.5,10.5
+223,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Chad didn't play <u>against</u> Mike.,Chad didn't <u>play</u> against Mike.,CONTRAST1,<u>,</u>,-135.0,-120.5,-14.5
+224,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",The car didn't roll <u>up</u> the hill.,The car didn't roll up the <u>hill</u>.,CONTRAST1,<u>,</u>,-119.5,-119.0,-0.5
+225,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Nancy didn't call Ben's <u>cell</u> phone.,Nancy didn't call <u>Ben's</u> cell phone.,CONTRAST1,<u>,</u>,-133.0,-131.0,-2.0
+226,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",The lead <u>programmer</u> didn't write the manual.,The lead programmer didn't <u>write</u> the manual.,CONTRAST1,<u>,</u>,-109.0,-114.5,5.5
+227,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",The president of <u>France</u> didn't visit.,The <u>president</u> of France didn't visit.,CONTRAST1,<u>,</u>,-114.0,-115.0,1.0
+228,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Randy didn't buy a trinket from <u>eastern</u> Canada.,Randy didn't buy a trinket from eastern <u>Canada</u>.,CONTRAST1,<u>,</u>,-148.0,-145.0,-3.0
+229,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Charlotte wasn't petting <u>her</u> dog.,Charlotte wasn't petting her <u>dog</u>.,CONTRAST1,<u>,</u>,-121.0,-130.0,9.0
+230,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Mike's <u>coach</u> didn't get an invite to the party.,Mike's coach didn't get an <u>invite</u> to the party.,CONTRAST1,<u>,</u>,-118.0,-125.0,7.0
+231,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",The <u>doctor</u> didn't show up to Dawn's house.,The doctor didn't show up to Dawn's <u>house</u>.,CONTRAST1,<u>,</u>,-127.5,-140.0,12.5
+232,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",She likes <u>white</u> wine.,She likes white <u>wine</u>.,CONTRAST2,<u>,</u>,-106.0,-115.0,9.0
+233,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",The <u>dean</u> reviewed your book.,The dean <u>reviewed</u> your book.,CONTRAST2,<u>,</u>,-119.0,-127.5,8.5
+234,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",She read a book about <u>British</u> architecture.,She read a book <u>about</u> British architecture.,CONTRAST2,<u>,</u>,-117.5,-121.0,3.5
+235,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",He <u>leased</u> a car.,He leased a <u>car</u>.,CONTRAST2,<u>,</u>,-95.5,-107.0,11.5
+236,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",She ate <u>most</u> of the cake.,She ate most of the <u>cake</u>.,CONTRAST2,<u>,</u>,-106.5,-113.0,6.5
+237,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",He burned down the <u>general's</u> house.,He burned <u>down</u> the general's house.,CONTRAST2,<u>,</u>,-111.0,-111.0,0.0
+238,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",The <u>accountant</u> stole the files.,The accountant <u>stole</u> the files.,CONTRAST2,<u>,</u>,-106.5,-102.0,-4.5
+239,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",He bought his car in <u>August</u>.,He bought <u>his</u> car in August.,CONTRAST2,<u>,</u>,-113.0,-106.0,-7.0
+240,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",He loaded his truck with <u>wood</u>.,He loaded his <u>truck</u> with wood.,CONTRAST2,<u>,</u>,-116.0,-107.0,-9.0
+241,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",He used his <u>personal</u> laptop to work on his side project.,He used his personal laptop to work on his <u>side</u> project.,CONTRAST2,<u>,</u>,-115.0,-114.0,-1.0
+242,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",She sued the man who <u>stole</u> her car.,She <u>sued</u> the man who stole her car.,CONTRAST2,<u>,</u>,-121.5,-99.0,-22.5
+243,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",The email was sent by the <u>manager</u>.,The <u>email</u> was sent by the manager.,CONTRAST2,<u>,</u>,-96.0,-88.5,-7.5
+244,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",The car crashed into the <u>south</u> side of the mall.,The car crashed into the south side of the <u>mall</u>.,CONTRAST2,<u>,</u>,-119.5,-125.5,6.0
+245,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",Her specialty is <u>math</u>.,Her specialty <u>is</u> math.,CONTRAST2,<u>,</u>,-107.0,-101.0,-6.0
+246,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",They invested in the stock because it was <u>valuable</u>.,They <u>invested</u> in the stock because it was valuable.,CONTRAST2,<u>,</u>,-110.5,-105.0,-5.5
+247,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",She <u>advertised</u> the device.,She advertised the <u>device</u>.,CONTRAST2,<u>,</u>,-108.0,-129.0,21.0
+248,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",They're in the <u>blue</u> ceramic bowl.,They're in the blue <u>ceramic</u> bowl.,CONTRAST2,<u>,</u>,-91.5,-95.0,3.5
+249,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",She's lying on the <u>couch</u>.,She's <u>lying</u> on the couch.,CONTRAST2,<u>,</u>,-107.0,-94.5,-12.5
+250,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",The dog was walked by the <u>neighbors</u>.,The dog was <u>walked</u> by the neighbors.,CONTRAST2,<u>,</u>,-122.0,-114.5,-7.5
+251,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",He's taking a <u>plane</u> from Washington to Boston.,He's taking a plane from <u>Washington</u> to Boston.,CONTRAST2,<u>,</u>,-128.0,-125.5,-2.5
+252,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",The door is still <u>locked</u>.,The <u>door</u> is still locked.,CONTRAST2,<u>,</u>,-104.0,-90.5,-13.5
+253,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",She was with the <u>judge</u>.,She <u>was</u> with the judge.,CONTRAST2,<u>,</u>,-112.5,-95.0,-17.5
+254,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",It's sculpted entirely from <u>marble</u>.,It's sculpted entirely <u>from</u> marble.,CONTRAST2,<u>,</u>,-117.0,-119.0,2.0
+255,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",He's a cellist in a <u>quartet</u>.,He's a <u>cellist</u> in a quartet.,CONTRAST2,<u>,</u>,-111.5,-106.5,-5.0
+256,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",He's the lead <u>baritone</u>.,He's the <u>lead</u> baritone.,CONTRAST2,<u>,</u>,-109.0,-106.0,-3.0
+257,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",She crashed while she was driving to the <u>store</u>.,She crashed while she was <u>driving</u> to the store.,CONTRAST2,<u>,</u>,-120.0,-112.5,-7.5
+258,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",He bought the <u>lemon</u> he'd been looking at.,He bought the lemon he'd been <u>looking</u> at.,CONTRAST2,<u>,</u>,-124.0,-135.0,11.0
+259,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",The <u>junior</u> detective figured it out.,The junior <u>detective</u> figured it out.,CONTRAST2,<u>,</u>,-110.5,-111.5,1.0
+260,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",We planted <u>zucchini</u> in the garden this year.,We planted zucchini in the garden this <u>year</u>.,CONTRAST2,<u>,</u>,-110.5,-118.5,8.0
+261,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",They declared the defendant <u>innocent</u>.,They declared the <u>defendant</u> innocent.,CONTRAST2,<u>,</u>,-108.0,-103.5,-4.5
+262,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",She ate with the mayor of the <u>smallest</u> city in the country.,She <u>ate</u> with the mayor of the smallest city in the country.,CONTRAST2,<u>,</u>,-131.0,-123.5,-7.5
+263,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",The movie was directed by an <u>amateur</u>.,The movie was <u>directed</u> by an amateur.,CONTRAST2,<u>,</u>,-107.0,-112.5,5.5
+264,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",The potatoes are on the <u>kitchen</u> table.,The <u>potatoes</u> are on the kitchen table.,CONTRAST2,<u>,</u>,-109.0,-98.0,-11.0
+265,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",She <u>demanded</u> a promotion.,She demanded a <u>promotion</u>.,CONTRAST2,<u>,</u>,-97.5,-119.0,21.5
+266,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",He was in the <u>audience</u> at the concert.,He was in the audience at the <u>concert</u>.,CONTRAST2,<u>,</u>,-101.5,-105.5,4.0
+267,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",The key at the end of the song was E <u>minor</u>.,The key at the <u>end</u> of the song was E minor.,CONTRAST2,<u>,</u>,-110.5,-119.0,8.5
+268,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",The poem was written in her office <u>this morning</u>.,The poem was written in her <u>office</u> this morning.,CONTRAST2,<u>,</u>,-120.0,-114.5,-5.5
+269,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",He read the first <u>quarter</u> of the book.,He read the <u>first</u> quarter of the book.,CONTRAST2,<u>,</u>,-112.0,-108.0,-4.0
+270,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",He painted this painting with <u>watercolors</u>.,He <u>painted</u> this painting with watercolors.,CONTRAST2,<u>,</u>,-112.0,-105.5,-6.5
+271,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",She attended the wedding <u>reception</u>.,She attended the <u>wedding</u> reception.,CONTRAST2,<u>,</u>,-122.0,-112.0,-10.0
+272,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",The <u>conservative</u> senator voted for the new amendment.,The conservative senator voted for the <u>new</u> amendment.,CONTRAST2,<u>,</u>,-116.0,-137.0,21.0
+273,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",They <u>scrapped</u> the proposed law.,They scrapped the <u>proposed</u> law.,CONTRAST2,<u>,</u>,-101.0,-100.5,-0.5
+274,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",She made the cake from <u>scratch</u>.,She made the <u>cake</u> from scratch.,CONTRAST2,<u>,</u>,-106.5,-109.0,2.5
+275,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",The things that they dropped were <u>leaflets</u>.,The things that they <u>dropped</u> were leaflets.,CONTRAST2,<u>,</u>,-125.5,-130.0,4.5
+276,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",He hosts a <u>daytime</u> program.,He hosts a daytime <u>program</u>.,CONTRAST2,<u>,</u>,-111.5,-127.0,15.5
+277,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",The upcoming season was filmed in <u>June</u>.,The <u>upcoming</u> season was filmed in June.,CONTRAST2,<u>,</u>,-117.0,-115.0,-2.0
+278,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",The <u>actors</u> were sent home for the day.,The actors were sent <u>home</u> for the day.,CONTRAST2,<u>,</u>,-112.0,-117.5,5.5
+279,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",The research was <u>privately</u> funded.,The research was privately <u>funded</u>.,CONTRAST2,<u>,</u>,-99.0,-111.0,12.0
+280,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",His eating the dog food was <u>intentional</u>.,His eating the <u>dog</u> food was intentional.,CONTRAST2,<u>,</u>,-132.0,-125.0,-7.0
+281,"<bos><|turn>system
+You are a helpful assistant.<turn|>
+<|turn>user
+<turn|>
+<|turn>model
+<|channel>thought
+<channel|>",He got that lumber from the woman with the <u>Scottish</u> accent.,He got that lumber from the <u>woman</u> with the Scottish accent.,CONTRAST2,<u>,</u>,-151.0,-150.0,-1.0

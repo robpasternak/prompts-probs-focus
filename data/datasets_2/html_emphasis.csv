@@ -1,0 +1,283 @@
+context,prefix,sentence_good,sentence_bad,category,focus_prefix,focus_suffix
+Mary gave the teacher a book. She did not give the teacher anything else.,,Mary only gave the teacher a <em>book</em>.,Mary only gave the <em>teacher</em> a book.,ONLY,<em>,</em>
+Jack read his daughter an article. He did not read his son an article.,,Jack only read his <em>daughter</em> an article.,Jack only read his daughter an <em>article</em>.,ONLY,<em>,</em>
+Harvey vacuumed the kitchen. He did not mop the kitchen.,,Harvey only <em>vacuumed</em> the kitchen.,Harvey only vacuumed the <em>kitchen</em>.,ONLY,<em>,</em>
+Jenna bought the red car. She did not buy the blue car.,,Jenna only bought the <em>red</em> car.,Jenna only bought the red <em>car</em>.,ONLY,<em>,</em>
+Mike drank a root beer float with the accountant. He did not drink a root beer float with anyone else.,,Mike only drank a root beer float with the <em>accountant</em>.,Mike only drank a <em>root beer float</em> with the accountant.,ONLY,<em>,</em>
+Laura thinks that the doctor cheated on the test. He did not.,,Laura only <em>thinks</em> that the doctor cheated on the test.,Laura only thinks that the <em>doctor</em> cheated on the test.,ONLY,<em>,</em>
+Larry's Pub serves drinks at the bar. They do not serve drinks at other places.,,Larry's Pub only serves drinks at the <em>bar</em>.,Larry's Pub only serves <em>drinks</em> at the bar.,ONLY,<em>,</em>
+Jason mailed his receipts to the headquarters. He did not mail his receipts anywhere else.,,Jason only mailed his receipts to the <em>headquarters</em>.,Jason only mailed <em>his</em> receipts to the headquarters.,ONLY,<em>,</em>
+Sara gave her dog water. She did not give anyone else's dog water.,,Sara only gave <em>her</em> dog water.,Sara only gave her dog <em>water</em>.,ONLY,<em>,</em>
+Lucy swam yesterday. She did not run yesterday.,,Lucy only <em>swam</em> yesterday.,Lucy only swam <em>yesterday</em>.,ONLY,<em>,</em>
+Hannah thinks about food when she's hungry. She does not think about anything else when she's hungry.,,Hannah only thinks about <em>food</em> when she's hungry.,Hannah only thinks about food when she's <em>hungry</em>.,ONLY,<em>,</em>
+Claire plays chess when she's sober. She does not play chess when she's drunk.,,Claire only plays chess when she's <em>sober</em>.,Claire only plays <em>chess</em> when she's sober.,ONLY,<em>,</em>
+Jake visits the east coast when it's sunny. He does not visit the east coast when it's cloudy.,,Jake only visits the east coast when it's <em>sunny</em>.,Jake only visits the <em>east</em> coast when it's sunny.,ONLY,<em>,</em>
+Darius eats peanuts when he's drunk. He does not eat anything else when he's drunk.,,Darius only eats <em>peanuts</em> when he's drunk.,Darius only eats peanuts when he's <em>drunk</em>.,ONLY,<em>,</em>
+Professor Johnson reviewed the valedictorian's book. He did not review anyone else's book.,,Professor Johnson only reviewed the <em>valedictorian's</em> book.,Professor Johnson only reviewed the valedictorian's <em>book</em>.,ONLY,<em>,</em>
+Stacy and Mary toured the big blue house. They did not tour the small blue house.,,Stacy and Mary only toured the <em>big</em> blue house.,Stacy and Mary only toured the big <em>blue</em> house.,ONLY,<em>,</em>
+Linda went to the library during homecoming. She did not go anywhere else during homecoming.,,Linda only went to the <em>library</em> during homecoming.,Linda only went to the library during <em>homecoming</em>.,ONLY,<em>,</em>
+Marlon eats burgers with fries. She does not eat burgers with anything else.,,Marlon only eats burgers with <em>fries</em>.,Marlon only eats <em>burgers</em> with fries.,ONLY,<em>,</em>
+Gary disputed the claim that he was a spy. He did not dispute the claim that his wife was a spy.,,Gary only disputed the claim that <em>he</em> was a spy.,Gary only disputed the claim that he was a <em>spy</em>.,ONLY,<em>,</em>
+Steven studied French literature. He did not study Italian literature.,,Steven only studied <em>French</em> literature.,Steven only studied French <em>literature</em>.,ONLY,<em>,</em>
+The judged fined the athlete. He did not imprison him.,,the judge only <em>fined</em> the athlete.,the judge only fined the <em>athlete</em>.,ONLY,<em>,</em>
+The manager hired the teenager for a two-week trial period. She did not hire him on a permanent basis.,,the manager only hired the teenager for a <em>two-week trial period</em>.,the manager only hired the <em>teenager</em> for a two-week trial period.,ONLY,<em>,</em>
+Gavin visited France. He did not move there.,,Gavin only <em>visited</em> France.,Gavin only visited <em>France</em>.,ONLY,<em>,</em>
+Jacques has a brown belt in karate. He does not have a black belt in karate.,,Jacques only has a <em>brown</em> belt in karate.,Jacques only has a brown belt in <em>karate</em>.,ONLY,<em>,</em>
+Pete bought the Swiss company. He did not buy the French company.,,Pete only bought the <em>Swiss</em> company.,Pete only bought <em>the</em> Swiss company.,ONLY,<em>,</em>
+Janet considered buying a dress. She did not buy one.,,Janet only <em>considered</em> buying a dress.,Janet only considered buying a <em>dress</em>.,ONLY,<em>,</em>
+Hilde said that Dara lived in Italy. She did not say which city she lived in.,,Hilde only said that Dara lived in <em>Italy</em>.,Hilde only said that <em>Dara</em> lived in Italy.,ONLY,<em>,</em>
+Charles got a promotion. He did not get a raise.,,Charles only got a <em>promotion</em>.,Charles only <em>got</em> a promotion.,ONLY,<em>,</em>
+Zach makes chairs for churches. He does not make chairs for anyone else.,,Zach only makes chairs for <em>churches</em>.,Zach only makes <em>chairs</em> for churches.,ONLY,<em>,</em>
+Jarvis knows the Italian student. He does not know the French student.,,Jarvis only knows the <em>Italian</em> student.,Jarvis only knows the Italian <em>student</em>.,ONLY,<em>,</em>
+Barbara took three brownies. She did not take any more brownies.,,Barbara only took <em>three</em> brownies.,Barbara only took three <em>brownies</em>.,ONLY,<em>,</em>
+Zoe saw hummingbirds in May this year. She did not see them in June.,,Zoe only saw hummingbirds in <em>May</em> this year.,Zoe only saw <em>hummingbirds</em> in May this year.,ONLY,<em>,</em>
+Paul came to Lena's luncheon. He did not come to her cocktail party.,,Paul only came to Lena's <em>luncheon</em>.,Paul only came to <em>Lena's</em> luncheon.,ONLY,<em>,</em>
+Rob wants the mayor of New York to come to the party. He does not want any other city's mayor to come to the party.,,Rob only wants the mayor of <em>New York</em> to come to the party.,Rob only wants the <em>mayor</em> of New York to come to the party.,ONLY,<em>,</em>
+Dave looks at Greek art during the summer. He does not look at Greek art during any other season.,,Dave only looks at Greek art during the <em>summer</em>.,Dave only looks at <em>Greek</em> art during the summer.,ONLY,<em>,</em>
+Jackson used the spade that Mary gave him. He did not use the spade that Steve gave him.,,Jackson has only used the spade that <em>Mary</em> gave him.,Jackson has only used the <em>spade</em> that Mary gave him.,ONLY,<em>,</em>
+Professor Johnson taught the students about the French Revolution. He did not teach the students about the American Revolution.,,Professor Johnson only taught the students about the <em>French Revolution</em>.,Professor Johnson only taught the <em>students</em> about the French Revolution.,ONLY,<em>,</em>
+Albert works at the grocery store on Wednesdays. He does not work at the grocery store on any other day.,,Albert only works at the grocery store on <em>Wednesdays</em>.,Albert only works at the <em>grocery store</em> on Wednesdays.,ONLY,<em>,</em>
+Alfonso calls his boss when he is sick. Otherwise he does not call his boss.,,Alfonso only calls his boss <em>when he is sick</em>.,Alfonso only calls <em>his boss</em> when he is sick.,ONLY,<em>,</em>
+Remy has tried the pasta that Katherine made for him. He has not tried the ice cream that she made for him.,,Remy has only tried the <em>pasta</em> that Katherine made for him.,Remy has only tried the pasta that <em>Katherine</em> made for him.,ONLY,<em>,</em>
+Vicky asked the teacher about the American Revolution. She did not ask the teacher about the French Revolution.,,Vicky only asked the teacher about the <em>American</em> Revolution.,Vicky only asked the teacher about the <em>American Revolution</em>.,ONLY,<em>,</em>
+Marv eats pasta with a fork. He does not use any other utensils.,,Marv only eats pasta with a <em>fork</em>.,Marv only eats <em>pasta</em> with a fork.,ONLY,<em>,</em>
+Barry needs to buy books for Darlene. He does not need to buy her anything else.,,Barry only needs to buy <em>books</em> for Darlene.,Barry only needs to buy books for <em>Darlene</em>.,ONLY,<em>,</em>
+Selena feels like Derek is annoyed with her. He is not.,,Selena only <em>feels</em> like Derek is annoyed with her.,Selena only feels like <em>Derek</em> is annoyed with her.,ONLY,<em>,</em>
+Sparky becomes aggressive toward other dogs in summer. During other seasons he does not become aggressive.,,Sparky only becomes aggressive toward other dogs <em>in summer</em>.,Sparky only becomes aggressive toward <em>other dogs</em> in summer.,ONLY,<em>,</em>
+Bart put fruit in the fridge. He did not put anything else in the fridge.,,Bart only put <em>fruit</em> in the fridge.,Bart only put fruit in the <em>fridge</em>.,ONLY,<em>,</em>
+Kurt meant to hurt the governor. He did not mean to kill him.,,Kurt only meant to <em>hurt</em> the governor.,Kurt only meant to hurt the <em>governor</em>.,ONLY,<em>,</em>
+Marie kept Lisa's needle. She did not keep her thimble.,,Marie only kept Lisa's <em>needle</em>.,Marie only kept <em>Lisa's</em> needle.,ONLY,<em>,</em>
+Nancy lets Andy dance in the basement. She does not let him dance anywhere else.,,Nancy only lets Andy dance <em>in the basement</em>.,Nancy only lets Andy <em>dance</em> in the basement.,ONLY,<em>,</em>
+Victor helped Fred pack. He did not help him with anything else.,,Victor only helped Fred <em>pack</em>.,Victor only helped <em>Fred</em> pack.,ONLY,<em>,</em>
+Peter showed Rebecca the photo album. He did not let her keep it.,,Peter only <em>showed</em> Rebecca the photo album.,Peter only showed Rebecca the <em>photo album</em>.,ONLY,<em>,</em>
+Linda heard the robin. She did not hear the crow.,,Linda only heard the <em>robin</em>.,Linda only <em>heard</em> the robin.,ONLY,<em>,</em>
+Who did Phil give a book to?,,Phil gave a book to the <em>senator</em>.,Phil gave a <em>book</em> to the senator.,QUESTION_ANSWER,<em>,</em>
+"Did David meet the president of Hungary, or the prime minister?",,David met the <em>president</em> of Hungary.,David met the president of <em>Hungary</em>.,QUESTION_ANSWER,<em>,</em>
+Whose credit card is this?,,that's the <em>manager's</em> credit card.,<em>that's</em> the manager's credit card.,QUESTION_ANSWER,<em>,</em>
+Who did Harold think would visit the accountant?,,Harold thought that the <em>lawyer</em> would visit the accountant.,Harold thought that the lawyer would visit the <em>accountant</em>.,QUESTION_ANSWER,<em>,</em>
+Who won the Most Valuable Player award last year?,,the Most Valuable Player award was given to the <em>quarterback</em>.,the Most Valuable Player award was <em>given</em> to the quarterback.,QUESTION_ANSWER,<em>,</em>
+Who is the richest person in the city?,,the richest person in the city is the <em>mayor</em>.,the richest person in the <em>city</em> is the mayor.,QUESTION_ANSWER,<em>,</em>
+Which region did the banker come from who denied the waiter a loan?,,the banker from the <em>eastern</em> region denied the waiter a loan.,the banker from the eastern region denied the <em>waiter</em> a loan.,QUESTION_ANSWER,<em>,</em>
+Who does the analyst think will win the championship?,,the analyst thinks the <em>underdogs</em> will win the championship.,the <em>analyst</em> thinks the underdogs will win the championship.,QUESTION_ANSWER,<em>,</em>
+Where did the teacher's wife move to?,,the teacher's wife moved to the <em>city</em>.,the <em>teacher's</em> wife moved to the city.,QUESTION_ANSWER,<em>,</em>
+How many books were on the shelf?,,there were <em>four</em> books on the shelf.,there were four books on the <em>shelf</em>.,QUESTION_ANSWER,<em>,</em>
+"Is Cassandra allowed to have both cake and ice cream, or does she have to choose one?",,Cassandra can have cake <em>and</em> ice cream.,Cassandra can have <em>cake</em> and ice cream.,QUESTION_ANSWER,<em>,</em>
+Did the senator vote in favor of the housing bill?,,the senator voted <em>against</em> the housing bill.,the senator voted against the housing <em>bill</em>.,QUESTION_ANSWER,<em>,</em>
+Did the secretary buy all of the cherries?,,the secretary bought <em>some</em> of the cherries.,the <em>secretary</em> bought some of the cherries.,QUESTION_ANSWER,<em>,</em>
+Who locked the door?,,the door was locked by the <em>policeman</em>.,the door <em>was</em> locked by the policeman.,QUESTION_ANSWER,<em>,</em>
+"The teacher claimed that several students, including the valedictorian, were communists. Which claim was most upsetting to Becky?",,the claim that the <em>valedictorian</em> was a communist upset Becky the most.,the claim that the valedictorian was a <em>communist</em> upset Becky the most.,QUESTION_ANSWER,<em>,</em>
+Did Jack rent or buy the movie?,,Jack <em>rented</em> the movie.,Jack rented the <em>movie</em>.,QUESTION_ANSWER,<em>,</em>
+Which cake is Dirk's favorite?,,Dirk's favorite cake is <em>cheesecake</em>.,Dirk's favorite cake <em>is</em> cheesecake.,QUESTION_ANSWER,<em>,</em>
+How long did Jessica run for?,,Jessica ran for <em>four hours</em>.,Jessica <em>ran</em> for four hours.,QUESTION_ANSWER,<em>,</em>
+Did Gary place the bowl above or below the table?,,Gary placed the bowl <em>below</em> the table.,Gary placed the <em>bowl</em> below the table.,QUESTION_ANSWER,<em>,</em>
+Did the leftovers get eaten by the dog or the cat?,,the <em>cat</em> ate the leftovers.,the cat ate the <em>leftovers</em>.,QUESTION_ANSWER,<em>,</em>
+Which side of the house is the garage on?,,the garage is on the <em>left</em> side of the house.,the <em>garage</em> is on the left side of the house.,QUESTION_ANSWER,<em>,</em>
+Who received the key to the city?,,the mayor gave the key to the city to his <em>secretary</em>.,the mayor gave the <em>key</em> to the city to his secretary.,QUESTION_ANSWER,<em>,</em>
+Which door is locked?,,the <em>middle</em> door is locked.,the middle door is <em>locked</em>.,QUESTION_ANSWER,<em>,</em>
+Who ate the most blackberries?,,the <em>professor</em> ate the most blackberries.,the professor ate the <em>most</em> blackberries.,QUESTION_ANSWER,<em>,</em>
+How did Louise destroy the birdhouse?,,Louise destroyed the birdhouse with a <em>hammer</em>.,Louise destroyed the <em>birdhouse</em> with a hammer.,QUESTION_ANSWER,<em>,</em>
+When will the train leave for Boston?,,the train will leave <em>tomorrow</em> for Boston.,the train will leave tomorrow for <em>Boston</em>.,QUESTION_ANSWER,<em>,</em>
+Where did Jackie's favorite book land?,,Jackie's favorite book landed <em>on my desk</em>.,Jackie's <em>favorite</em> book landed on my desk.,QUESTION_ANSWER,<em>,</em>
+When did the plate break?,,the plate broke <em>yesterday</em>.,the plate <em>broke</em> yesterday.,QUESTION_ANSWER,<em>,</em>
+What did Kathy do with the orange?,,Kathy <em>ate</em> the orange.,Kathy ate the <em>orange</em>.,QUESTION_ANSWER,<em>,</em>
+Jesse sent pictures of someone to Dave. Who were the pictures of?,,Jesse sent pictures of <em>herself</em> to Dave.,Jesse sent <em>pictures</em> of herself to Dave.,QUESTION_ANSWER,<em>,</em>
+Whose car did Barry steal on Wednesday?,,"on Wednesday, Barry stole the <em>chaplain's</em> car.","on <em>Wednesday</em>, Barry stole the chaplain's car.",QUESTION_ANSWER,<em>,</em>
+How was the party?,,the party was <em>fun</em>.,the <em>party</em> was fun.,QUESTION_ANSWER,<em>,</em>
+Who cooked dinner last night?,,last night's dinner was cooked by the <em>chef</em>.,last night's dinner was <em>cooked</em> by the chef.,QUESTION_ANSWER,<em>,</em>
+What did the machinist buy at the store?,,the machinist bought <em>nails</em> at the store.,the machinist <em>bought</em> nails at the store.,QUESTION_ANSWER,<em>,</em>
+What fell off the shelf?,,a <em>dictionary</em> fell off the shelf.,a dictionary fell <em>off</em> the shelf.,QUESTION_ANSWER,<em>,</em>
+Where did you buy this piano?,,this piano was purchased at the <em>mall</em>.,this <em>piano</em> was purchased at the mall.,QUESTION_ANSWER,<em>,</em>
+How many donuts did Claire eat during the contest?,,"during the contest, Claire ate <em>six</em> donuts.","during the contest, Claire ate six <em>donuts</em>.",QUESTION_ANSWER,<em>,</em>
+How long has the ketchup been in the fridge?,,the ketchup has spent <em>two weeks</em> in the fridge.,the <em>ketchup</em> has spent two weeks in the fridge.,QUESTION_ANSWER,<em>,</em>
+Whose foot did the manager step on during karaoke?,,"during karaoke, the manager accidentally stepped on the <em>secretary's</em> foot.","during karaoke, the <em>manager</em> accidentally stepped on the secretary's foot.",QUESTION_ANSWER,<em>,</em>
+Which month is Danielle's birthday?,,Danielle was born in <em>November</em>.,Danielle was <em>born</em> in November.,QUESTION_ANSWER,<em>,</em>
+What level did Ronnie reach in the video game he was playing?,,Ronnie reached level <em>eight</em>.,Ronnie reached <em>level</em> eight.,QUESTION_ANSWER,<em>,</em>
+Which of the big houses got the most bids?,,the big <em>blue</em> house got the most bids.,the <em>big</em> blue house got the most bids.,QUESTION_ANSWER,<em>,</em>
+Several people came in and bought bowls yesterday. Which one came back for a refund?,,the customer who bought the <em>red</em> bowl came back for a refund yesterday.,the customer who bought the red bowl came <em>back</em> for a refund yesterday.,QUESTION_ANSWER,<em>,</em>
+How did Joanna feel about the president's memoir?,,Joanna <em>loved</em> the president's memoir.,Joanna loved the <em>president's</em> memoir.,QUESTION_ANSWER,<em>,</em>
+Which table did the students break during the party?,,the <em>wooden</em> table was broken during the party.,the wooden table was broken during the <em>party</em>.,QUESTION_ANSWER,<em>,</em>
+Who ate the last piece of cake?,,the last piece of cake was eaten by the <em>boss</em>.,the <em>last</em> piece of cake was eaten by the boss.,QUESTION_ANSWER,<em>,</em>
+When did the professor publish his latest article?,,the professor's latest article was published <em>yesterday</em>.,the professor's latest article was <em>published</em> yesterday.,QUESTION_ANSWER,<em>,</em>
+What did Gary use to transport his lumber?,,Gary transported his lumber in his <em>truck</em>.,Gary <em>transported</em> his lumber in his truck.,QUESTION_ANSWER,<em>,</em>
+What did the workers load onto the truck?,,the workers loaded the truck with <em>furniture</em>.,the <em>workers</em> loaded the truck with furniture.,QUESTION_ANSWER,<em>,</em>
+Which of Jacob's parents signed his release form?,,Jacob's <em>mother</em> signed his release form.,Jacob's mother signed <em>his</em> release form.,QUESTION_ANSWER,<em>,</em>
+,"the professor went to Milan,","and the <em>student</em> went to Milan, too.","and the student <em>went</em> to Milan, too.",TOO,<em>,</em>
+,"the janitor ate dinner yesterday,","and he ate <em>dessert</em> yesterday, too.","and he ate dessert <em>yesterday</em>, too.",TOO,<em>,</em>
+,"the valedictorian gave a book to the principal,","and she gave a book to the <em>dean</em>, too.","and she gave a <em>book</em> to the dean, too.",TOO,<em>,</em>
+,"Arnold was upset by the claim that the grandmaster was a cheater,","and he was upset by the claim that the <em>novice</em> was a cheater, too.","and he was upset by the claim that the novice was a <em>cheater</em>, too.",TOO,<em>,</em>
+,"the salesman brought a laptop from home,","and he brought a laptop from <em>work</em>, too.","and he <em>brought</em> a laptop from work, too.",TOO,<em>,</em>
+,"the player tossed a red ball,","and she <em>rolled</em> a red ball, too.","and she rolled a <em>red</em> ball, too.",TOO,<em>,</em>
+,"the house has a balcony,","and it has a <em>porch</em>, too.","and it <em>has</em> a porch, too.",TOO,<em>,</em>
+,"the blue car broke down,","and the <em>red</em> car broke down, too.","and the red <em>car</em> broke down, too.",TOO,<em>,</em>
+,"the piano from Germany is out of tune,","and the piano from <em>Japan</em> is out of tune, too.","and the piano from Japan is <em>out</em> of tune, too.",TOO,<em>,</em>
+,"the dog that drank the milk got sick,","and the <em>cat</em> that drank the milk got sick, too.","and the cat that drank the <em>milk</em> got sick, too.",TOO,<em>,</em>
+,"the contestant who ate thirty hot dogs won money,","and the contestant who ate <em>twenty</em> hot dogs won money, too.","and the contestant who ate twenty hot dogs <em>won</em> money, too.",TOO,<em>,</em>
+,"the red house has a broken window,","and the <em>blue</em> house has a broken window, too.","and the blue house has a <em>broken</em> window, too.",TOO,<em>,</em>
+,"a bonus was given to the senior engineer,","and the <em>junior</em> engineer got a bonus, too.","and the junior engineer got a <em>bonus</em>, too.",TOO,<em>,</em>
+,"the teacher found the principal's story unlikely,","and he doubted the <em>dean's</em> story, too.","and he doubted the dean's <em>story</em>, too.",TOO,<em>,</em>
+,"the baker wondered who ate the cookie,","and he wondered who ate the <em>biscuit</em>, too.","and <em>he</em> wondered who ate the biscuit, too.",TOO,<em>,</em>
+,"the accountant dropped his fork,","and the <em>lawyer</em> dropped his fork, too.","and <em>the</em> lawyer dropped his fork, too.",TOO,<em>,</em>
+,"Rebecca drinks protein shakes after lunch on Wednesdays,","and she drinks protein shakes after <em>dinner</em> on Wednesdays, too.","and she drinks protein shakes after dinner on <em>Wednesdays</em>, too.",TOO,<em>,</em>
+,"the wood house collapsed,","and the <em>stone</em> house fell apart, too.","and the stone house <em>fell apart</em>, too.",TOO,<em>,</em>
+,"Louise ate the pastry with sesame seeds,","and she ate the pastry that had <em>poppy</em> seeds, too.","and she ate the pastry that <em>had</em> poppy seeds, too.",TOO,<em>,</em>
+,"the dog fetched a stick,","and she fetched a <em>ball</em>, too.","and she <em>fetched</em> a ball, too.",TOO,<em>,</em>
+,"the cake had strawberries in it,","and there were <em>raspberries</em> in it, too.","and there were raspberries in <em>it</em>, too.",TOO,<em>,</em>
+,"Charlie got a zero in math,","and he failed <em>physics</em>, too.","and he <em>failed</em> physics, too.",TOO,<em>,</em>
+,"Peter told his friends what made him happy,","and he said what made him <em>sad</em>, too.","and he <em>said</em> what made him sad, too.",TOO,<em>,</em>
+,"Peter managed to pet the dog,","and he succeeded in <em>hugging</em> the dog, too.","and he succeeded in hugging the <em>dog</em>, too.",TOO,<em>,</em>
+,"Ulysses let Mindy cut his hair,","and he let her <em>dye</em> his hair, too.","and he <em>let</em> her dye his hair, too.",TOO,<em>,</em>
+,"Frank forgave Lisa for oversleeping,","and he forgave Lisa for <em>underpreparing</em>, too.","and he forgave <em>Lisa</em> for underpreparing, too.",TOO,<em>,</em>
+,"Percy warned Sarah that the professor had betrayed her,","and he warned her about the <em>dean's</em> betrayal, too.","and he warned her about the dean's <em>betrayal</em>, too.",TOO,<em>,</em>
+,"the mayor and her assistant exchanged text messages,","and they talked on the <em>phone</em>, too.","and <em>they</em> talked on the phone, too.",TOO,<em>,</em>
+,"the arsonist destroyed the natural history museum,","and the <em>space</em> museum was destroyed, too.","and the space <em>museum</em> was destroyed, too.",TOO,<em>,</em>
+,"the artist did a painting of the president,","and she did a <em>drawing</em> of the president, too.","and she did a drawing of the <em>president</em>, too.",TOO,<em>,</em>
+,"the thief stole the painting of Jerry's mother's dog,","and the painting of Jerry's <em>brother's</em> dog was gone, too.","and the <em>painting</em> of Jerry's brother's dog was gone, too.",TOO,<em>,</em>
+,"Betsy reviewed a paper on Soviet economics,","and she reviewed a paper about <em>American</em> economics, too.","and she reviewed a paper <em>about</em> American economics, too.",TOO,<em>,</em>
+,"the president invited the prime minister of a rich country,","and he sent an invitation to the prime minister of a <em>poor</em> country, too.","and he sent an <em>invitation</em> to the prime minister of a poor country, too.",TOO,<em>,</em>
+,"Pedro regrets accusing his friend,","and he has regrets about pointing the finger at his <em>classmate</em>, too.","and he has regrets about pointing the <em>finger</em> at his classmate, too.",TOO,<em>,</em>
+,"the sergeant scolded David,","and David was reprimanded by the <em>corporal</em>, too.","and <em>David</em> was reprimanded by the corporal, too.",TOO,<em>,</em>
+,"Jake got a debit card,","and a <em>credit</em> card came in the mail, too.","and a credit card <em>came</em> in the mail, too.",TOO,<em>,</em>
+,"Shohei pitched last night,","and he <em>batted</em> last night, too.","and he batted last <em>night</em>, too.",TOO,<em>,</em>
+,"the architect likes lemon ice cream,","and he likes <em>mango</em> ice cream, too.","and he <em>likes</em> mango ice cream, too.",TOO,<em>,</em>
+,"athletes should lift weights on training days,","and they should <em>run</em> on training days, too.","and they should run on <em>training</em> days, too.",TOO,<em>,</em>
+,"the general assessed the enemy's army,","and he studied their <em>naval</em> capabilities, too.","and he studied their naval <em>capabilities</em>, too.",TOO,<em>,</em>
+,"the auditor likes ice cream with chocolate chips,","and she likes ice cream with chocolate <em>sprinkles</em>, too.","and she likes ice cream with <em>chocolate</em> sprinkles, too.",TOO,<em>,</em>
+,"the judge thinks the defendant is guilty,","and the <em>jury</em> considers him guilty, too.","and the jury considers him <em>guilty</em>, too.",TOO,<em>,</em>
+,"Dora bought a baseball card that Manny liked,","and she bought one that <em>Vera</em> liked, too.","and she bought <em>one</em> that Vera liked, too.",TOO,<em>,</em>
+,"the applicant studied philosophy at Harvard,","and at <em>Yale</em> he studied philosophy, too.","and at Yale he <em>studied</em> philosophy, too.",TOO,<em>,</em>
+,"Julius vacationed in Italy last year,","and he <em>worked</em> in Italy last year, too.","and he worked in Italy <em>last</em> year, too.",TOO,<em>,</em>
+,"Jacques reads French-language novels,","and he reads novels written in <em>English</em>, too.","and he reads novels <em>written</em> in English, too.",TOO,<em>,</em>
+,"the principal read the names of the students who passed the test,","and she read the names of the students who did <em>not</em> pass the test, too.","and she read the names of the students who did not <em>pass</em> the test, too.",TOO,<em>,</em>
+,"Selena dated men with tattoos on their arms,","and she dated men with tattoos on their <em>chests</em>, too.","and she <em>dated</em> men with tattoos on their chests, too.",TOO,<em>,</em>
+,"the traditional French chef used olive oil,","and the <em>modern</em> French chef used olive oil, too.","and the modern <em>French</em> chef used olive oil, too.",TOO,<em>,</em>
+,"Bert bought a sleek white sports car,","and he bought a sleek <em>black</em> sports car, too.","and he bought a sleek black <em>sports</em> car, too.",TOO,<em>,</em>
+"When Nina buys mint ice cream, it's on a Wednesday every time.",,Nina always buys mint ice cream on <em>Wednesdays</em>.,Nina always buys <em>mint</em> ice cream on Wednesdays.,ADV_QUANT,<em>,</em>
+"When David drinks whiskey, he's alone every time.",,David always drinks whiskey when he's <em>alone</em>.,David always drinks <em>whiskey</em> when he's alone.,ADV_QUANT,<em>,</em>
+"When someone brings in the newspaper on a weekday, it's the doctor every time.",,the <em>doctor</em> always brings in the newspaper on weekdays.,the doctor always brings in the newspaper on <em>weekdays</em>.,ADV_QUANT,<em>,</em>
+"When Marie eats pancakes, it's for breakfast every time.",,Marie always eats pancakes for <em>breakfast</em>.,Marie always eats <em>pancakes</em> for breakfast.,ADV_QUANT,<em>,</em>
+"When Joseph rides a bicycle in front of guests, it's his red bicycle every time.",,Joseph always rides his <em>red</em> bicycle in front of guests.,Joseph always rides his red bicycle in front of <em>guests</em>.,ADV_QUANT,<em>,</em>
+"When Gloria drives a sports car, it's a rental every time.",,Gloria always <em>rents</em> sports cars.,Gloria always rents <em>sports</em> cars.,ADV_QUANT,<em>,</em>
+"When Corey eats a sandwich, it's for lunch every time.",,Corey always eats <em>sandwiches</em> for lunch.,Corey always eats sandwiches for <em>lunch</em>.,ADV_QUANT,<em>,</em>
+"When someone prosecutes a murder trial, it's Melissa every time.",,<em>Melissa</em> always prosecutes murder trials.,Melissa always prosecutes <em>murder</em> trials.,ADV_QUANT,<em>,</em>
+"When Mark plays chess, it's on the computer every time.",,Mark always plays chess on the <em>computer</em>.,Mark always plays <em>chess</em> on the computer.,ADV_QUANT,<em>,</em>
+"When Chester eats wings, it's with fries every time.",,Chester always eats wings with <em>fries</em>.,Chester always eats <em>wings</em> with fries.,ADV_QUANT,<em>,</em>
+"When Luke buys things at the small grocery store, it's meat most of the time.",,Luke usually buys <em>meat</em> at the small grocery store.,Luke usually buys meat at the <em>small</em> grocery store.,ADV_QUANT,<em>,</em>
+"When Betsy drives fast, it's on the highway most of the time.",,Betsy usually drives fast on the <em>highway</em>.,Betsy usually drives <em>fast</em> on the highway.,ADV_QUANT,<em>,</em>
+"When Bradley is rude, it's to telemarketers most of the time.",,Bradley is usually rude to <em>telemarketers</em>.,Bradley is usually <em>rude</em> to telemarketers.,ADV_QUANT,<em>,</em>
+"When Louise is emailing, she uses her phone most of the time.",,Louise usually uses her <em>phone</em> for emails.,Louise usually uses her phone for <em>emails</em>.,ADV_QUANT,<em>,</em>
+"When Fred plays guitar, it's in a trio most of the time.",,Fred usually plays guitar in a <em>trio</em>.,Fred usually plays <em>guitar</em> in a trio.,ADV_QUANT,<em>,</em>
+"When Natalie skis, it's in winter most of the time.",,Natalie usually skis in <em>winter</em>.,Natalie usually <em>skis</em> in winter.,ADV_QUANT,<em>,</em>
+"When a secretary handles calls on Mondays, it's the junior secretary most of the time.",,the <em>junior</em> secretary usually handles calls on Mondays.,the junior secretary usually handles calls on <em>Mondays</em>.,ADV_QUANT,<em>,</em>
+"When Terry greets his friends, he hugs them most of the time.",,Terry usually <em>hugs</em> his friends.,Terry usually hugs his <em>friends</em>.,ADV_QUANT,<em>,</em>
+"When someone pays for dinner, it's the boss most of the time.",,the <em>boss</em> usually pays for dinner.,the boss usually pays for <em>dinner</em>.,ADV_QUANT,<em>,</em>
+"When Dale loses, it's to powerlifters most of the time.",,Dale usually loses to <em>powerlifters</em>.,Dale usually <em>loses</em> to powerlifters.,ADV_QUANT,<em>,</em>
+"When Bob eats meat for dinner, it's lean meat most of the time.",,Bob mostly eats <em>lean</em> meat for dinner.,Bob mostly eats lean meat for <em>dinner</em>.,ADV_QUANT,<em>,</em>
+"When Dolly buys rugs, it's with cash most of the time.",,Dolly mostly uses <em>cash</em> to buy rugs.,Dolly mostly uses cash to buy <em>rugs</em>.,ADV_QUANT,<em>,</em>
+"When Gavin reads newspapers, it's in his study most of the time.",,Gavin mostly reads newspapers in his <em>study</em>.,Gavin mostly reads <em>newspapers</em> in his study.,ADV_QUANT,<em>,</em>
+"When Jerry writes in June, it's about baseball most of the time.",,Jerry mostly writes about <em>baseball</em> in June.,Jerry mostly writes about baseball in <em>June</em>.,ADV_QUANT,<em>,</em>
+"When the software engineer codes, it's in the afternoon most of the time.",,the software engineer mostly codes in the <em>afternoon</em>.,the software engineer mostly <em>codes</em> in the afternoon.,ADV_QUANT,<em>,</em>
+"When Vera has meetings, she's on the east coast most of the time.",,Vera mostly has meetings when she's on the <em>east</em> coast.,Vera mostly has <em>meetings</em> when she's on the east coast.,ADV_QUANT,<em>,</em>
+"When Warren invests in an American company, it's a tech company most of the time.",,Warren mostly invests in American <em>tech</em> companies.,Warren mostly invests in <em>American</em> tech companies.,ADV_QUANT,<em>,</em>
+"When someone takes care of the cats, it's the parents most of the time.",,the <em>parents</em> mostly take care of the cats.,the parents mostly take care of the <em>cats</em>.,ADV_QUANT,<em>,</em>
+"When Bill transports furniture, he uses his truck most of the time.",,Bill mostly uses his <em>truck</em> to transport furniture.,Bill mostly uses his truck to transport <em>furniture</em>.,ADV_QUANT,<em>,</em>
+"When Paul has a chess lesson, he works on positional chess most of the time.",,Paul mostly works on <em>positional</em> chess during his lessons.,Paul mostly works on positional chess during his <em>lessons</em>.,ADV_QUANT,<em>,</em>
+"When someone leads the morning meeting on Mondays, it's the lawyer most of the time.",,the <em>lawyer</em> typically leads the morning meeting on Mondays.,the lawyer typically leads the morning meeting on <em>Mondays</em>.,ADV_QUANT,<em>,</em>
+"When Bryan eats during the weekly meeting, it's his lunch most of the time.",,Bryan typically eats <em>lunch</em> during the weekly meeting.,Bryan typically eats lunch during the <em>weekly meeting</em>.,ADV_QUANT,<em>,</em>
+"When Lisa drinks beer, she's at a bar most of the time.",,Lisa typically drinks beer at a <em>bar</em>.,Lisa typically drinks <em>beer</em> at a bar.,ADV_QUANT,<em>,</em>
+"When Helga eats sushi, she's in Japan most of the time.",,Helga typically eats sushi in <em>Japan</em>.,Helga typically eats <em>sushi</em> in Japan.,ADV_QUANT,<em>,</em>
+"When Sparky barks, it's at children most of the time.",,Sparky typically barks at <em>children</em>.,Sparky typically <em>barks</em> at children.,ADV_QUANT,<em>,</em>
+"When Jessica exercises in the morning, she runs most of the time.",,Jessica typically <em>runs</em> in the morning.,Jessica typically runs in the <em>morning</em>.,ADV_QUANT,<em>,</em>
+"When Randy skips a meeting, it's the morning meeting most of the time.",,Randy typically skips <em>morning</em> meetings.,Randy typically <em>skips</em> morning meetings.,ADV_QUANT,<em>,</em>
+"When the assistant teaches, he teaches from home most of the time.",,the assistant typically teaches from <em>home</em>.,the assistant typically <em>teaches</em> from home.,ADV_QUANT,<em>,</em>
+"When Franny drinks wine, it's with dinner most of the time.",,Franny typically drinks wine with <em>dinner</em>.,Franny typically drinks <em>wine</em> with dinner.,ADV_QUANT,<em>,</em>
+"When Linda defeats another player, it's a young player most of the time.",,Lindsay typically defeats <em>young</em> players.,Lindsay typically <em>defeats</em> young players.,ADV_QUANT,<em>,</em>
+Sarah was considering buying a green shirt. She ended up buying a red one instead.,,Sarah didn't buy the <em>green</em> shirt.,Sarah didn't buy the green <em>shirt</em>.,CONTRAST1,<em>,</em>
+Dave was considering buying a blue car. He bought a blue motorcycle instead.,,Dave didn't buy the blue <em>car</em>.,Dave didn't buy the <em>blue</em> car.,CONTRAST1,<em>,</em>
+Professor Johnson was considering hiring an Italian student. He hired a French student instead.,,Professor Johnson didn't hire the student from <em>Italy</em>.,Professor Johnson didn't hire the <em>student</em> from Italy.,CONTRAST1,<em>,</em>
+The math professor was hoping to win the teaching prize. The physics professor won it instead.,,the <em>math</em> professor didn't win the teaching prize.,the math professor didn't win the <em>teaching</em> prize.,CONTRAST1,<em>,</em>
+Lisa wanted to drive the car her mother gave her. Instead she had to drive the car her father gave her.,,Lisa didn't drive the car her <em>mother</em> gave her.,<em>Lisa</em> didn't drive the car her mother gave her.,CONTRAST1,<em>,</em>
+"Betsy wanted to ride her bike across the country. Unfortunately, she had to take a train instead.",,Betsy didn't <em>bike</em> across the country.,Betsy didn't bike across the <em>country</em>.,CONTRAST1,<em>,</em>
+The teacher was hoping to get a raise this year. The dean got a raise instead.,,the <em>teacher</em> didn't get a raise this year.,the teacher didn't get a raise this <em>year</em>.,CONTRAST1,<em>,</em>
+Dr. Jones was hoping to cure the terrible disease. But he accidentally made it worse.,,Dr. Jones didn't <em>cure</em> the terrible disease.,Dr. Jones didn't cure the <em>terrible</em> disease.,CONTRAST1,<em>,</em>
+Fiona planned to read the Bible last year. She read it this year instead.,,Fiona didn't read the Bible <em>last</em> year.,Fiona didn't <em>read</em> the Bible last year.,CONTRAST1,<em>,</em>
+Silvia's mother asked her to read the newspaper last night. She read a comic instead.,,Silvia didn't read the <em>newspaper</em> last night.,<em>Silvia</em> didn't read the newspaper last night.,CONTRAST1,<em>,</em>
+Jake wanted to walk the dog this morning. Gary did instead.,,<em>Jake</em> didn't walk the dog this morning.,Jake didn't walk the <em>dog</em> this morning.,CONTRAST1,<em>,</em>
+Fred intended to compose a symphony. He composed a piano concerto instead.,,Fred didn't compose a <em>symphony</em>.,Fred didn't <em>compose</em> a symphony.,CONTRAST1,<em>,</em>
+Pierre wanted to have three children. He had two instead.,,Pierre didn't have <em>three</em> children.,Pierre didn't have three <em>children</em>.,CONTRAST1,<em>,</em>
+Vera was considering eating a chocolate muffin. She ate a blueberry muffin instead.,,Vera didn't eat a <em>chocolate</em> muffin.,Vera didn't eat a chocolate <em>muffin</em>.,CONTRAST1,<em>,</em>
+Arnold was considering paying for his meal with five dollar bills. He used tens instead.,,Arnold didn't pay with <em>five</em> dollar bills.,Arnold didn't pay with five <em>dollar</em> bills.,CONTRAST1,<em>,</em>
+Ann thought someone would steal her book of jokes. But it was her book of song lyrics that was stolen instead.,,the book of <em>jokes</em> wasn't stolen.,the <em>book</em> of jokes wasn't stolen.,CONTRAST1,<em>,</em>
+Bill thought that the talented student's diary was lost in the fire. But it turns out to have been the mediocre student's diary.,,the <em>talented</em> student's diary wasn't lost in the fire.,the talented student's diary wasn't lost in the <em>fire</em>.,CONTRAST1,<em>,</em>
+"Rob wanted to buy Swiss jewelry, but he bought Swiss chocolate instead.",,Rob didn't buy Swiss <em>jewelry</em>.,Rob didn't buy <em>Swiss</em> jewelry.,CONTRAST1,<em>,</em>
+"The professor wanted to grade Dana's paper, but he only managed to read it.",,the professor didn't <em>grade</em> Dana's paper.,the professor didn't grade Dana's <em>paper</em>.,CONTRAST1,<em>,</em>
+"Jessica was going to buy a car, but decided to lease it instead.",,Jessica didn't <em>buy</em> the car.,<em>Jessica</em> didn't buy the car.,CONTRAST1,<em>,</em>
+"Steve was planning on investing in a tech company, but decided to invest in a car company instead.",,Steve didn't invest in a <em>tech</em> company.,Steve didn't invest in a tech <em>company</em>.,CONTRAST1,<em>,</em>
+"Janet was going to buy the pink bicycle, but Patrick bought it instead.",,<em>Janet</em> didn't buy the pink bicycle.,Janet didn't buy the <em>pink</em> bicycle.,CONTRAST1,<em>,</em>
+"It seemed like Jerry took the watch from the drawer, but he actually took it from the shelf.",,Jerry didn't take the watch from the <em>drawer</em>.,Jerry didn't <em>take</em> the watch from the drawer.,CONTRAST1,<em>,</em>
+"Becky thought she knocked the vase off the table, but it was actually a jar.",,the <em>vase</em> didn't fall off the table.,the vase didn't fall off the <em>table</em>.,CONTRAST1,<em>,</em>
+"Paul thought he would receive a red envelope in the mail, but he actually received a green envelope.",,a <em>red</em> envelope didn't come in the mail.,a red <em>envelope</em> didn't come in the mail.,CONTRAST1,<em>,</em>
+"Derek thought his dog attacked a squirrel, but it actually attacked a raccoon.",,Derek's dog didn't bite a <em>squirrel</em>.,Derek's <em>dog</em> didn't bite a squirrel.,CONTRAST1,<em>,</em>
+"David was considering dropping the evidence in a well, but instead dropped it in a gutter.",,the evidence didn't fall down a <em>well</em>.,the <em>evidence</em> didn't fall down a well.,CONTRAST1,<em>,</em>
+"Harvey was going to ride the elevator upward, but decided to ride it down instead.",,the elevator didn't go <em>up</em>.,the elevator didn't <em>go</em> up.,CONTRAST1,<em>,</em>
+"Fred was going to use whole milk in the recipe, but instead he used skim milk.",,Fred didn't cook with <em>whole</em> milk.,Fred didn't cook with whole <em>milk</em>.,CONTRAST1,<em>,</em>
+"Peter was going to read the poem that Lisa wrote for him, but instead he read the novel she wrote for him.",,Peter didn't read the <em>poem</em> that Lisa wrote for him.,Peter didn't read the poem that <em>Lisa</em> wrote for him.,CONTRAST1,<em>,</em>
+"Blake was going to throw the football, but he kicked it instead.",,Blake didn't <em>throw</em> the football.,Blake didn't throw the <em>football</em>.,CONTRAST1,<em>,</em>
+"Chad and Mike were going to play on opposite teams, but they ended up playing on the same team instead.",,Chad didn't play <em>against</em> Mike.,Chad didn't <em>play</em> against Mike.,CONTRAST1,<em>,</em>
+"The car seemed to have rolled up the hill, but it actually rolled down.",,the car didn't roll <em>up</em> the hill.,the car didn't roll up the <em>hill</em>.,CONTRAST1,<em>,</em>
+"Nancy called Ben. We thought his cell phone was ringing, but it was actually his landline.",,Nancy didn't call Ben's <em>cell</em> phone.,Nancy didn't call <em>Ben's</em> cell phone.,CONTRAST1,<em>,</em>
+"We thought the manual was written by the lead programmer, but it was actually written by the lead product manager.",,the lead <em>programmer</em> didn't write the manual.,the lead programmer didn't <em>write</em> the manual.,CONTRAST1,<em>,</em>
+"Mary thought that the visitor was the president of France, but he was actually the president of the United States.",,the president of <em>France</em> didn't visit.,the <em>president</em> of France didn't visit.,CONTRAST1,<em>,</em>
+"Randy thought that the trinket he bought was from eastern Canada, but it was actually from western Canada.",,Randy didn't buy a trinket from <em>eastern</em> Canada.,Randy didn't buy a trinket from eastern <em>Canada</em>.,CONTRAST1,<em>,</em>
+"Charlotte thought she was petting her dog, but it was actually her friend's dog.",,Charlotte wasn't petting <em>her</em> dog.,Charlotte wasn't petting her <em>dog</em>.,CONTRAST1,<em>,</em>
+"Mike was considering inviting his coach to the party, but he invited his teammate instead.",,Mike's <em>coach</em> didn't get an invite to the party.,Mike's coach didn't get an <em>invite</em> to the party.,CONTRAST1,<em>,</em>
+"Dawn thought she might be getting a visit from the doctor, but she actually was visited by the nurse.",,the <em>doctor</em> didn't show up to Dawn's house.,the doctor didn't show up to Dawn's <em>house</em>.,CONTRAST1,<em>,</em>
+,Mary doesn't like red wine.,she likes <em>white</em> wine.,she likes white <em>wine</em>.,CONTRAST2,<em>,</em>
+,the professor didn't review your book.,the <em>dean</em> reviewed your book.,the dean <em>reviewed</em> your book.,CONTRAST2,<em>,</em>
+,Lacy didn't read a book about French architecture.,she read a book about <em>British</em> architecture.,she read a book <em>about</em> British architecture.,CONTRAST2,<em>,</em>
+,Boris didn't buy a car.,he <em>leased</em> a car.,he leased a <em>car</em>.,CONTRAST2,<em>,</em>
+,Loretta didn't eat all of the cake.,she ate <em>most</em> of the cake.,she ate most of the <em>cake</em>.,CONTRAST2,<em>,</em>
+,the arsonist didn't burn down the president's house.,he burned down the <em>general's</em> house.,he burned <em>down</em> the general's house.,CONTRAST2,<em>,</em>
+,the lawyer didn't steal the files.,the <em>accountant</em> stole the files.,the accountant <em>stole</em> the files.,CONTRAST2,<em>,</em>
+,Gerald didn't buy his car in September.,he bought his car in <em>August</em>.,he bought <em>his</em> car in August.,CONTRAST2,<em>,</em>
+,the farmer didn't load his truck with hay.,he loaded his truck with <em>wood</em>.,he loaded his <em>truck</em> with wood.,CONTRAST2,<em>,</em>
+,the software engineer didn't work on his side project with his work laptop.,he used his <em>personal</em> laptop to work on his side project.,he used his personal laptop to work on his <em>side</em> project.,CONTRAST2,<em>,</em>
+,Loretta didn't sue the man who damaged her car.,she sued the man who <em>stole</em> her car.,she <em>sued</em> the man who stole her car.,CONTRAST2,<em>,</em>
+,the secretary didn't send the email.,the email was sent by the <em>manager</em>.,the <em>email</em> was sent by the manager.,CONTRAST2,<em>,</em>
+,the car didn't crash into the east side of the mall.,the car crashed into the <em>south</em> side of the mall.,the car crashed into the south side of the <em>mall</em>.,CONTRAST2,<em>,</em>
+,Janet is not a history teacher.,her specialty is <em>math</em>.,her specialty <em>is</em> math.,CONTRAST2,<em>,</em>
+,the firm didn't invest in the stock because it was cheap.,they invested in the stock because it was <em>valuable</em>.,they <em>invested</em> in the stock because it was valuable.,CONTRAST2,<em>,</em>
+,Janice didn't invent the device.,she <em>advertised</em> the device.,she advertised the <em>device</em>.,CONTRAST2,<em>,</em>
+,the keys aren't in the red ceramic bowl.,they're in the <em>blue</em> ceramic bowl.,they're in the blue <em>ceramic</em> bowl.,CONTRAST2,<em>,</em>
+,the dog isn't lying in her bed.,she's lying on the <em>couch</em>.,she's <em>lying</em> on the couch.,CONTRAST2,<em>,</em>
+,David didn't walk the dog last night.,the dog was walked by the <em>neighbors</em>.,the dog was <em>walked</em> by the neighbors.,CONTRAST2,<em>,</em>
+,Max isn't on a train from Washington to Boston.,he's taking a <em>plane</em> from Washington to Boston.,he's taking a plane from <em>Washington</em> to Boston.,CONTRAST2,<em>,</em>
+,Sandy didn't unlock the door.,the door is still <em>locked</em>.,the <em>door</em> is still locked.,CONTRAST2,<em>,</em>
+,Susan didn't accompany the ambassador to the play.,she was with the <em>judge</em>.,she <em>was</em> with the judge.,CONTRAST2,<em>,</em>
+,That sculpture isn't made of styrofoam.,it's sculpted entirely from <em>marble</em>.,it's sculpted entirely <em>from</em> marble.,CONTRAST2,<em>,</em>
+,Louis doesn't play cello in an orchestra.,he's a cellist in a <em>quartet</em>.,he's a <em>cellist</em> in a quartet.,CONTRAST2,<em>,</em>
+,Ralph isn't the lead tenor.,he's the lead <em>baritone</em>.,he's the <em>lead</em> baritone.,CONTRAST2,<em>,</em>
+,Vera didn't crash on her way to church.,she crashed while she was driving to the <em>store</em>.,she crashed while she was <em>driving</em> to the store.,CONTRAST2,<em>,</em>
+,Oliver didn't buy the orange he'd been looking at.,he bought the <em>lemon</em> he'd been looking at.,he bought the lemon he'd been <em>looking</em> at.,CONTRAST2,<em>,</em>
+,the senior detective didn't solve the case.,the <em>junior</em> detective figured it out.,the junior <em>detective</em> figured it out.,CONTRAST2,<em>,</em>
+,we didn't plant cucumbers in the garden this year.,we planted <em>zucchini</em> in the garden this year.,we planted zucchini in the garden this <em>year</em>.,CONTRAST2,<em>,</em>
+,the jury didn't return a guilty verdict yesterday.,they declared the defendant <em>innocent</em>.,they declared the <em>defendant</em> innocent.,CONTRAST2,<em>,</em>
+,Pauline didn't have dinner with the mayor of the biggest city in the country.,she ate with the mayor of the <em>smallest</em> city in the country.,she <em>ate</em> with the mayor of the smallest city in the country.,CONTRAST2,<em>,</em>
+,Marty didn't direct the movie.,the movie was directed by an <em>amateur</em>.,the movie was <em>directed</em> by an amateur.,CONTRAST2,<em>,</em>
+,Laura didn't put the potatoes on the dining room table.,the potatoes are on the <em>kitchen</em> table.,the <em>potatoes</em> are on the kitchen table.,CONTRAST2,<em>,</em>
+,Tina didn't request a promotion.,she <em>demanded</em> a promotion.,she demanded a <em>promotion</em>.,CONTRAST2,<em>,</em>
+,the maestro didn't perform at the concert.,he was in the <em>audience</em> at the concert.,he was in the audience at the <em>concert</em>.,CONTRAST2,<em>,</em>
+,the song didn't end in E major.,the key at the end of the song was E <em>minor</em>.,the key at the <em>end</em> of the song was E minor.,CONTRAST2,<em>,</em>
+,Stacy didn't write the poem in her office last night.,the poem was written in her office <em>this morning</em>.,the poem was written in her <em>office</em> this morning.,CONTRAST2,<em>,</em>
+,Jake didn't read the first half of the book.,he read the first <em>quarter</em> of the book.,he read the <em>first</em> quarter of the book.,CONTRAST2,<em>,</em>
+,Vincent didn't use oil paints for this painting.,he painted this painting with <em>watercolors</em>.,he <em>painted</em> this painting with watercolors.,CONTRAST2,<em>,</em>
+,Carly didn't attend the wedding.,she attended the wedding <em>reception</em>.,she attended the <em>wedding</em> reception.,CONTRAST2,<em>,</em>
+,the liberal senator didn't vote for the new amendment.,the <em>conservative</em> senator voted for the new amendment.,the conservative senator voted for the <em>new</em> amendment.,CONTRAST2,<em>,</em>
+,the committee didn't rewrite the proposed law.,they <em>scrapped</em> the proposed law.,they scrapped the <em>proposed</em> law.,CONTRAST2,<em>,</em>
+,Gertrude didn't use cake mix to bake her cake.,she made the cake from <em>scratch</em>.,she made the <em>cake</em> from scratch.,CONTRAST2,<em>,</em>
+,the military didn't drop bombs on the occupied country.,the things that they dropped were <em>leaflets</em>.,the things that they <em>dropped</em> were leaflets.,CONTRAST2,<em>,</em>
+,the program that Jimmy hosts doesn't run at night.,he hosts a <em>daytime</em> program.,he hosts a daytime <em>program</em>.,CONTRAST2,<em>,</em>
+,we didn't film the upcoming season in May.,the upcoming season was filmed in <em>June</em>.,the <em>upcoming</em> season was filmed in June.,CONTRAST2,<em>,</em>
+,the director didn't send the crew home for the day.,the <em>actors</em> were sent home for the day.,the actors were sent <em>home</em> for the day.,CONTRAST2,<em>,</em>
+,the research wasn't funded by a public grant.,the research was <em>privately</em> funded.,the research was privately <em>funded</em>.,CONTRAST2,<em>,</em>
+,Jerry didn't accidentally eat dog food last night.,his eating the dog food was <em>intentional</em>.,his eating the <em>dog</em> food was intentional.,CONTRAST2,<em>,</em>
+,the woman with the thick French accident didn't sell Bert that lumber.,he got that lumber from the woman with the <em>Scottish</em> accent.,he got that lumber from the <em>woman</em> with the Scottish accent.,CONTRAST2,<em>,</em>

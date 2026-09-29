@@ -1,0 +1,11 @@
+Consider the following context:
+
+CONTEXT:
+{context}
+
+Now consider the following sentences:
+
+SENTENCE A: SENTENCE_A
+SENTENCE B: SENTENCE_B
+
+Which sentence is better in the context? Answer only with "A" or "B".

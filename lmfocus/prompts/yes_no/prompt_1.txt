@@ -1,0 +1,6 @@
+You will be presented with a context followed by a sentence. Your job is to respond with "Yes" or "No", indicating whether the sentence is acceptable in the context provided.
+
+CONTEXT:
+{context}
+
+SENTENCE: TEST_SENTENCE

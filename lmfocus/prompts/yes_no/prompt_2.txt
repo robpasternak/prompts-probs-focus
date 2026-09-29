@@ -1,0 +1,10 @@
+Consider the following context:
+
+CONTEXT:
+{context}
+
+Now consider the following sentence:
+
+SENTENCE: TEST_SENTENCE
+
+Is this sentence acceptable in the context provided? Answer only with "Yes" or "No".

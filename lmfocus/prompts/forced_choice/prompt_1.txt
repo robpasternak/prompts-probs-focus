@@ -1,0 +1,7 @@
+You will be presented with a context followed by two sentences, A and B. Your job is to respond with which sentence is better in the context provided.
+
+CONTEXT:
+{context}
+
+SENTENCE A: SENTENCE_A
+SENTENCE B: SENTENCE_B

@@ -1,0 +1,2821 @@
+original_data_index,model_prefix,output_good,output_bad,category,focus_prefix,focus_suffix,output_good_logprob,output_bad_logprob,logprob_difference
+0,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Mary only gave the teacher a <em>book</em>.,Mary only gave the <em>teacher</em> a book.,ONLY,<em>,</em>,-70.0,-70.5,0.5
+1,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Jack only read his <em>daughter</em> an article.,Jack only read his daughter an <em>article</em>.,ONLY,<em>,</em>,-77.0,-75.0,-2.0
+2,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Harvey only <em>vacuumed</em> the kitchen.,Harvey only vacuumed the <em>kitchen</em>.,ONLY,<em>,</em>,-63.25,-70.0,6.75
+3,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Jenna only bought the <em>red</em> car.,Jenna only bought the red <em>car</em>.,ONLY,<em>,</em>,-68.5,-69.0,0.5
+4,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Mike only drank a root beer float with the <em>accountant</em>.,Mike only drank a <em>root beer float</em> with the accountant.,ONLY,<em>,</em>,-90.0,-92.0,2.0
+5,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Laura only <em>thinks</em> that the doctor cheated on the test.,Laura only thinks that the <em>doctor</em> cheated on the test.,ONLY,<em>,</em>,-82.0,-87.5,5.5
+6,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Larry's Pub only serves drinks at the <em>bar</em>.,Larry's Pub only serves <em>drinks</em> at the bar.,ONLY,<em>,</em>,-76.5,-78.0,1.5
+7,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Jason only mailed his receipts to the <em>headquarters</em>.,Jason only mailed <em>his</em> receipts to the headquarters.,ONLY,<em>,</em>,-81.5,-83.0,1.5
+8,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Sara only gave <em>her</em> dog water.,Sara only gave her dog <em>water</em>.,ONLY,<em>,</em>,-74.5,-72.0,-2.5
+9,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Lucy only <em>swam</em> yesterday.,Lucy only swam <em>yesterday</em>.,ONLY,<em>,</em>,-62.0,-64.5,2.5
+10,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Hannah only thinks about <em>food</em> when she's hungry.,Hannah only thinks about food when she's <em>hungry</em>.,ONLY,<em>,</em>,-66.5,-63.75,-2.75
+11,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Claire only plays chess when she's <em>sober</em>.,Claire only plays <em>chess</em> when she's sober.,ONLY,<em>,</em>,-72.0,-77.0,5.0
+12,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Jake only visits the east coast when it's <em>sunny</em>.,Jake only visits the <em>east</em> coast when it's sunny.,ONLY,<em>,</em>,-77.0,-74.5,-2.5
+13,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Darius only eats <em>peanuts</em> when he's drunk.,Darius only eats peanuts when he's <em>drunk</em>.,ONLY,<em>,</em>,-86.5,-82.5,-4.0
+14,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Professor Johnson only reviewed the <em>valedictorian's</em> book.,Professor Johnson only reviewed the valedictorian's <em>book</em>.,ONLY,<em>,</em>,-89.0,-86.0,-3.0
+15,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Stacy and Mary only toured the <em>big</em> blue house.,Stacy and Mary only toured the big <em>blue</em> house.,ONLY,<em>,</em>,-84.0,-86.0,2.0
+16,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Linda only went to the <em>library</em> during homecoming.,Linda only went to the library during <em>homecoming</em>.,ONLY,<em>,</em>,-79.0,-76.5,-2.5
+17,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Marlon only eats burgers with <em>fries</em>.,Marlon only eats <em>burgers</em> with fries.,ONLY,<em>,</em>,-80.5,-79.5,-1.0
+18,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Gary only disputed the claim that <em>he</em> was a spy.,Gary only disputed the claim that he was a <em>spy</em>.,ONLY,<em>,</em>,-77.0,-73.5,-3.5
+19,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Steven only studied <em>French</em> literature.,Steven only studied French <em>literature</em>.,ONLY,<em>,</em>,-75.0,-72.5,-2.5
+20,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",the judge only <em>fined</em> the athlete.,the judge only fined the <em>athlete</em>.,ONLY,<em>,</em>,-83.5,-78.0,-5.5
+21,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",the manager only hired the teenager for a <em>two-week trial period</em>.,the manager only hired the <em>teenager</em> for a two-week trial period.,ONLY,<em>,</em>,-92.0,-95.5,3.5
+22,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Gavin only <em>visited</em> France.,Gavin only visited <em>France</em>.,ONLY,<em>,</em>,-64.0,-66.0,2.0
+23,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Jacques only has a <em>brown</em> belt in karate.,Jacques only has a brown belt in <em>karate</em>.,ONLY,<em>,</em>,-86.0,-74.0,-12.0
+24,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Pete only bought the <em>Swiss</em> company.,Pete only bought <em>the</em> Swiss company.,ONLY,<em>,</em>,-76.0,-77.5,1.5
+25,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Janet only <em>considered</em> buying a dress.,Janet only considered buying a <em>dress</em>.,ONLY,<em>,</em>,-68.0,-73.0,5.0
+26,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Hilde only said that Dara lived in <em>Italy</em>.,Hilde only said that <em>Dara</em> lived in Italy.,ONLY,<em>,</em>,-96.5,-93.5,-3.0
+27,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Charles only got a <em>promotion</em>.,Charles only <em>got</em> a promotion.,ONLY,<em>,</em>,-67.0,-67.0,0.0
+28,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Zach only makes chairs for <em>churches</em>.,Zach only makes <em>chairs</em> for churches.,ONLY,<em>,</em>,-78.0,-76.5,-1.5
+29,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Jarvis only knows the <em>Italian</em> student.,Jarvis only knows the Italian <em>student</em>.,ONLY,<em>,</em>,-79.0,-75.0,-4.0
+30,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Barbara only took <em>three</em> brownies.,Barbara only took three <em>brownies</em>.,ONLY,<em>,</em>,-75.0,-77.0,2.0
+31,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Zoe only saw hummingbirds in <em>May</em> this year.,Zoe only saw <em>hummingbirds</em> in May this year.,ONLY,<em>,</em>,-86.5,-86.0,-0.5
+32,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Paul only came to Lena's <em>luncheon</em>.,Paul only came to <em>Lena's</em> luncheon.,ONLY,<em>,</em>,-81.0,-84.0,3.0
+33,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Rob only wants the mayor of <em>New York</em> to come to the party.,Rob only wants the <em>mayor</em> of New York to come to the party.,ONLY,<em>,</em>,-86.5,-84.5,-2.0
+34,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Dave only looks at Greek art during the <em>summer</em>.,Dave only looks at <em>Greek</em> art during the summer.,ONLY,<em>,</em>,-86.0,-82.0,-4.0
+35,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Jackson has only used the spade that <em>Mary</em> gave him.,Jackson has only used the <em>spade</em> that Mary gave him.,ONLY,<em>,</em>,-96.5,-91.0,-5.5
+36,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Professor Johnson only taught the students about the <em>French Revolution</em>.,Professor Johnson only taught the <em>students</em> about the French Revolution.,ONLY,<em>,</em>,-75.0,-79.0,4.0
+37,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Albert only works at the grocery store on <em>Wednesdays</em>.,Albert only works at the <em>grocery store</em> on Wednesdays.,ONLY,<em>,</em>,-76.5,-78.5,2.0
+38,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Alfonso only calls his boss <em>when he is sick</em>.,Alfonso only calls <em>his boss</em> when he is sick.,ONLY,<em>,</em>,-78.5,-80.5,2.0
+39,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Remy has only tried the <em>pasta</em> that Katherine made for him.,Remy has only tried the pasta that <em>Katherine</em> made for him.,ONLY,<em>,</em>,-101.5,-99.5,-2.0
+40,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Vicky only asked the teacher about the <em>American</em> Revolution.,Vicky only asked the teacher about the <em>American Revolution</em>.,ONLY,<em>,</em>,-86.0,-84.0,-2.0
+41,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Marv only eats pasta with a <em>fork</em>.,Marv only eats <em>pasta</em> with a fork.,ONLY,<em>,</em>,-79.5,-79.5,0.0
+42,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Barry only needs to buy <em>books</em> for Darlene.,Barry only needs to buy books for <em>Darlene</em>.,ONLY,<em>,</em>,-85.0,-82.0,-3.0
+43,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Selena only <em>feels</em> like Derek is annoyed with her.,Selena only feels like <em>Derek</em> is annoyed with her.,ONLY,<em>,</em>,-94.5,-97.0,2.5
+44,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Sparky only becomes aggressive toward other dogs <em>in summer</em>.,Sparky only becomes aggressive toward <em>other dogs</em> in summer.,ONLY,<em>,</em>,-90.5,-89.0,-1.5
+45,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Bart only put <em>fruit</em> in the fridge.,Bart only put fruit in the <em>fridge</em>.,ONLY,<em>,</em>,-78.0,-76.0,-2.0
+46,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Kurt only meant to <em>hurt</em> the governor.,Kurt only meant to hurt the <em>governor</em>.,ONLY,<em>,</em>,-81.0,-76.0,-5.0
+47,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Marie only kept Lisa's <em>needle</em>.,Marie only kept <em>Lisa's</em> needle.,ONLY,<em>,</em>,-86.5,-88.0,1.5
+48,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Nancy only lets Andy dance <em>in the basement</em>.,Nancy only lets Andy <em>dance</em> in the basement.,ONLY,<em>,</em>,-82.5,-83.0,0.5
+49,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Victor only helped Fred <em>pack</em>.,Victor only helped <em>Fred</em> pack.,ONLY,<em>,</em>,-85.0,-79.5,-5.5
+50,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Peter only <em>showed</em> Rebecca the photo album.,Peter only showed Rebecca the <em>photo album</em>.,ONLY,<em>,</em>,-80.0,-76.5,-3.5
+51,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Linda only heard the <em>robin</em>.,Linda only <em>heard</em> the robin.,ONLY,<em>,</em>,-71.0,-70.5,-0.5
+52,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Phil gave a book to the <em>senator</em>.,Phil gave a <em>book</em> to the senator.,QUESTION_ANSWER,<em>,</em>,-74.5,-70.0,-4.5
+53,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",David met the <em>president</em> of Hungary.,David met the president of <em>Hungary</em>.,QUESTION_ANSWER,<em>,</em>,-69.5,-69.0,-0.5
+54,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",That's the <em>manager's</em> credit card.,<em>That's</em> the manager's credit card.,QUESTION_ANSWER,<em>,</em>,-64.5,-73.0,8.5
+55,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Harold thought that the <em>lawyer</em> would visit the accountant.,Harold thought that the lawyer would visit the <em>accountant</em>.,QUESTION_ANSWER,<em>,</em>,-81.5,-80.5,-1.0
+56,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The Most Valuable Player award was given to the <em>quarterback</em>.,The Most Valuable Player award was <em>given</em> to the quarterback.,QUESTION_ANSWER,<em>,</em>,-74.5,-79.5,5.0
+57,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The richest person in the city is the <em>mayor</em>.,The richest person in the <em>city</em> is the mayor.,QUESTION_ANSWER,<em>,</em>,-69.0,-67.0,-2.0
+58,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The banker from the <em>eastern</em> region denied the waiter a loan.,The banker from the eastern region denied the <em>waiter</em> a loan.,QUESTION_ANSWER,<em>,</em>,-96.0,-97.5,1.5
+59,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The analyst thinks the <em>underdogs</em> will win the championship.,The <em>analyst</em> thinks the underdogs will win the championship.,QUESTION_ANSWER,<em>,</em>,-76.5,-72.0,-4.5
+60,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The teacher's wife moved to the <em>city</em>.,The <em>teacher's</em> wife moved to the city.,QUESTION_ANSWER,<em>,</em>,-69.0,-67.5,-1.5
+61,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",There were <em>four</em> books on the shelf.,There were four books on the <em>shelf</em>.,QUESTION_ANSWER,<em>,</em>,-58.5,-64.0,5.5
+62,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Cassandra can have cake <em>and</em> ice cream.,Cassandra can have <em>cake</em> and ice cream.,QUESTION_ANSWER,<em>,</em>,-74.5,-75.0,0.5
+63,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The senator voted <em>against</em> the housing bill.,The senator voted against the housing <em>bill</em>.,QUESTION_ANSWER,<em>,</em>,-68.5,-67.5,-1.0
+64,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The secretary bought <em>some</em> of the cherries.,The <em>secretary</em> bought some of the cherries.,QUESTION_ANSWER,<em>,</em>,-73.5,-74.5,1.0
+65,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The door was locked by the <em>policeman</em>.,The door <em>was</em> locked by the policeman.,QUESTION_ANSWER,<em>,</em>,-63.25,-66.0,2.75
+66,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The claim that the <em>valedictorian</em> was a communist upset Becky the most.,The claim that the valedictorian was a <em>communist</em> upset Becky the most.,QUESTION_ANSWER,<em>,</em>,-114.5,-111.5,-3.0
+67,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Jack <em>rented</em> the movie.,Jack rented the <em>movie</em>.,QUESTION_ANSWER,<em>,</em>,-65.5,-60.0,-5.5
+68,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Dirk's favorite cake is <em>cheesecake</em>.,Dirk's favorite cake <em>is</em> cheesecake.,QUESTION_ANSWER,<em>,</em>,-67.0,-67.5,0.5
+69,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Jessica ran for <em>four hours</em>.,Jessica <em>ran</em> for four hours.,QUESTION_ANSWER,<em>,</em>,-62.75,-63.0,0.25
+70,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Gary placed the bowl <em>below</em> the table.,Gary placed the <em>bowl</em> below the table.,QUESTION_ANSWER,<em>,</em>,-63.5,-68.0,4.5
+71,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The <em>cat</em> ate the leftovers.,The cat ate the <em>leftovers</em>.,QUESTION_ANSWER,<em>,</em>,-58.25,-61.75,3.5
+72,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The garage is on the <em>left</em> side of the house.,The <em>garage</em> is on the left side of the house.,QUESTION_ANSWER,<em>,</em>,-60.0,-57.5,-2.5
+73,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The mayor gave the key to the city to his <em>secretary</em>.,The mayor gave the <em>key</em> to the city to his secretary.,QUESTION_ANSWER,<em>,</em>,-78.0,-76.5,-1.5
+74,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The <em>middle</em> door is locked.,The middle door is <em>locked</em>.,QUESTION_ANSWER,<em>,</em>,-55.5,-59.0,3.5
+75,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The <em>professor</em> ate the most blackberries.,The professor ate the <em>most</em> blackberries.,QUESTION_ANSWER,<em>,</em>,-73.5,-74.0,0.5
+76,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Louise destroyed the birdhouse with a <em>hammer</em>.,Louise destroyed the <em>birdhouse</em> with a hammer.,QUESTION_ANSWER,<em>,</em>,-74.0,-74.0,0.0
+77,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The train will leave <em>tomorrow</em> for Boston.,The train will leave tomorrow for <em>Boston</em>.,QUESTION_ANSWER,<em>,</em>,-69.0,-72.5,3.5
+78,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Jackie's favorite book landed <em>on my desk</em>.,Jackie's <em>favorite</em> book landed on my desk.,QUESTION_ANSWER,<em>,</em>,-73.5,-69.0,-4.5
+79,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The plate broke <em>yesterday</em>.,The plate <em>broke</em> yesterday.,QUESTION_ANSWER,<em>,</em>,-66.5,-63.5,-3.0
+80,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Kathy <em>ate</em> the orange.,Kathy ate the <em>orange</em>.,QUESTION_ANSWER,<em>,</em>,-57.25,-52.75,-4.5
+81,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Jesse sent pictures of <em>herself</em> to Dave.,Jesse sent <em>pictures</em> of herself to Dave.,QUESTION_ANSWER,<em>,</em>,-73.5,-74.0,0.5
+82,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+","On Wednesday, Barry stole the <em>chaplain's</em> car.","On <em>Wednesday</em>, Barry stole the chaplain's car.",QUESTION_ANSWER,<em>,</em>,-91.0,-97.5,6.5
+83,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The party was <em>fun</em>.,The <em>party</em> was fun.,QUESTION_ANSWER,<em>,</em>,-54.25,-52.25,-2.0
+84,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Last night's dinner was cooked by the <em>chef</em>.,Last night's dinner was <em>cooked</em> by the chef.,QUESTION_ANSWER,<em>,</em>,-64.5,-69.0,4.5
+85,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The machinist bought <em>nails</em> at the store.,The machinist <em>bought</em> nails at the store.,QUESTION_ANSWER,<em>,</em>,-76.5,-78.5,2.0
+86,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",A <em>dictionary</em> fell off the shelf.,A dictionary fell <em>off</em> the shelf.,QUESTION_ANSWER,<em>,</em>,-66.5,-71.5,5.0
+87,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",This piano was purchased at the <em>mall</em>.,This <em>piano</em> was purchased at the mall.,QUESTION_ANSWER,<em>,</em>,-75.0,-70.0,-5.0
+88,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+","During the contest, Claire ate <em>six</em> donuts.","During the contest, Claire ate six <em>donuts</em>.",QUESTION_ANSWER,<em>,</em>,-86.5,-82.5,-4.0
+89,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The ketchup has spent <em>two weeks</em> in the fridge.,The <em>ketchup</em> has spent two weeks in the fridge.,QUESTION_ANSWER,<em>,</em>,-79.5,-72.0,-7.5
+90,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+","During karaoke, the manager accidentally stepped on the <em>secretary's</em> foot.","During karaoke, the <em>manager</em> accidentally stepped on the secretary's foot.",QUESTION_ANSWER,<em>,</em>,-92.0,-95.5,3.5
+91,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Danielle was born in <em>November</em>.,Danielle was <em>born</em> in November.,QUESTION_ANSWER,<em>,</em>,-52.0,-58.0,6.0
+92,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Ronnie reached level <em>eight</em>.,Ronnie reached <em>level</em> eight.,QUESTION_ANSWER,<em>,</em>,-74.5,-71.0,-3.5
+93,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The big <em>blue</em> house got the most bids.,The <em>big</em> blue house got the most bids.,QUESTION_ANSWER,<em>,</em>,-82.0,-78.0,-4.0
+94,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The customer who bought the <em>red</em> bowl came back for a refund yesterday.,The customer who bought the red bowl came <em>back</em> for a refund yesterday.,QUESTION_ANSWER,<em>,</em>,-85.0,-87.0,2.0
+95,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Joanna <em>loved</em> the president's memoir.,Joanna loved the <em>president's</em> memoir.,QUESTION_ANSWER,<em>,</em>,-70.0,-72.0,2.0
+96,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The <em>wooden</em> table was broken during the party.,The wooden table was broken during the <em>party</em>.,QUESTION_ANSWER,<em>,</em>,-64.0,-74.0,10.0
+97,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The last piece of cake was eaten by the <em>boss</em>.,The <em>last</em> piece of cake was eaten by the boss.,QUESTION_ANSWER,<em>,</em>,-68.0,-65.0,-3.0
+98,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The professor's latest article was published <em>yesterday</em>.,The professor's latest article was <em>published</em> yesterday.,QUESTION_ANSWER,<em>,</em>,-71.5,-71.5,0.0
+99,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Gary transported his lumber in his <em>truck</em>.,Gary <em>transported</em> his lumber in his truck.,QUESTION_ANSWER,<em>,</em>,-70.0,-72.5,2.5
+100,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The workers loaded the truck with <em>furniture</em>.,The <em>workers</em> loaded the truck with furniture.,QUESTION_ANSWER,<em>,</em>,-77.0,-70.0,-7.0
+101,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Jacob's <em>mother</em> signed his release form.,Jacob's mother signed <em>his</em> release form.,QUESTION_ANSWER,<em>,</em>,-71.0,-71.0,0.0
+102,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+","and the <em>student</em> went to Milan, too.","and the student <em>went</em> to Milan, too.",TOO,<em>,</em>,-78.0,-83.0,5.0
+103,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+","and he ate <em>dessert</em> yesterday, too.","and he ate dessert <em>yesterday</em>, too.",TOO,<em>,</em>,-78.5,-81.0,2.5
+104,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+","and she gave a book to the <em>dean</em>, too.","and she gave a <em>book</em> to the dean, too.",TOO,<em>,</em>,-85.0,-83.5,-1.5
+105,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+","and he was upset by the claim that the <em>novice</em> was a cheater, too.","and he was upset by the claim that the novice was a <em>cheater</em>, too.",TOO,<em>,</em>,-105.5,-104.5,-1.0
+106,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+","and he brought a laptop from <em>work</em>, too.","and he <em>brought</em> a laptop from work, too.",TOO,<em>,</em>,-84.5,-85.0,0.5
+107,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+","and she <em>rolled</em> a red ball, too.","and she rolled a <em>red</em> ball, too.",TOO,<em>,</em>,-77.0,-77.0,0.0
+108,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+","and it has a <em>porch</em>, too.","and it <em>has</em> a porch, too.",TOO,<em>,</em>,-68.0,-69.0,1.0
+109,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+","and the <em>red</em> car broke down, too.","and the red <em>car</em> broke down, too.",TOO,<em>,</em>,-73.0,-70.5,-2.5
+110,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+","and the piano from <em>Japan</em> is out of tune, too.","and the piano from Japan is <em>out</em> of tune, too.",TOO,<em>,</em>,-91.0,-95.0,4.0
+111,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+","and the <em>cat</em> that drank the milk got sick, too.","and the cat that drank the <em>milk</em> got sick, too.",TOO,<em>,</em>,-83.0,-88.0,5.0
+112,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+","and the contestant who ate <em>twenty</em> hot dogs won money, too.","and the contestant who ate twenty hot dogs <em>won</em> money, too.",TOO,<em>,</em>,-102.5,-107.0,4.5
+113,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+","and the <em>blue</em> house has a broken window, too.","and the blue house has a <em>broken</em> window, too.",TOO,<em>,</em>,-75.0,-79.5,4.5
+114,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+","and the <em>junior</em> engineer got a bonus, too.","and the junior engineer got a <em>bonus</em>, too.",TOO,<em>,</em>,-76.5,-74.0,-2.5
+115,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+","and he doubted the <em>dean's</em> story, too.","and he doubted the dean's <em>story</em>, too.",TOO,<em>,</em>,-86.0,-86.0,0.0
+116,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+","and he wondered who ate the <em>biscuit</em>, too.","and <em>he</em> wondered who ate the biscuit, too.",TOO,<em>,</em>,-86.5,-86.0,-0.5
+117,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+","and the <em>lawyer</em> dropped his fork, too.","and <em>the</em> lawyer dropped his fork, too.",TOO,<em>,</em>,-82.0,-86.5,4.5
+118,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+","and she drinks protein shakes after <em>dinner</em> on Wednesdays, too.","and she drinks protein shakes after dinner on <em>Wednesdays</em>, too.",TOO,<em>,</em>,-100.0,-98.0,-2.0
+119,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+","and the <em>stone</em> house fell apart, too.","and the stone house <em>fell apart</em>, too.",TOO,<em>,</em>,-78.0,-73.0,-5.0
+120,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+","and she ate the pastry that had <em>poppy</em> seeds, too.","and she ate the pastry that <em>had</em> poppy seeds, too.",TOO,<em>,</em>,-97.5,-97.5,0.0
+121,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+","and she fetched a <em>ball</em>, too.","and she <em>fetched</em> a ball, too.",TOO,<em>,</em>,-79.0,-77.5,-1.5
+122,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+","and there were <em>raspberries</em> in it, too.","and there were raspberries in <em>it</em>, too.",TOO,<em>,</em>,-75.0,-77.5,2.5
+123,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+","and he failed <em>physics</em>, too.","and he <em>failed</em> physics, too.",TOO,<em>,</em>,-74.0,-71.0,-3.0
+124,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+","and he said what made him <em>sad</em>, too.","and he <em>said</em> what made him sad, too.",TOO,<em>,</em>,-79.0,-80.0,1.0
+125,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+","and he succeeded in <em>hugging</em> the dog, too.","and he succeeded in hugging the <em>dog</em>, too.",TOO,<em>,</em>,-81.0,-84.0,3.0
+126,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+","and he let her <em>dye</em> his hair, too.","and he <em>let</em> her dye his hair, too.",TOO,<em>,</em>,-79.0,-80.5,1.5
+127,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+","and he forgave Lisa for <em>underpreparing</em>, too.","and he forgave <em>Lisa</em> for underpreparing, too.",TOO,<em>,</em>,-98.5,-100.0,1.5
+128,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+","and he warned her about the <em>dean's</em> betrayal, too.","and he warned her about the dean's <em>betrayal</em>, too.",TOO,<em>,</em>,-94.5,-91.0,-3.5
+129,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+","and they talked on the <em>phone</em>, too.","and <em>they</em> talked on the phone, too.",TOO,<em>,</em>,-69.0,-68.0,-1.0
+130,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+","and the <em>space</em> museum was destroyed, too.","and the space <em>museum</em> was destroyed, too.",TOO,<em>,</em>,-80.0,-82.5,2.5
+131,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+","and she did a <em>drawing</em> of the president, too.","and she did a drawing of the <em>president</em>, too.",TOO,<em>,</em>,-82.5,-87.0,4.5
+132,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+","and the painting of Jerry's <em>brother's</em> dog was gone, too.","and the <em>painting</em> of Jerry's brother's dog was gone, too.",TOO,<em>,</em>,-101.0,-98.5,-2.5
+133,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+","and she reviewed a paper about <em>American</em> economics, too.","and she reviewed a paper <em>about</em> American economics, too.",TOO,<em>,</em>,-93.5,-95.5,2.0
+134,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+","and he sent an invitation to the prime minister of a <em>poor</em> country, too.","and he sent an <em>invitation</em> to the prime minister of a poor country, too.",TOO,<em>,</em>,-93.5,-98.0,4.5
+135,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+","and he has regrets about pointing the finger at his <em>classmate</em>, too.","and he has regrets about pointing the <em>finger</em> at his classmate, too.",TOO,<em>,</em>,-98.0,-103.5,5.5
+136,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+","and David was reprimanded by the <em>corporal</em>, too.","and <em>David</em> was reprimanded by the corporal, too.",TOO,<em>,</em>,-86.5,-88.5,2.0
+137,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+","and a <em>credit</em> card came in the mail, too.","and a credit card <em>came</em> in the mail, too.",TOO,<em>,</em>,-76.0,-79.0,3.0
+138,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+","and he <em>batted</em> last night, too.","and he batted last <em>night</em>, too.",TOO,<em>,</em>,-80.5,-86.0,5.5
+139,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+","and he likes <em>mango</em> ice cream, too.","and he <em>likes</em> mango ice cream, too.",TOO,<em>,</em>,-74.0,-73.5,-0.5
+140,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+","and they should <em>run</em> on training days, too.","and they should run on <em>training</em> days, too.",TOO,<em>,</em>,-86.0,-86.0,0.0
+141,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+","and he studied their <em>naval</em> capabilities, too.","and he studied their naval <em>capabilities</em>, too.",TOO,<em>,</em>,-90.0,-90.5,0.5
+142,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+","and she likes ice cream with chocolate <em>sprinkles</em>, too.","and she likes ice cream with <em>chocolate</em> sprinkles, too.",TOO,<em>,</em>,-82.0,-77.5,-4.5
+143,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+","and the <em>jury</em> considers him guilty, too.","and the jury considers him <em>guilty</em>, too.",TOO,<em>,</em>,-81.0,-78.5,-2.5
+144,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+","and she bought one that <em>Vera</em> liked, too.","and she bought <em>one</em> that Vera liked, too.",TOO,<em>,</em>,-93.0,-96.5,3.5
+145,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+","and at <em>Yale</em> he studied philosophy, too.","and at Yale he <em>studied</em> philosophy, too.",TOO,<em>,</em>,-88.0,-85.0,-3.0
+146,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+","and he <em>worked</em> in Italy last year, too.","and he worked in Italy <em>last</em> year, too.",TOO,<em>,</em>,-81.0,-83.0,2.0
+147,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+","and he reads novels written in <em>English</em>, too.","and he reads novels <em>written</em> in English, too.",TOO,<em>,</em>,-81.5,-87.0,5.5
+148,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+","and she read the names of the students who did <em>not</em> pass the test, too.","and she read the names of the students who did not <em>pass</em> the test, too.",TOO,<em>,</em>,-89.5,-92.0,2.5
+149,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+","and she dated men with tattoos on their <em>chests</em>, too.","and she <em>dated</em> men with tattoos on their chests, too.",TOO,<em>,</em>,-91.5,-91.0,-0.5
+150,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+","and the <em>modern</em> French chef used olive oil, too.","and the modern <em>French</em> chef used olive oil, too.",TOO,<em>,</em>,-93.0,-98.0,5.0
+151,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+","and he bought a sleek <em>black</em> sports car, too.","and he bought a sleek black <em>sports</em> car, too.",TOO,<em>,</em>,-85.5,-92.5,7.0
+152,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Nina always buys mint ice cream on <em>Wednesdays</em>.,Nina always buys <em>mint</em> ice cream on Wednesdays.,ADV_QUANT,<em>,</em>,-79.5,-77.5,-2.0
+153,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",David always drinks whiskey when he's <em>alone</em>.,David always drinks <em>whiskey</em> when he's alone.,ADV_QUANT,<em>,</em>,-71.0,-70.5,-0.5
+154,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",the <em>doctor</em> always brings in the newspaper on weekdays.,the doctor always brings in the newspaper on <em>weekdays</em>.,ADV_QUANT,<em>,</em>,-86.5,-93.0,6.5
+155,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Marie always eats pancakes for <em>breakfast</em>.,Marie always eats <em>pancakes</em> for breakfast.,ADV_QUANT,<em>,</em>,-70.5,-64.0,-6.5
+156,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Joseph always rides his <em>red</em> bicycle in front of guests.,Joseph always rides his red bicycle in front of <em>guests</em>.,ADV_QUANT,<em>,</em>,-89.0,-89.5,0.5
+157,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Gloria always <em>rents</em> sports cars.,Gloria always rents <em>sports</em> cars.,ADV_QUANT,<em>,</em>,-74.5,-75.0,0.5
+158,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Corey always eats <em>sandwiches</em> for lunch.,Corey always eats sandwiches for <em>lunch</em>.,ADV_QUANT,<em>,</em>,-64.5,-70.5,6.0
+159,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",<em>Melissa</em> always prosecutes murder trials.,Melissa always prosecutes <em>murder</em> trials.,ADV_QUANT,<em>,</em>,-82.5,-79.5,-3.0
+160,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Mark always plays chess on the <em>computer</em>.,Mark always plays <em>chess</em> on the computer.,ADV_QUANT,<em>,</em>,-74.5,-71.0,-3.5
+161,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Chester always eats wings with <em>fries</em>.,Chester always eats <em>wings</em> with fries.,ADV_QUANT,<em>,</em>,-74.5,-73.0,-1.5
+162,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Luke usually buys <em>meat</em> at the small grocery store.,Luke usually buys meat at the <em>small</em> grocery store.,ADV_QUANT,<em>,</em>,-81.0,-78.0,-3.0
+163,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Betsy usually drives fast on the <em>highway</em>.,Betsy usually drives <em>fast</em> on the highway.,ADV_QUANT,<em>,</em>,-73.0,-72.0,-1.0
+164,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Bradley is usually rude to <em>telemarketers</em>.,Bradley is usually <em>rude</em> to telemarketers.,ADV_QUANT,<em>,</em>,-71.0,-70.5,-0.5
+165,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Louise usually uses her <em>phone</em> for emails.,Louise usually uses her phone for <em>emails</em>.,ADV_QUANT,<em>,</em>,-75.0,-78.0,3.0
+166,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Fred usually plays guitar in a <em>trio</em>.,Fred usually plays <em>guitar</em> in a trio.,ADV_QUANT,<em>,</em>,-72.0,-78.0,6.0
+167,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Natalie usually skis in <em>winter</em>.,Natalie usually <em>skis</em> in winter.,ADV_QUANT,<em>,</em>,-67.0,-60.5,-6.5
+168,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",the <em>junior</em> secretary usually handles calls on Mondays.,the junior secretary usually handles calls on <em>Mondays</em>.,ADV_QUANT,<em>,</em>,-87.5,-92.0,4.5
+169,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Terry usually <em>hugs</em> his friends.,Terry usually hugs his <em>friends</em>.,ADV_QUANT,<em>,</em>,-61.0,-62.0,1.0
+170,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",the <em>boss</em> usually pays for dinner.,the boss usually pays for <em>dinner</em>.,ADV_QUANT,<em>,</em>,-70.0,-77.5,7.5
+171,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Dale usually loses to <em>powerlifters</em>.,Dale usually <em>loses</em> to powerlifters.,ADV_QUANT,<em>,</em>,-79.0,-80.0,1.0
+172,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Bob mostly eats <em>lean</em> meat for dinner.,Bob mostly eats lean meat for <em>dinner</em>.,ADV_QUANT,<em>,</em>,-74.0,-80.0,6.0
+173,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Dolly mostly uses <em>cash</em> to buy rugs.,Dolly mostly uses cash to buy <em>rugs</em>.,ADV_QUANT,<em>,</em>,-88.5,-87.0,-1.5
+174,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Gavin mostly reads newspapers in his <em>study</em>.,Gavin mostly reads <em>newspapers</em> in his study.,ADV_QUANT,<em>,</em>,-74.0,-72.5,-1.5
+175,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Jerry mostly writes about <em>baseball</em> in June.,Jerry mostly writes about baseball in <em>June</em>.,ADV_QUANT,<em>,</em>,-80.5,-82.0,1.5
+176,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",the software engineer mostly codes in the <em>afternoon</em>.,the software engineer mostly <em>codes</em> in the afternoon.,ADV_QUANT,<em>,</em>,-87.0,-85.5,-1.5
+177,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Vera mostly has meetings when she's on the <em>east</em> coast.,Vera mostly has <em>meetings</em> when she's on the east coast.,ADV_QUANT,<em>,</em>,-94.0,-98.5,4.5
+178,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Warren mostly invests in American <em>tech</em> companies.,Warren mostly invests in <em>American</em> tech companies.,ADV_QUANT,<em>,</em>,-73.5,-76.0,2.5
+179,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",the <em>parents</em> mostly take care of the cats.,the parents mostly take care of the <em>cats</em>.,ADV_QUANT,<em>,</em>,-77.0,-80.5,3.5
+180,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Bill mostly uses his <em>truck</em> to transport furniture.,Bill mostly uses his truck to transport <em>furniture</em>.,ADV_QUANT,<em>,</em>,-76.0,-78.0,2.0
+181,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Paul mostly works on <em>positional</em> chess during his lessons.,Paul mostly works on positional chess during his <em>lessons</em>.,ADV_QUANT,<em>,</em>,-96.5,-96.5,0.0
+182,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",the <em>lawyer</em> typically leads the morning meeting on Mondays.,the lawyer typically leads the morning meeting on <em>Mondays</em>.,ADV_QUANT,<em>,</em>,-87.5,-95.5,8.0
+183,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Bryan typically eats <em>lunch</em> during the weekly meeting.,Bryan typically eats lunch during the <em>weekly meeting</em>.,ADV_QUANT,<em>,</em>,-88.0,-83.5,-4.5
+184,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Lisa typically drinks beer at a <em>bar</em>.,Lisa typically drinks <em>beer</em> at a bar.,ADV_QUANT,<em>,</em>,-72.5,-73.0,0.5
+185,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Helga typically eats sushi in <em>Japan</em>.,Helga typically eats <em>sushi</em> in Japan.,ADV_QUANT,<em>,</em>,-79.0,-77.0,-2.0
+186,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Sparky typically barks at <em>children</em>.,Sparky typically <em>barks</em> at children.,ADV_QUANT,<em>,</em>,-71.0,-72.5,1.5
+187,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Jessica typically <em>runs</em> in the morning.,Jessica typically runs in the <em>morning</em>.,ADV_QUANT,<em>,</em>,-60.0,-63.0,3.0
+188,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Randy typically skips <em>morning</em> meetings.,Randy typically <em>skips</em> morning meetings.,ADV_QUANT,<em>,</em>,-70.0,-67.0,-3.0
+189,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",the assistant typically teaches from <em>home</em>.,the assistant typically <em>teaches</em> from home.,ADV_QUANT,<em>,</em>,-93.0,-87.0,-6.0
+190,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Franny typically drinks wine with <em>dinner</em>.,Franny typically drinks <em>wine</em> with dinner.,ADV_QUANT,<em>,</em>,-88.0,-84.0,-4.0
+191,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Lindsay typically defeats <em>young</em> players.,Lindsay typically <em>defeats</em> young players.,ADV_QUANT,<em>,</em>,-79.0,-74.5,-4.5
+192,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Sarah didn't buy the <em>green</em> shirt.,Sarah didn't buy the green <em>shirt</em>.,CONTRAST1,<em>,</em>,-60.5,-65.0,4.5
+193,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Dave didn't buy the blue <em>car</em>.,Dave didn't buy the <em>blue</em> car.,CONTRAST1,<em>,</em>,-63.0,-60.25,-2.75
+194,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Professor Johnson didn't hire the student from <em>Italy</em>.,Professor Johnson didn't hire the <em>student</em> from Italy.,CONTRAST1,<em>,</em>,-86.0,-81.5,-4.5
+195,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The <em>math</em> professor didn't win the teaching prize.,The math professor didn't win the <em>teaching</em> prize.,CONTRAST1,<em>,</em>,-79.5,-80.5,1.0
+196,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Lisa didn't drive the car her <em>mother</em> gave her.,<em>Lisa</em> didn't drive the car her mother gave her.,CONTRAST1,<em>,</em>,-68.0,-74.5,6.5
+197,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Betsy didn't <em>bike</em> across the country.,Betsy didn't bike across the <em>country</em>.,CONTRAST1,<em>,</em>,-76.5,-77.5,1.0
+198,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The <em>teacher</em> didn't get a raise this year.,The teacher didn't get a raise this <em>year</em>.,CONTRAST1,<em>,</em>,-59.0,-65.0,6.0
+199,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Dr. Jones didn't <em>cure</em> the terrible disease.,Dr. Jones didn't cure the <em>terrible</em> disease.,CONTRAST1,<em>,</em>,-72.5,-72.0,-0.5
+200,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Fiona didn't read the Bible <em>last</em> year.,Fiona didn't <em>read</em> the Bible last year.,CONTRAST1,<em>,</em>,-73.0,-70.0,-3.0
+201,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Silvia didn't read the <em>newspaper</em> last night.,<em>Silvia</em> didn't read the newspaper last night.,CONTRAST1,<em>,</em>,-62.75,-70.5,7.75
+202,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",<em>Jake</em> didn't walk the dog this morning.,Jake didn't walk the <em>dog</em> this morning.,CONTRAST1,<em>,</em>,-70.0,-67.0,-3.0
+203,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Fred didn't compose a <em>symphony</em>.,Fred didn't <em>compose</em> a symphony.,CONTRAST1,<em>,</em>,-64.0,-63.75,-0.25
+204,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Pierre didn't have <em>three</em> children.,Pierre didn't have three <em>children</em>.,CONTRAST1,<em>,</em>,-63.75,-63.75,0.0
+205,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Vera didn't eat a <em>chocolate</em> muffin.,Vera didn't eat a chocolate <em>muffin</em>.,CONTRAST1,<em>,</em>,-73.5,-75.0,1.5
+206,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Arnold didn't pay with <em>five</em> dollar bills.,Arnold didn't pay with five <em>dollar</em> bills.,CONTRAST1,<em>,</em>,-75.0,-74.5,-0.5
+207,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The book of <em>jokes</em> wasn't stolen.,The <em>book</em> of jokes wasn't stolen.,CONTRAST1,<em>,</em>,-78.0,-67.5,-10.5
+208,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The <em>talented</em> student's diary wasn't lost in the fire.,The talented student's diary wasn't lost in the <em>fire</em>.,CONTRAST1,<em>,</em>,-82.0,-86.0,4.0
+209,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Rob didn't buy Swiss <em>jewelry</em>.,Rob didn't buy <em>Swiss</em> jewelry.,CONTRAST1,<em>,</em>,-89.5,-81.0,-8.5
+210,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The professor didn't <em>grade</em> Dana's paper.,The professor didn't grade Dana's <em>paper</em>.,CONTRAST1,<em>,</em>,-80.0,-83.5,3.5
+211,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Jessica didn't <em>buy</em> the car.,<em>Jessica</em> didn't buy the car.,CONTRAST1,<em>,</em>,-57.0,-64.0,7.0
+212,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Steve didn't invest in a <em>tech</em> company.,Steve didn't invest in a tech <em>company</em>.,CONTRAST1,<em>,</em>,-65.5,-68.0,2.5
+213,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",<em>Janet</em> didn't buy the pink bicycle.,Janet didn't buy the <em>pink</em> bicycle.,CONTRAST1,<em>,</em>,-76.5,-71.5,-5.0
+214,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Jerry didn't take the watch from the <em>drawer</em>.,Jerry didn't <em>take</em> the watch from the drawer.,CONTRAST1,<em>,</em>,-70.5,-70.0,-0.5
+215,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The <em>vase</em> didn't fall off the table.,The vase didn't fall off the <em>table</em>.,CONTRAST1,<em>,</em>,-62.5,-66.0,3.5
+216,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",A <em>red</em> envelope didn't come in the mail.,A red <em>envelope</em> didn't come in the mail.,CONTRAST1,<em>,</em>,-73.0,-70.5,-2.5
+217,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Derek's dog didn't bite a <em>squirrel</em>.,Derek's <em>dog</em> didn't bite a squirrel.,CONTRAST1,<em>,</em>,-65.5,-68.0,2.5
+218,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The evidence didn't fall down a <em>well</em>.,The <em>evidence</em> didn't fall down a well.,CONTRAST1,<em>,</em>,-72.5,-68.0,-4.5
+219,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The elevator didn't go <em>up</em>.,The elevator didn't <em>go</em> up.,CONTRAST1,<em>,</em>,-59.5,-59.5,0.0
+220,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Fred didn't cook with <em>whole</em> milk.,Fred didn't cook with whole <em>milk</em>.,CONTRAST1,<em>,</em>,-71.5,-79.5,8.0
+221,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Peter didn't read the <em>poem</em> that Lisa wrote for him.,Peter didn't read the poem that <em>Lisa</em> wrote for him.,CONTRAST1,<em>,</em>,-75.5,-78.0,2.5
+222,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Blake didn't <em>throw</em> the football.,Blake didn't throw the <em>football</em>.,CONTRAST1,<em>,</em>,-64.0,-65.5,1.5
+223,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Chad didn't play <em>against</em> Mike.,Chad didn't <em>play</em> against Mike.,CONTRAST1,<em>,</em>,-64.0,-62.75,-1.25
+224,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The car didn't roll <em>up</em> the hill.,The car didn't roll up the <em>hill</em>.,CONTRAST1,<em>,</em>,-63.5,-67.5,4.0
+225,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Nancy didn't call Ben's <em>cell</em> phone.,Nancy didn't call <em>Ben's</em> cell phone.,CONTRAST1,<em>,</em>,-70.0,-71.0,1.0
+226,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The lead <em>programmer</em> didn't write the manual.,The lead programmer didn't <em>write</em> the manual.,CONTRAST1,<em>,</em>,-76.0,-75.0,-1.0
+227,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The president of <em>France</em> didn't visit.,The <em>president</em> of France didn't visit.,CONTRAST1,<em>,</em>,-72.5,-69.0,-3.5
+228,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Randy didn't buy a trinket from <em>eastern</em> Canada.,Randy didn't buy a trinket from eastern <em>Canada</em>.,CONTRAST1,<em>,</em>,-87.5,-89.0,1.5
+229,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Charlotte wasn't petting <em>her</em> dog.,Charlotte wasn't petting her <em>dog</em>.,CONTRAST1,<em>,</em>,-60.5,-61.5,1.0
+230,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Mike's <em>coach</em> didn't get an invite to the party.,Mike's coach didn't get an <em>invite</em> to the party.,CONTRAST1,<em>,</em>,-73.0,-76.0,3.0
+231,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The <em>doctor</em> didn't show up to Dawn's house.,The doctor didn't show up to Dawn's <em>house</em>.,CONTRAST1,<em>,</em>,-74.0,-81.0,7.0
+232,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",She likes <em>white</em> wine.,She likes white <em>wine</em>.,CONTRAST2,<em>,</em>,-60.25,-62.25,2.0
+233,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The <em>dean</em> reviewed your book.,The dean <em>reviewed</em> your book.,CONTRAST2,<em>,</em>,-73.5,-72.0,-1.5
+234,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",She read a book about <em>British</em> architecture.,She read a book <em>about</em> British architecture.,CONTRAST2,<em>,</em>,-68.0,-68.5,0.5
+235,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",He <em>leased</em> a car.,He leased a <em>car</em>.,CONTRAST2,<em>,</em>,-56.75,-57.75,1.0
+236,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",She ate <em>most</em> of the cake.,She ate most of the <em>cake</em>.,CONTRAST2,<em>,</em>,-57.0,-62.25,5.25
+237,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",He burned down the <em>general's</em> house.,He burned <em>down</em> the general's house.,CONTRAST2,<em>,</em>,-70.0,-74.5,4.5
+238,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The <em>accountant</em> stole the files.,The accountant <em>stole</em> the files.,CONTRAST2,<em>,</em>,-59.5,-66.5,7.0
+239,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",He bought his car in <em>August</em>.,He bought <em>his</em> car in August.,CONTRAST2,<em>,</em>,-62.5,-65.5,3.0
+240,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",He loaded his truck with <em>wood</em>.,He loaded his <em>truck</em> with wood.,CONTRAST2,<em>,</em>,-66.5,-67.5,1.0
+241,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",He used his <em>personal</em> laptop to work on his side project.,He used his personal laptop to work on his <em>side</em> project.,CONTRAST2,<em>,</em>,-76.0,-80.5,4.5
+242,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",She sued the man who <em>stole</em> her car.,She <em>sued</em> the man who stole her car.,CONTRAST2,<em>,</em>,-63.5,-62.25,-1.25
+243,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The email was sent by the <em>manager</em>.,The <em>email</em> was sent by the manager.,CONTRAST2,<em>,</em>,-56.5,-59.5,3.0
+244,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The car crashed into the <em>south</em> side of the mall.,The car crashed into the south side of the <em>mall</em>.,CONTRAST2,<em>,</em>,-69.5,-71.0,1.5
+245,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Her specialty is <em>math</em>.,Her specialty <em>is</em> math.,CONTRAST2,<em>,</em>,-63.0,-63.75,0.75
+246,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",They invested in the stock because it was <em>valuable</em>.,They <em>invested</em> in the stock because it was valuable.,CONTRAST2,<em>,</em>,-67.5,-73.5,6.0
+247,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",She <em>advertised</em> the device.,She advertised the <em>device</em>.,CONTRAST2,<em>,</em>,-63.5,-64.5,1.0
+248,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",They're in the <em>blue</em> ceramic bowl.,They're in the blue <em>ceramic</em> bowl.,CONTRAST2,<em>,</em>,-63.5,-67.5,4.0
+249,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",She's lying on the <em>couch</em>.,She's <em>lying</em> on the couch.,CONTRAST2,<em>,</em>,-57.5,-57.0,-0.5
+250,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The dog was walked by the <em>neighbors</em>.,The dog was <em>walked</em> by the neighbors.,CONTRAST2,<em>,</em>,-69.0,-67.5,-1.5
+251,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",He's taking a <em>plane</em> from Washington to Boston.,He's taking a plane from <em>Washington</em> to Boston.,CONTRAST2,<em>,</em>,-71.0,-72.0,1.0
+252,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The door is still <em>locked</em>.,The <em>door</em> is still locked.,CONTRAST2,<em>,</em>,-54.5,-50.5,-4.0
+253,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",She was with the <em>judge</em>.,She <em>was</em> with the judge.,CONTRAST2,<em>,</em>,-59.0,-59.75,0.75
+254,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",It's sculpted entirely from <em>marble</em>.,It's sculpted entirely <em>from</em> marble.,CONTRAST2,<em>,</em>,-66.0,-74.5,8.5
+255,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",He's a cellist in a <em>quartet</em>.,He's a <em>cellist</em> in a quartet.,CONTRAST2,<em>,</em>,-64.5,-65.0,0.5
+256,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",He's the lead <em>baritone</em>.,He's the <em>lead</em> baritone.,CONTRAST2,<em>,</em>,-64.0,-66.5,2.5
+257,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",She crashed while she was driving to the <em>store</em>.,She crashed while she was <em>driving</em> to the store.,CONTRAST2,<em>,</em>,-71.5,-68.5,-3.0
+258,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",He bought the <em>lemon</em> he'd been looking at.,He bought the lemon he'd been <em>looking</em> at.,CONTRAST2,<em>,</em>,-69.0,-74.5,5.5
+259,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The <em>junior</em> detective figured it out.,The junior <em>detective</em> figured it out.,CONTRAST2,<em>,</em>,-65.5,-67.5,2.0
+260,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",We planted <em>zucchini</em> in the garden this year.,We planted zucchini in the garden this <em>year</em>.,CONTRAST2,<em>,</em>,-70.5,-74.0,3.5
+261,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",They declared the defendant <em>innocent</em>.,They declared the <em>defendant</em> innocent.,CONTRAST2,<em>,</em>,-65.5,-65.5,0.0
+262,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",She ate with the mayor of the <em>smallest</em> city in the country.,She <em>ate</em> with the mayor of the smallest city in the country.,CONTRAST2,<em>,</em>,-80.0,-83.0,3.0
+263,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The movie was directed by an <em>amateur</em>.,The movie was <em>directed</em> by an amateur.,CONTRAST2,<em>,</em>,-65.5,-75.0,9.5
+264,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The potatoes are on the <em>kitchen</em> table.,The <em>potatoes</em> are on the kitchen table.,CONTRAST2,<em>,</em>,-65.5,-57.5,-8.0
+265,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",She <em>demanded</em> a promotion.,She demanded a <em>promotion</em>.,CONTRAST2,<em>,</em>,-57.5,-64.5,7.0
+266,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",He was in the <em>audience</em> at the concert.,He was in the audience at the <em>concert</em>.,CONTRAST2,<em>,</em>,-60.0,-62.25,2.25
+267,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The key at the end of the song was E <em>minor</em>.,The key at the <em>end</em> of the song was E minor.,CONTRAST2,<em>,</em>,-79.5,-84.5,5.0
+268,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The poem was written in her office <em>this morning</em>.,The poem was written in her <em>office</em> this morning.,CONTRAST2,<em>,</em>,-83.5,-81.0,-2.5
+269,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",He read the first <em>quarter</em> of the book.,He read the <em>first</em> quarter of the book.,CONTRAST2,<em>,</em>,-63.25,-65.0,1.75
+270,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",He painted this painting with <em>watercolors</em>.,He <em>painted</em> this painting with watercolors.,CONTRAST2,<em>,</em>,-68.0,-70.5,2.5
+271,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",She attended the wedding <em>reception</em>.,She attended the <em>wedding</em> reception.,CONTRAST2,<em>,</em>,-66.5,-66.5,0.0
+272,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The <em>conservative</em> senator voted for the new amendment.,The conservative senator voted for the <em>new</em> amendment.,CONTRAST2,<em>,</em>,-74.0,-79.5,5.5
+273,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",They <em>scrapped</em> the proposed law.,They scrapped the <em>proposed</em> law.,CONTRAST2,<em>,</em>,-67.0,-68.5,1.5
+274,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",She made the cake from <em>scratch</em>.,She made the <em>cake</em> from scratch.,CONTRAST2,<em>,</em>,-63.25,-60.5,-2.75
+275,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The things that they dropped were <em>leaflets</em>.,The things that they <em>dropped</em> were leaflets.,CONTRAST2,<em>,</em>,-80.5,-79.0,-1.5
+276,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",He hosts a <em>daytime</em> program.,He hosts a daytime <em>program</em>.,CONTRAST2,<em>,</em>,-73.0,-74.5,1.5
+277,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The upcoming season was filmed in <em>June</em>.,The <em>upcoming</em> season was filmed in June.,CONTRAST2,<em>,</em>,-76.0,-69.5,-6.5
+278,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The <em>actors</em> were sent home for the day.,The actors were sent <em>home</em> for the day.,CONTRAST2,<em>,</em>,-68.0,-76.0,8.0
+279,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The research was <em>privately</em> funded.,The research was privately <em>funded</em>.,CONTRAST2,<em>,</em>,-65.5,-71.5,6.0
+280,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",His eating the dog food was <em>intentional</em>.,His eating the <em>dog</em> food was intentional.,CONTRAST2,<em>,</em>,-75.5,-78.5,3.0
+281,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",He got that lumber from the woman with the <em>Scottish</em> accent.,He got that lumber from the <em>woman</em> with the Scottish accent.,CONTRAST2,<em>,</em>,-91.5,-93.5,2.0

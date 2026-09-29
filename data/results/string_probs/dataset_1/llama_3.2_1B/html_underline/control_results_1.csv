@@ -1,0 +1,1937 @@
+original_data_index,model_prefix,output_good,output_bad,category,focus_prefix,focus_suffix,output_good_logprob,output_bad_logprob,logprob_difference
+0,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Mary only gave the teacher a <u>book</u>.,Mary only gave the <u>teacher</u> a book.,ONLY,<u>,</u>,-79.5,-76.0,-3.5
+1,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Jack only read his <u>daughter</u> an article.,Jack only read his daughter an <u>article</u>.,ONLY,<u>,</u>,-92.0,-96.0,4.0
+2,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Harvey only <u>vacuumed</u> the kitchen.,Harvey only vacuumed the <u>kitchen</u>.,ONLY,<u>,</u>,-70.5,-72.0,1.5
+3,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Jenna only bought the <u>red</u> car.,Jenna only bought the red <u>car</u>.,ONLY,<u>,</u>,-78.0,-80.5,2.5
+4,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Mike only drank a root beer float with the <u>accountant</u>.,Mike only drank a <u>root beer float</u> with the accountant.,ONLY,<u>,</u>,-97.5,-95.0,-2.5
+5,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Laura only <u>thinks</u> that the doctor cheated on the test.,Laura only thinks that the <u>doctor</u> cheated on the test.,ONLY,<u>,</u>,-95.5,-97.5,2.0
+6,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Larry's Pub only serves drinks at the <u>bar</u>.,Larry's Pub only serves <u>drinks</u> at the bar.,ONLY,<u>,</u>,-76.0,-75.0,-1.0
+7,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Jason only mailed his receipts to the <u>headquarters</u>.,Jason only mailed <u>his</u> receipts to the headquarters.,ONLY,<u>,</u>,-87.0,-85.0,-2.0
+8,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Sara only gave <u>her</u> dog water.,Sara only gave her dog <u>water</u>.,ONLY,<u>,</u>,-72.0,-75.0,3.0
+9,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Lucy only <u>swam</u> yesterday.,Lucy only swam <u>yesterday</u>.,ONLY,<u>,</u>,-85.0,-79.0,-6.0
+10,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Hannah only thinks about <u>food</u> when she's hungry.,Hannah only thinks about food when she's <u>hungry</u>.,ONLY,<u>,</u>,-74.0,-74.0,0.0
+11,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Claire only plays chess when she's <u>sober</u>.,Claire only plays <u>chess</u> when she's sober.,ONLY,<u>,</u>,-76.5,-84.0,7.5
+12,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Jake only visits the east coast when it's <u>sunny</u>.,Jake only visits the <u>east</u> coast when it's sunny.,ONLY,<u>,</u>,-79.0,-87.0,8.0
+13,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Darius only eats <u>peanuts</u> when he's drunk.,Darius only eats peanuts when he's <u>drunk</u>.,ONLY,<u>,</u>,-92.5,-90.0,-2.5
+14,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Professor Johnson only reviewed the <u>valedictorian's</u> book.,Professor Johnson only reviewed the valedictorian's <u>book</u>.,ONLY,<u>,</u>,-101.0,-100.0,-1.0
+15,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Stacy and Mary only toured the <u>big</u> blue house.,Stacy and Mary only toured the big <u>blue</u> house.,ONLY,<u>,</u>,-87.5,-87.0,-0.5
+16,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Linda only went to the <u>library</u> during homecoming.,Linda only went to the library during <u>homecoming</u>.,ONLY,<u>,</u>,-77.0,-77.5,0.5
+17,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Marlon only eats burgers with <u>fries</u>.,Marlon only eats <u>burgers</u> with fries.,ONLY,<u>,</u>,-81.5,-86.0,4.5
+18,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Gary only disputed the claim that <u>he</u> was a spy.,Gary only disputed the claim that he was a <u>spy</u>.,ONLY,<u>,</u>,-76.0,-75.5,-0.5
+19,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Steven only studied <u>French</u> literature.,Steven only studied French <u>literature</u>.,ONLY,<u>,</u>,-72.0,-69.0,-3.0
+20,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",the judge only <u>fined</u> the athlete.,the judge only fined the <u>athlete</u>.,ONLY,<u>,</u>,-88.0,-87.5,-0.5
+21,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",the manager only hired the teenager for a <u>two-week trial period</u>.,the manager only hired the <u>teenager</u> for a two-week trial period.,ONLY,<u>,</u>,-96.5,-98.0,1.5
+22,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Gavin only <u>visited</u> France.,Gavin only visited <u>France</u>.,ONLY,<u>,</u>,-69.5,-66.5,-3.0
+23,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Jacques only has a <u>brown</u> belt in karate.,Jacques only has a brown belt in <u>karate</u>.,ONLY,<u>,</u>,-84.0,-71.0,-13.0
+24,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Pete only bought the <u>Swiss</u> company.,Pete only bought <u>the</u> Swiss company.,ONLY,<u>,</u>,-88.0,-95.0,7.0
+25,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Janet only <u>considered</u> buying a dress.,Janet only considered buying a <u>dress</u>.,ONLY,<u>,</u>,-85.0,-80.0,-5.0
+26,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Hilde only said that Dara lived in <u>Italy</u>.,Hilde only said that <u>Dara</u> lived in Italy.,ONLY,<u>,</u>,-100.0,-103.5,3.5
+27,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Charles only got a <u>promotion</u>.,Charles only <u>got</u> a promotion.,ONLY,<u>,</u>,-70.0,-73.0,3.0
+28,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Zach only makes chairs for <u>churches</u>.,Zach only makes <u>chairs</u> for churches.,ONLY,<u>,</u>,-81.0,-82.0,1.0
+29,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Jarvis only knows the <u>Italian</u> student.,Jarvis only knows the Italian <u>student</u>.,ONLY,<u>,</u>,-103.0,-100.5,-2.5
+30,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Barbara only took <u>three</u> brownies.,Barbara only took three <u>brownies</u>.,ONLY,<u>,</u>,-74.0,-77.5,3.5
+31,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Zoe only saw hummingbirds in <u>May</u> this year.,Zoe only saw <u>hummingbirds</u> in May this year.,ONLY,<u>,</u>,-97.0,-97.5,0.5
+32,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Paul only came to Lena's <u>luncheon</u>.,Paul only came to <u>Lena's</u> luncheon.,ONLY,<u>,</u>,-87.5,-89.0,1.5
+33,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Rob only wants the mayor of <u>New York</u> to come to the party.,Rob only wants the <u>mayor</u> of New York to come to the party.,ONLY,<u>,</u>,-108.0,-108.0,0.0
+34,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Dave only looks at Greek art during the <u>summer</u>.,Dave only looks at <u>Greek</u> art during the summer.,ONLY,<u>,</u>,-96.0,-98.0,2.0
+35,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Jackson has only used the spade that <u>Mary</u> gave him.,Jackson has only used the <u>spade</u> that Mary gave him.,ONLY,<u>,</u>,-96.0,-95.0,-1.0
+36,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Professor Johnson only taught the students about the <u>French Revolution</u>.,Professor Johnson only taught the <u>students</u> about the French Revolution.,ONLY,<u>,</u>,-85.5,-89.0,3.5
+37,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Albert only works at the grocery store on <u>Wednesdays</u>.,Albert only works at the <u>grocery store</u> on Wednesdays.,ONLY,<u>,</u>,-77.0,-79.5,2.5
+38,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Alfonso only calls his boss <u>when he is sick</u>.,Alfonso only calls <u>his boss</u> when he is sick.,ONLY,<u>,</u>,-104.5,-105.0,0.5
+39,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Remy has only tried the <u>pasta</u> that Katherine made for him.,Remy has only tried the pasta that <u>Katherine</u> made for him.,ONLY,<u>,</u>,-109.0,-104.0,-5.0
+40,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Vicky only asked the teacher about the <u>American</u> Revolution.,Vicky only asked the teacher about the <u>American Revolution</u>.,ONLY,<u>,</u>,-103.5,-98.0,-5.5
+41,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Marv only eats pasta with a <u>fork</u>.,Marv only eats <u>pasta</u> with a fork.,ONLY,<u>,</u>,-78.5,-77.0,-1.5
+42,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Barry only needs to buy <u>books</u> for Darlene.,Barry only needs to buy books for <u>Darlene</u>.,ONLY,<u>,</u>,-89.5,-94.0,4.5
+43,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Selena only <u>feels</u> like Derek is annoyed with her.,Selena only feels like <u>Derek</u> is annoyed with her.,ONLY,<u>,</u>,-111.0,-117.5,6.5
+44,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Sparky only becomes aggressive toward other dogs <u>in summer</u>.,Sparky only becomes aggressive toward <u>other dogs</u> in summer.,ONLY,<u>,</u>,-128.0,-130.0,2.0
+45,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Bart only put <u>fruit</u> in the fridge.,Bart only put fruit in the <u>fridge</u>.,ONLY,<u>,</u>,-79.0,-76.0,-3.0
+46,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Kurt only meant to <u>hurt</u> the governor.,Kurt only meant to hurt the <u>governor</u>.,ONLY,<u>,</u>,-82.0,-81.5,-0.5
+47,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Marie only kept Lisa's <u>needle</u>.,Marie only kept <u>Lisa's</u> needle.,ONLY,<u>,</u>,-90.0,-89.0,-1.0
+48,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Nancy only lets Andy dance <u>in the basement</u>.,Nancy only lets Andy <u>dance</u> in the basement.,ONLY,<u>,</u>,-93.5,-86.0,-7.5
+49,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Victor only helped Fred <u>pack</u>.,Victor only helped <u>Fred</u> pack.,ONLY,<u>,</u>,-97.5,-93.0,-4.5
+50,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Peter only <u>showed</u> Rebecca the photo album.,Peter only showed Rebecca the <u>photo album</u>.,ONLY,<u>,</u>,-87.5,-87.0,-0.5
+51,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Linda only heard the <u>robin</u>.,Linda only <u>heard</u> the robin.,ONLY,<u>,</u>,-80.5,-76.0,-4.5
+52,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Phil gave a book to the <u>senator</u>.,Phil gave a <u>book</u> to the senator.,QUESTION_ANSWER,<u>,</u>,-70.5,-68.5,-2.0
+53,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",David met the <u>president</u> of Hungary.,David met the president of <u>Hungary</u>.,QUESTION_ANSWER,<u>,</u>,-75.5,-75.0,-0.5
+54,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",That's the <u>manager's</u> credit card.,<u>That's</u> the manager's credit card.,QUESTION_ANSWER,<u>,</u>,-75.5,-84.5,9.0
+55,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Harold thought that the <u>lawyer</u> would visit the accountant.,Harold thought that the lawyer would visit the <u>accountant</u>.,QUESTION_ANSWER,<u>,</u>,-83.0,-83.5,0.5
+56,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",The Most Valuable Player award was given to the <u>quarterback</u>.,The Most Valuable Player award was <u>given</u> to the quarterback.,QUESTION_ANSWER,<u>,</u>,-74.0,-77.0,3.0
+57,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",The richest person in the city is the <u>mayor</u>.,The richest person in the <u>city</u> is the mayor.,QUESTION_ANSWER,<u>,</u>,-71.5,-71.0,-0.5
+58,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",The banker from the <u>eastern</u> region denied the waiter a loan.,The banker from the eastern region denied the <u>waiter</u> a loan.,QUESTION_ANSWER,<u>,</u>,-117.0,-104.5,-12.5
+59,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",The analyst thinks the <u>underdogs</u> will win the championship.,The <u>analyst</u> thinks the underdogs will win the championship.,QUESTION_ANSWER,<u>,</u>,-83.0,-82.0,-1.0
+60,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",The teacher's wife moved to the <u>city</u>.,The <u>teacher's</u> wife moved to the city.,QUESTION_ANSWER,<u>,</u>,-82.0,-72.5,-9.5
+61,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",There were <u>four</u> books on the shelf.,There were four books on the <u>shelf</u>.,QUESTION_ANSWER,<u>,</u>,-59.25,-62.5,3.25
+62,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Cassandra can have cake <u>and</u> ice cream.,Cassandra can have <u>cake</u> and ice cream.,QUESTION_ANSWER,<u>,</u>,-80.0,-82.5,2.5
+63,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",The senator voted <u>against</u> the housing bill.,The senator voted against the housing <u>bill</u>.,QUESTION_ANSWER,<u>,</u>,-76.0,-76.0,0.0
+64,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",The secretary bought <u>some</u> of the cherries.,The <u>secretary</u> bought some of the cherries.,QUESTION_ANSWER,<u>,</u>,-86.5,-82.0,-4.5
+65,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",The door was locked by the <u>policeman</u>.,The door <u>was</u> locked by the policeman.,QUESTION_ANSWER,<u>,</u>,-70.0,-75.5,5.5
+66,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",The claim that the <u>valedictorian</u> was a communist upset Becky the most.,The claim that the valedictorian was a <u>communist</u> upset Becky the most.,QUESTION_ANSWER,<u>,</u>,-125.0,-114.5,-10.5
+67,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Jack <u>rented</u> the movie.,Jack rented the <u>movie</u>.,QUESTION_ANSWER,<u>,</u>,-66.5,-67.5,1.0
+68,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Dirk's favorite cake is <u>cheesecake</u>.,Dirk's favorite cake <u>is</u> cheesecake.,QUESTION_ANSWER,<u>,</u>,-65.5,-73.5,8.0
+69,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Jessica ran for <u>four hours</u>.,Jessica <u>ran</u> for four hours.,QUESTION_ANSWER,<u>,</u>,-61.5,-66.0,4.5
+70,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Gary placed the bowl <u>below</u> the table.,Gary placed the <u>bowl</u> below the table.,QUESTION_ANSWER,<u>,</u>,-73.0,-78.0,5.0
+71,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",The <u>cat</u> ate the leftovers.,The cat ate the <u>leftovers</u>.,QUESTION_ANSWER,<u>,</u>,-66.5,-64.5,-2.0
+72,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",The garage is on the <u>left</u> side of the house.,The <u>garage</u> is on the left side of the house.,QUESTION_ANSWER,<u>,</u>,-72.5,-69.0,-3.5
+73,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",The mayor gave the key to the city to his <u>secretary</u>.,The mayor gave the <u>key</u> to the city to his secretary.,QUESTION_ANSWER,<u>,</u>,-88.5,-84.0,-4.5
+74,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",The <u>middle</u> door is locked.,The middle door is <u>locked</u>.,QUESTION_ANSWER,<u>,</u>,-69.0,-61.25,-7.75
+75,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",The <u>professor</u> ate the most blackberries.,The professor ate the <u>most</u> blackberries.,QUESTION_ANSWER,<u>,</u>,-94.0,-97.0,3.0
+76,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Louise destroyed the birdhouse with a <u>hammer</u>.,Louise destroyed the <u>birdhouse</u> with a hammer.,QUESTION_ANSWER,<u>,</u>,-69.5,-66.5,-3.0
+77,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",The train will leave <u>tomorrow</u> for Boston.,The train will leave tomorrow for <u>Boston</u>.,QUESTION_ANSWER,<u>,</u>,-83.0,-78.0,-5.0
+78,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Jackie's favorite book landed <u>on my desk</u>.,Jackie's <u>favorite</u> book landed on my desk.,QUESTION_ANSWER,<u>,</u>,-75.0,-72.0,-3.0
+79,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",The plate broke <u>yesterday</u>.,The plate <u>broke</u> yesterday.,QUESTION_ANSWER,<u>,</u>,-71.0,-72.0,1.0
+80,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Kathy <u>ate</u> the orange.,Kathy ate the <u>orange</u>.,QUESTION_ANSWER,<u>,</u>,-63.0,-62.0,-1.0
+81,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Jesse sent pictures of <u>herself</u> to Dave.,Jesse sent <u>pictures</u> of herself to Dave.,QUESTION_ANSWER,<u>,</u>,-82.0,-73.5,-8.5
+82,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+","On Wednesday, Barry stole the <u>chaplain's</u> car.","On <u>Wednesday</u>, Barry stole the chaplain's car.",QUESTION_ANSWER,<u>,</u>,-98.5,-90.0,-8.5
+83,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",The party was <u>fun</u>.,The <u>party</u> was fun.,QUESTION_ANSWER,<u>,</u>,-65.0,-64.5,-0.5
+84,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Last night's dinner was cooked by the <u>chef</u>.,Last night's dinner was <u>cooked</u> by the chef.,QUESTION_ANSWER,<u>,</u>,-66.5,-75.5,9.0
+85,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",The machinist bought <u>nails</u> at the store.,The machinist <u>bought</u> nails at the store.,QUESTION_ANSWER,<u>,</u>,-87.0,-85.5,-1.5
+86,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",A <u>dictionary</u> fell off the shelf.,A dictionary fell <u>off</u> the shelf.,QUESTION_ANSWER,<u>,</u>,-63.75,-60.5,-3.25
+87,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",This piano was purchased at the <u>mall</u>.,This <u>piano</u> was purchased at the mall.,QUESTION_ANSWER,<u>,</u>,-81.0,-80.5,-0.5
+88,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+","During the contest, Claire ate <u>six</u> donuts.","During the contest, Claire ate six <u>donuts</u>.",QUESTION_ANSWER,<u>,</u>,-85.0,-85.5,0.5
+89,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",The ketchup has spent <u>two weeks</u> in the fridge.,The <u>ketchup</u> has spent two weeks in the fridge.,QUESTION_ANSWER,<u>,</u>,-82.0,-82.0,0.0
+90,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+","During karaoke, the manager accidentally stepped on the <u>secretary's</u> foot.","During karaoke, the <u>manager</u> accidentally stepped on the secretary's foot.",QUESTION_ANSWER,<u>,</u>,-95.0,-95.5,0.5
+91,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Danielle was born in <u>November</u>.,Danielle was <u>born</u> in November.,QUESTION_ANSWER,<u>,</u>,-60.0,-60.5,0.5
+92,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Ronnie reached level <u>eight</u>.,Ronnie reached <u>level</u> eight.,QUESTION_ANSWER,<u>,</u>,-69.0,-66.5,-2.5
+93,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",The big <u>blue</u> house got the most bids.,The <u>big</u> blue house got the most bids.,QUESTION_ANSWER,<u>,</u>,-91.5,-93.0,1.5
+94,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",The customer who bought the <u>red</u> bowl came back for a refund yesterday.,The customer who bought the red bowl came <u>back</u> for a refund yesterday.,QUESTION_ANSWER,<u>,</u>,-107.5,-101.0,-6.5
+95,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Joanna <u>loved</u> the president's memoir.,Joanna loved the <u>president's</u> memoir.,QUESTION_ANSWER,<u>,</u>,-79.0,-82.0,3.0
+96,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",The <u>wooden</u> table was broken during the party.,The wooden table was broken during the <u>party</u>.,QUESTION_ANSWER,<u>,</u>,-75.0,-79.5,4.5
+97,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",The last piece of cake was eaten by the <u>boss</u>.,The <u>last</u> piece of cake was eaten by the boss.,QUESTION_ANSWER,<u>,</u>,-72.0,-84.5,12.5
+98,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",The professor's latest article was published <u>yesterday</u>.,The professor's latest article was <u>published</u> yesterday.,QUESTION_ANSWER,<u>,</u>,-78.5,-75.5,-3.0
+99,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Gary transported his lumber in his <u>truck</u>.,Gary <u>transported</u> his lumber in his truck.,QUESTION_ANSWER,<u>,</u>,-71.5,-76.0,4.5
+100,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",The workers loaded the truck with <u>furniture</u>.,The <u>workers</u> loaded the truck with furniture.,QUESTION_ANSWER,<u>,</u>,-77.0,-74.5,-2.5
+101,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Jacob's <u>mother</u> signed his release form.,Jacob's mother signed <u>his</u> release form.,QUESTION_ANSWER,<u>,</u>,-73.5,-65.5,-8.0
+102,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+The professor went to Milan, ","and the <u>student</u> went to Milan, too.","and the student <u>went</u> to Milan, too.",TOO,<u>,</u>,-44.75,-53.25,8.5
+103,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+The janitor ate dinner yesterday, ","and he ate <u>dessert</u> yesterday, too.","and he ate dessert <u>yesterday</u>, too.",TOO,<u>,</u>,-48.5,-49.75,1.25
+104,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+The valedictorian gave a book to the principal, ","and she gave a book to the <u>dean</u>, too.","and she gave a <u>book</u> to the dean, too.",TOO,<u>,</u>,-51.75,-54.5,2.75
+105,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Arnold was upset by the claim that the grandmaster was a cheater, ","and he was upset by the claim that the <u>novice</u> was a cheater, too.","and he was upset by the claim that the novice was a <u>cheater</u>, too.",TOO,<u>,</u>,-57.5,-58.5,1.0
+106,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+The salesman brought a laptop from home, ","and he brought a laptop from <u>work</u>, too.","and he <u>brought</u> a laptop from work, too.",TOO,<u>,</u>,-50.5,-59.75,9.25
+107,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+The player tossed a red ball, ","and she <u>rolled</u> a red ball, too.","and she rolled a <u>red</u> ball, too.",TOO,<u>,</u>,-61.25,-68.0,6.75
+108,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+The house has a balcony, ","and it has a <u>porch</u>, too.","and it <u>has</u> a porch, too.",TOO,<u>,</u>,-44.5,-46.25,1.75
+109,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+The blue car broke down, ","and the <u>red</u> car broke down, too.","and the red <u>car</u> broke down, too.",TOO,<u>,</u>,-52.25,-49.0,-3.25
+110,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+The piano from Germany is out of tune, ","and the piano from <u>Japan</u> is out of tune, too.","and the piano from Japan is <u>out</u> of tune, too.",TOO,<u>,</u>,-42.0,-47.25,5.25
+111,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+The dog that drank the milk got sick, ","and the <u>cat</u> that drank the milk got sick, too.","and the cat that drank the <u>milk</u> got sick, too.",TOO,<u>,</u>,-40.5,-38.0,-2.5
+112,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+The contestant who ate thirty hot dogs won money, ","and the contestant who ate <u>twenty</u> hot dogs won money, too.","and the contestant who ate twenty hot dogs <u>won</u> money, too.",TOO,<u>,</u>,-48.5,-56.0,7.5
+113,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+The red house has a broken window, ","and the <u>blue</u> house has a broken window, too.","and the blue house has a <u>broken</u> window, too.",TOO,<u>,</u>,-44.25,-44.5,0.25
+114,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+A bonus was given to the senior engineer, ","and the <u>junior</u> engineer got a bonus, too.","and the junior engineer got a <u>bonus</u>, too.",TOO,<u>,</u>,-51.75,-49.75,-2.0
+115,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+The teacher found the principal's story unlikely, ","and he doubted the <u>dean's</u> story, too.","and he doubted the dean's <u>story</u>, too.",TOO,<u>,</u>,-60.0,-60.0,0.0
+116,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+The baker wondered who ate the cookie, ","and he wondered who ate the <u>biscuit</u>, too.","and <u>he</u> wondered who ate the biscuit, too.",TOO,<u>,</u>,-53.0,-53.75,0.75
+117,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+The accountant dropped his fork, ","and the <u>lawyer</u> dropped his fork, too.","and <u>the</u> lawyer dropped his fork, too.",TOO,<u>,</u>,-67.0,-64.5,-2.5
+118,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Rebecca drinks protein shakes after lunch on Wednesdays, ","and she drinks protein shakes after <u>dinner</u> on Wednesdays, too.","and she drinks protein shakes after dinner on <u>Wednesdays</u>, too.",TOO,<u>,</u>,-56.5,-53.25,-3.25
+119,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+The wood house collapsed, ","and the <u>stone</u> house fell apart, too.","and the stone house <u>fell apart</u>, too.",TOO,<u>,</u>,-56.0,-58.25,2.25
+120,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Louise ate the pastry with sesame seeds, ","and she ate the pastry that had <u>poppy</u> seeds, too.","and she ate the pastry that <u>had</u> poppy seeds, too.",TOO,<u>,</u>,-60.0,-57.0,-3.0
+121,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+The dog fetched a stick, ","and she fetched a <u>ball</u>, too.","and she <u>fetched</u> a ball, too.",TOO,<u>,</u>,-51.5,-58.0,6.5
+122,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+The cake had strawberries in it, ","and there were <u>raspberries</u> in it, too.","and there were raspberries in <u>it</u>, too.",TOO,<u>,</u>,-46.75,-50.0,3.25
+123,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Charlie got a zero in math, ","and he failed <u>physics</u>, too.","and he <u>failed</u> physics, too.",TOO,<u>,</u>,-48.0,-47.0,-1.0
+124,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Peter told his friends what made him happy, ","and he said what made him <u>sad</u>, too.","and he <u>said</u> what made him sad, too.",TOO,<u>,</u>,-48.5,-52.5,4.0
+125,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Peter managed to pet the dog, ","and he succeeded in <u>hugging</u> the dog, too.","and he succeeded in hugging the <u>dog</u>, too.",TOO,<u>,</u>,-58.0,-61.75,3.75
+126,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Ulysses let Mindy cut his hair, ","and he let her <u>dye</u> his hair, too.","and he <u>let</u> her dye his hair, too.",TOO,<u>,</u>,-48.25,-53.0,4.75
+127,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Frank forgave Lisa for oversleeping, ","and he forgave Lisa for <u>underpreparing</u>, too.","and he forgave <u>Lisa</u> for underpreparing, too.",TOO,<u>,</u>,-62.25,-64.5,2.25
+128,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Percy warned Sarah that the professor had betrayed her, ","and he warned her about the <u>dean's</u> betrayal, too.","and he warned her about the dean's <u>betrayal</u>, too.",TOO,<u>,</u>,-62.25,-62.0,-0.25
+129,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+The mayor and her assistant exchanged text messages, ","and they talked on the <u>phone</u>, too.","and <u>they</u> talked on the phone, too.",TOO,<u>,</u>,-55.5,-50.25,-5.25
+130,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+The arsonist destroyed the natural history museum, ","and the <u>space</u> museum was destroyed, too.","and the space <u>museum</u> was destroyed, too.",TOO,<u>,</u>,-53.75,-57.0,3.25
+131,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+The artist did a painting of the president, ","and she did a <u>drawing</u> of the president, too.","and she did a drawing of the <u>president</u>, too.",TOO,<u>,</u>,-49.5,-50.0,0.5
+132,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+The thief stole the painting of Jerry's mother's dog, ","and the painting of Jerry's <u>brother's</u> dog was gone, too.","and the <u>painting</u> of Jerry's brother's dog was gone, too.",TOO,<u>,</u>,-56.0,-60.75,4.75
+133,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Betsy reviewed a paper on Soviet economics, ","and she reviewed a paper about <u>American</u> economics, too.","and she reviewed a paper <u>about</u> American economics, too.",TOO,<u>,</u>,-69.5,-66.0,-3.5
+134,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+The president invited the prime minister of a rich country, ","and he sent an invitation to the prime minister of a <u>poor</u> country, too.","and he sent an <u>invitation</u> to the prime minister of a poor country, too.",TOO,<u>,</u>,-53.75,-57.0,3.25
+135,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Pedro regrets accusing his friend, ","and he has regrets about pointing the finger at his <u>classmate</u>, too.","and he has regrets about pointing the <u>finger</u> at his classmate, too.",TOO,<u>,</u>,-80.0,-79.5,-0.5
+136,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+The sergeant scolded David, ","and David was reprimanded by the <u>corporal</u>, too.","and <u>David</u> was reprimanded by the corporal, too.",TOO,<u>,</u>,-63.0,-63.5,0.5
+137,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Jake got a debit card, ","and a <u>credit</u> card came in the mail, too.","and a credit card <u>came</u> in the mail, too.",TOO,<u>,</u>,-48.25,-53.25,5.0
+138,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Shohei pitched last night, ","and he <u>batted</u> last night, too.","and he batted last <u>night</u>, too.",TOO,<u>,</u>,-58.75,-56.5,-2.25
+139,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+The architect likes lemon ice cream, ","and he likes <u>mango</u> ice cream, too.","and he <u>likes</u> mango ice cream, too.",TOO,<u>,</u>,-47.25,-53.25,6.0
+140,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Athletes should lift weights on training days, ","and they should <u>run</u> on training days, too.","and they should run on <u>training</u> days, too.",TOO,<u>,</u>,-50.5,-51.75,1.25
+141,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+The general assessed the enemy's army, ","and he studied their <u>naval</u> capabilities, too.","and he studied their naval <u>capabilities</u>, too.",TOO,<u>,</u>,-65.0,-65.0,0.0
+142,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+The auditor likes ice cream with chocolate chips, ","and she likes ice cream with chocolate <u>sprinkles</u>, too.","and she likes ice cream with <u>chocolate</u> sprinkles, too.",TOO,<u>,</u>,-57.0,-52.0,-5.0
+143,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+The judge thinks the defendant is guilty, ","and the <u>jury</u> considers him guilty, too.","and the jury considers him <u>guilty</u>, too.",TOO,<u>,</u>,-59.5,-55.5,-4.0
+144,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Dora bought a baseball card that Manny liked, ","and she bought one that <u>Vera</u> liked, too.","and she bought <u>one</u> that Vera liked, too.",TOO,<u>,</u>,-62.25,-65.5,3.25
+145,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+The applicant studied philosophy at Harvard, ","and at <u>Yale</u> he studied philosophy, too.","and at Yale he <u>studied</u> philosophy, too.",TOO,<u>,</u>,-54.75,-61.5,6.75
+146,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Julius vacationed in Italy last year, ","and he <u>worked</u> in Italy last year, too.","and he worked in Italy <u>last</u> year, too.",TOO,<u>,</u>,-52.25,-57.0,4.75
+147,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Jacques reads French-language novels, ","and he reads novels written in <u>English</u>, too.","and he reads novels <u>written</u> in English, too.",TOO,<u>,</u>,-49.0,-54.0,5.0
+148,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+The principal read the names of the students who passed the test, ","and she read the names of the students who did <u>not</u> pass the test, too.","and she read the names of the students who did not <u>pass</u> the test, too.",TOO,<u>,</u>,-48.25,-50.0,1.75
+149,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Selena dated men with tattoos on their arms, ","and she dated men with tattoos on their <u>chests</u>, too.","and she <u>dated</u> men with tattoos on their chests, too.",TOO,<u>,</u>,-49.25,-54.75,5.5
+150,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+The traditional French chef used olive oil, ","and the <u>modern</u> French chef used olive oil, too.","and the modern <u>French</u> chef used olive oil, too.",TOO,<u>,</u>,-55.5,-54.75,-0.75
+151,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Bert bought a sleek white sports car, ","and he bought a sleek <u>black</u> sports car, too.","and he bought a sleek black <u>sports</u> car, too.",TOO,<u>,</u>,-55.25,-65.0,9.75
+152,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Nina always buys mint ice cream on <u>Wednesdays</u>.,Nina always buys <u>mint</u> ice cream on Wednesdays.,ADV_QUANT,<u>,</u>,-83.5,-80.0,-3.5
+153,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",David always drinks whiskey when he's <u>alone</u>.,David always drinks <u>whiskey</u> when he's alone.,ADV_QUANT,<u>,</u>,-78.0,-78.5,0.5
+154,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",the <u>doctor</u> always brings in the newspaper on weekdays.,the doctor always brings in the newspaper on <u>weekdays</u>.,ADV_QUANT,<u>,</u>,-91.5,-97.0,5.5
+155,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Marie always eats pancakes for <u>breakfast</u>.,Marie always eats <u>pancakes</u> for breakfast.,ADV_QUANT,<u>,</u>,-65.5,-65.0,-0.5
+156,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Joseph always rides his <u>red</u> bicycle in front of guests.,Joseph always rides his red bicycle in front of <u>guests</u>.,ADV_QUANT,<u>,</u>,-96.5,-93.0,-3.5
+157,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Gloria always <u>rents</u> sports cars.,Gloria always rents <u>sports</u> cars.,ADV_QUANT,<u>,</u>,-77.5,-77.0,-0.5
+158,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Corey always eats <u>sandwiches</u> for lunch.,Corey always eats sandwiches for <u>lunch</u>.,ADV_QUANT,<u>,</u>,-62.75,-66.0,3.25
+159,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",<u>Melissa</u> always prosecutes murder trials.,Melissa always prosecutes <u>murder</u> trials.,ADV_QUANT,<u>,</u>,-90.0,-84.5,-5.5
+160,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Mark always plays chess on the <u>computer</u>.,Mark always plays <u>chess</u> on the computer.,ADV_QUANT,<u>,</u>,-73.0,-76.0,3.0
+161,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Chester always eats wings with <u>fries</u>.,Chester always eats <u>wings</u> with fries.,ADV_QUANT,<u>,</u>,-78.0,-89.0,11.0
+162,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Luke usually buys <u>meat</u> at the small grocery store.,Luke usually buys meat at the <u>small</u> grocery store.,ADV_QUANT,<u>,</u>,-87.0,-86.0,-1.0
+163,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Betsy usually drives fast on the <u>highway</u>.,Betsy usually drives <u>fast</u> on the highway.,ADV_QUANT,<u>,</u>,-69.5,-68.0,-1.5
+164,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Bradley is usually rude to <u>telemarketers</u>.,Bradley is usually <u>rude</u> to telemarketers.,ADV_QUANT,<u>,</u>,-76.5,-73.5,-3.0
+165,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Louise usually uses her <u>phone</u> for emails.,Louise usually uses her phone for <u>emails</u>.,ADV_QUANT,<u>,</u>,-72.0,-72.5,0.5
+166,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Fred usually plays guitar in a <u>trio</u>.,Fred usually plays <u>guitar</u> in a trio.,ADV_QUANT,<u>,</u>,-76.0,-81.5,5.5
+167,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Natalie usually skis in <u>winter</u>.,Natalie usually <u>skis</u> in winter.,ADV_QUANT,<u>,</u>,-72.5,-70.0,-2.5
+168,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",the <u>junior</u> secretary usually handles calls on Mondays.,the junior secretary usually handles calls on <u>Mondays</u>.,ADV_QUANT,<u>,</u>,-94.0,-102.0,8.0
+169,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Terry usually <u>hugs</u> his friends.,Terry usually hugs his <u>friends</u>.,ADV_QUANT,<u>,</u>,-69.0,-69.5,0.5
+170,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",the <u>boss</u> usually pays for dinner.,the boss usually pays for <u>dinner</u>.,ADV_QUANT,<u>,</u>,-84.0,-88.5,4.5
+171,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Dale usually loses to <u>powerlifters</u>.,Dale usually <u>loses</u> to powerlifters.,ADV_QUANT,<u>,</u>,-83.5,-81.0,-2.5
+172,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Bob mostly eats <u>lean</u> meat for dinner.,Bob mostly eats lean meat for <u>dinner</u>.,ADV_QUANT,<u>,</u>,-81.5,-84.0,2.5
+173,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Dolly mostly uses <u>cash</u> to buy rugs.,Dolly mostly uses cash to buy <u>rugs</u>.,ADV_QUANT,<u>,</u>,-92.5,-94.5,2.0
+174,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Gavin mostly reads newspapers in his <u>study</u>.,Gavin mostly reads <u>newspapers</u> in his study.,ADV_QUANT,<u>,</u>,-72.5,-76.0,3.5
+175,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Jerry mostly writes about <u>baseball</u> in June.,Jerry mostly writes about baseball in <u>June</u>.,ADV_QUANT,<u>,</u>,-81.0,-78.0,-3.0
+176,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",the software engineer mostly codes in the <u>afternoon</u>.,the software engineer mostly <u>codes</u> in the afternoon.,ADV_QUANT,<u>,</u>,-94.5,-91.0,-3.5
+177,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Vera mostly has meetings when she's on the <u>east</u> coast.,Vera mostly has <u>meetings</u> when she's on the east coast.,ADV_QUANT,<u>,</u>,-94.5,-90.0,-4.5
+178,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Warren mostly invests in American <u>tech</u> companies.,Warren mostly invests in <u>American</u> tech companies.,ADV_QUANT,<u>,</u>,-67.5,-75.5,8.0
+179,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",the <u>parents</u> mostly take care of the cats.,the parents mostly take care of the <u>cats</u>.,ADV_QUANT,<u>,</u>,-79.5,-80.5,1.0
+180,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Bill mostly uses his <u>truck</u> to transport furniture.,Bill mostly uses his truck to transport <u>furniture</u>.,ADV_QUANT,<u>,</u>,-79.0,-81.0,2.0
+181,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Paul mostly works on <u>positional</u> chess during his lessons.,Paul mostly works on positional chess during his <u>lessons</u>.,ADV_QUANT,<u>,</u>,-114.5,-99.0,-15.5
+182,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",the <u>lawyer</u> typically leads the morning meeting on Mondays.,the lawyer typically leads the morning meeting on <u>Mondays</u>.,ADV_QUANT,<u>,</u>,-89.0,-99.5,10.5
+183,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Bryan typically eats <u>lunch</u> during the weekly meeting.,Bryan typically eats lunch during the <u>weekly meeting</u>.,ADV_QUANT,<u>,</u>,-81.0,-84.5,3.5
+184,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Lisa typically drinks beer at a <u>bar</u>.,Lisa typically drinks <u>beer</u> at a bar.,ADV_QUANT,<u>,</u>,-75.5,-76.5,1.0
+185,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Helga typically eats sushi in <u>Japan</u>.,Helga typically eats <u>sushi</u> in Japan.,ADV_QUANT,<u>,</u>,-81.5,-81.0,-0.5
+186,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Sparky typically barks at <u>children</u>.,Sparky typically <u>barks</u> at children.,ADV_QUANT,<u>,</u>,-80.0,-78.5,-1.5
+187,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Jessica typically <u>runs</u> in the morning.,Jessica typically runs in the <u>morning</u>.,ADV_QUANT,<u>,</u>,-65.0,-64.0,-1.0
+188,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Randy typically skips <u>morning</u> meetings.,Randy typically <u>skips</u> morning meetings.,ADV_QUANT,<u>,</u>,-75.5,-79.5,4.0
+189,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",the assistant typically teaches from <u>home</u>.,the assistant typically <u>teaches</u> from home.,ADV_QUANT,<u>,</u>,-105.0,-108.0,3.0
+190,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Franny typically drinks wine with <u>dinner</u>.,Franny typically drinks <u>wine</u> with dinner.,ADV_QUANT,<u>,</u>,-88.5,-82.0,-6.5
+191,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+",Lindsay typically defeats <u>young</u> players.,Lindsay typically <u>defeats</u> young players.,ADV_QUANT,<u>,</u>,-82.0,-85.0,3.0
+192,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Mary doesn't like red wine. ",She likes <u>white</u> wine.,She likes white <u>wine</u>.,CONTRAST,<u>,</u>,-29.875,-34.75,4.875
+193,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+The professor didn't review your book. ",The <u>dean</u> reviewed your book.,The dean <u>reviewed</u> your book.,CONTRAST,<u>,</u>,-41.5,-41.5,0.0
+194,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Lacy didn't read a book about French architecture. ",She read a book about <u>British</u> architecture.,She read a book <u>about</u> British architecture.,CONTRAST,<u>,</u>,-35.75,-39.75,4.0
+195,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Boris didn't buy a car. ",He <u>leased</u> a car.,He leased a <u>car</u>.,CONTRAST,<u>,</u>,-33.0,-36.0,3.0
+196,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Loretta didn't eat all of the cake. ",She ate <u>most</u> of the cake.,She ate most of the <u>cake</u>.,CONTRAST,<u>,</u>,-32.5,-34.25,1.75
+197,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+The arsonist didn't burn down the president's house. ",He burned down the <u>general's</u> house.,He burned <u>down</u> the general's house.,CONTRAST,<u>,</u>,-39.25,-45.75,6.5
+198,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+The lawyer didn't steal the files. ",The <u>accountant</u> stole the files.,The accountant <u>stole</u> the files.,CONTRAST,<u>,</u>,-28.75,-31.5,2.75
+199,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Gerald didn't buy his car in September. ",He bought his car in <u>August</u>.,He bought <u>his</u> car in August.,CONTRAST,<u>,</u>,-34.25,-34.0,-0.25
+200,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+The farmer didn't load his truck with hay. ",He loaded his truck with <u>wood</u>.,He loaded his <u>truck</u> with wood.,CONTRAST,<u>,</u>,-30.875,-34.25,3.375
+201,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+The software engineer didn't work on his side project with his work laptop. ",He used his <u>personal</u> laptop to work on his side project.,He used his personal laptop to work on his <u>side</u> project.,CONTRAST,<u>,</u>,-36.0,-38.25,2.25
+202,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Loretta didn't sue the man who damaged her car. ",She sued the man who <u>stole</u> her car.,She <u>sued</u> the man who stole her car.,CONTRAST,<u>,</u>,-39.5,-41.25,1.75
+203,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+The secretary didn't send the email. ",The email was sent by the <u>manager</u>.,The <u>email</u> was sent by the manager.,CONTRAST,<u>,</u>,-35.5,-36.75,1.25
+204,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+The car didn't crash into the east side of the mall. ",The car crashed into the <u>south</u> side of the mall.,The car crashed into the south side of the <u>mall</u>.,CONTRAST,<u>,</u>,-38.0,-37.0,-1.0
+205,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Janet is not a history teacher. ",Her specialty is <u>math</u>.,Her specialty <u>is</u> math.,CONTRAST,<u>,</u>,-31.75,-37.0,5.25
+206,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+The firm didn't invest in the stock because it was cheap. ",They invested in the stock because it was <u>valuable</u>.,They <u>invested</u> in the stock because it was valuable.,CONTRAST,<u>,</u>,-42.0,-39.5,-2.5
+207,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Janice didn't invent the device. ",She <u>advertised</u> the device.,She advertised the <u>device</u>.,CONTRAST,<u>,</u>,-42.0,-48.75,6.75
+208,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+The keys aren't in the red ceramic bowl. ",They're in the <u>blue</u> ceramic bowl.,They're in the blue <u>ceramic</u> bowl.,CONTRAST,<u>,</u>,-39.0,-49.5,10.5
+209,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+The dog isn't lying in her bed. ",She's lying on the <u>couch</u>.,She's <u>lying</u> on the couch.,CONTRAST,<u>,</u>,-35.0,-34.0,-1.0
+210,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+David didn't walk the dog last night. ",The dog was walked by the <u>neighbors</u>.,The dog was <u>walked</u> by the neighbors.,CONTRAST,<u>,</u>,-42.0,-47.0,5.0
+211,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Max isn't on a train from Washington to Boston. ",He's taking a <u>plane</u> from Washington to Boston.,He's taking a plane from <u>Washington</u> to Boston.,CONTRAST,<u>,</u>,-39.5,-44.75,5.25
+212,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Sandy didn't unlock the door. ",The door is still <u>locked</u>.,The <u>door</u> is still locked.,CONTRAST,<u>,</u>,-37.0,-35.5,-1.5
+213,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Susan didn't accompany the ambassador to the play. ",She was with the <u>judge</u>.,She <u>was</u> with the judge.,CONTRAST,<u>,</u>,-37.25,-42.0,4.75
+214,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+That sculpture isn't made of styrofoam. ",It's sculpted entirely from <u>marble</u>.,It's sculpted entirely <u>from</u> marble.,CONTRAST,<u>,</u>,-44.75,-52.25,7.5
+215,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Louis doesn't play cello in an orchestra. ",He's a cellist in a <u>quartet</u>.,He's a <u>cellist</u> in a quartet.,CONTRAST,<u>,</u>,-41.25,-39.5,-1.75
+216,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Ralph isn't the lead tenor. ",He's the lead <u>baritone</u>.,He's the <u>lead</u> baritone.,CONTRAST,<u>,</u>,-28.5,-33.0,4.5
+217,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Vera didn't crash on her way to church. ",She crashed while she was driving to the <u>store</u>.,She crashed while she was <u>driving</u> to the store.,CONTRAST,<u>,</u>,-51.0,-52.0,1.0
+218,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Oliver didn't buy the orange he'd been looking at. ",He bought the <u>lemon</u> he'd been looking at.,He bought the lemon he'd been <u>looking</u> at.,CONTRAST,<u>,</u>,-42.5,-48.0,5.5
+219,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+The senior detective didn't solve the case. ",The <u>junior</u> detective figured it out.,The junior <u>detective</u> figured it out.,CONTRAST,<u>,</u>,-47.0,-41.75,-5.25
+220,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+We didn't plant cucumbers in the garden this year. ",We planted <u>zucchini</u> in the garden this year.,We planted zucchini in the garden this <u>year</u>.,CONTRAST,<u>,</u>,-45.0,-51.5,6.5
+221,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+The jury didn't return a guilty verdict yesterday. ",They declared the defendant <u>innocent</u>.,They declared the <u>defendant</u> innocent.,CONTRAST,<u>,</u>,-32.5,-40.0,7.5
+222,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Pauline didn't have dinner with the mayor of the biggest city in the country. ",She ate with the mayor of the <u>smallest</u> city in the country.,She <u>ate</u> with the mayor of the smallest city in the country.,CONTRAST,<u>,</u>,-42.5,-40.25,-2.25
+223,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Marty didn't direct the movie. ",The movie was directed by an <u>amateur</u>.,The movie was <u>directed</u> by an amateur.,CONTRAST,<u>,</u>,-45.5,-65.5,20.0
+224,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Laura didn't put the potatoes on the dining room table. ",The potatoes are on the <u>kitchen</u> table.,The <u>potatoes</u> are on the kitchen table.,CONTRAST,<u>,</u>,-41.0,-36.25,-4.75
+225,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Tina didn't request a promotion. ",She <u>demanded</u> a promotion.,She demanded a <u>promotion</u>.,CONTRAST,<u>,</u>,-36.5,-42.5,6.0
+226,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+The maestro didn't perform at the concert. ",He was in the <u>audience</u> at the concert.,He was in the audience at the <u>concert</u>.,CONTRAST,<u>,</u>,-37.25,-38.25,1.0
+227,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+The song didn't end in E major. ",The key at the end of the song was E <u>minor</u>.,The key at the <u>end</u> of the song was E minor.,CONTRAST,<u>,</u>,-45.5,-47.5,2.0
+228,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Stacy didn't write the poem in her office last night. ",The poem was written in her office <u>this morning</u>.,The poem was written in her <u>office</u> this morning.,CONTRAST,<u>,</u>,-46.0,-40.75,-5.25
+229,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Jake didn't read the first half of the book. ",He read the first <u>quarter</u> of the book.,He read the <u>first</u> quarter of the book.,CONTRAST,<u>,</u>,-38.75,-44.5,5.75
+230,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Vincent didn't use oil paints for this painting. ",He painted this painting with <u>watercolors</u>.,He <u>painted</u> this painting with watercolors.,CONTRAST,<u>,</u>,-34.0,-38.5,4.5
+231,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Carly didn't attend the wedding. ",She attended the wedding <u>reception</u>.,She attended the <u>wedding</u> reception.,CONTRAST,<u>,</u>,-42.0,-41.5,-0.5
+232,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+The liberal senator didn't vote for the new amendment. ",The <u>conservative</u> senator voted for the new amendment.,The conservative senator voted for the <u>new</u> amendment.,CONTRAST,<u>,</u>,-34.0,-38.25,4.25
+233,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+The committee didn't rewrite the proposed law. ",They <u>scrapped</u> the proposed law.,They scrapped the <u>proposed</u> law.,CONTRAST,<u>,</u>,-36.0,-39.25,3.25
+234,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Gertrude didn't use cake mix to bake her cake. ",She made the cake from <u>scratch</u>.,She made the <u>cake</u> from scratch.,CONTRAST,<u>,</u>,-35.0,-33.75,-1.25
+235,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+The military didn't drop bombs on the occupied country. ",The things that they dropped were <u>leaflets</u>.,The things that they <u>dropped</u> were leaflets.,CONTRAST,<u>,</u>,-52.5,-49.25,-3.25
+236,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+The program that Jimmy hosts doesn't run at night. ",He hosts a <u>daytime</u> program.,He hosts a daytime <u>program</u>.,CONTRAST,<u>,</u>,-37.75,-37.0,-0.75
+237,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+We didn't film the upcoming season in May. ",The upcoming season was filmed in <u>June</u>.,The <u>upcoming</u> season was filmed in June.,CONTRAST,<u>,</u>,-44.25,-45.25,1.0
+238,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+The director didn't send the crew home for the day. ",The <u>actors</u> were sent home for the day.,The actors were sent <u>home</u> for the day.,CONTRAST,<u>,</u>,-42.5,-47.0,4.5
+239,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+The research wasn't funded by a public grant. ",The research was <u>privately</u> funded.,The research was privately <u>funded</u>.,CONTRAST,<u>,</u>,-34.5,-38.5,4.0
+240,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Jerry didn't accidentally eat dog food last night. ",His eating the dog food was <u>intentional</u>.,His eating the <u>dog</u> food was intentional.,CONTRAST,<u>,</u>,-46.75,-48.25,1.5
+241,"<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 05 Aug 2026
+
+You are a helpful assistant.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+The woman with the thick French accident didn't sell Bert that lumber. ",He got that lumber from the woman with the <u>Scottish</u> accent.,He got that lumber from the <u>woman</u> with the Scottish accent.,CONTRAST,<u>,</u>,-55.25,-56.25,1.0

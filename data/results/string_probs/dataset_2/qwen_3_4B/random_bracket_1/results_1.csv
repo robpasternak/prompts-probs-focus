@@ -1,0 +1,2821 @@
+original_data_index,model_prefix,output_good,output_bad,category,focus_prefix,focus_suffix,output_good_logprob,output_bad_logprob,logprob_difference
+0,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Mary gave the teacher a book. She did not give the teacher anything else.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Mary only gave the teacher a :;;book;;:.,Mary only gave the :;;teacher;;: a book.,ONLY,:;;,;;:,-111.0,-120.0,9.0
+1,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Jack read his daughter an article. He did not read his son an article.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Jack only read his :;;daughter;;: an article.,Jack only read his daughter an :;;article;;:.,ONLY,:;;,;;:,-128.0,-137.0,9.0
+2,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Harvey vacuumed the kitchen. He did not mop the kitchen.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Harvey only :;;vacuumed;;: the kitchen.,Harvey only vacuumed the :;;kitchen;;:.,ONLY,:;;,;;:,-90.5,-95.5,5.0
+3,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Jenna bought the red car. She did not buy the blue car.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Jenna only bought the :;;red;;: car.,Jenna only bought the red :;;car;;:.,ONLY,:;;,;;:,-109.0,-127.5,18.5
+4,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Mike drank a root beer float with the accountant. He did not drink a root beer float with anyone else.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Mike only drank a root beer float with the :;;accountant;;:.,Mike only drank a :;;root beer float;;: with the accountant.,ONLY,:;;,;;:,-93.5,-112.0,18.5
+5,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Laura thinks that the doctor cheated on the test. He did not.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Laura only :;;thinks;;: that the doctor cheated on the test.,Laura only thinks that the :;;doctor;;: cheated on the test.,ONLY,:;;,;;:,-91.5,-89.5,-2.0
+6,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Larry's Pub serves drinks at the bar. They do not serve drinks at other places.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Larry's Pub only serves drinks at the :;;bar;;:.,Larry's Pub only serves :;;drinks;;: at the bar.,ONLY,:;;,;;:,-98.0,-107.0,9.0
+7,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Jason mailed his receipts to the headquarters. He did not mail his receipts anywhere else.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Jason only mailed his receipts to the :;;headquarters;;:.,Jason only mailed :;;his;;: receipts to the headquarters.,ONLY,:;;,;;:,-92.0,-115.5,23.5
+8,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Sara gave her dog water. She did not give anyone else's dog water.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Sara only gave :;;her;;: dog water.,Sara only gave her dog :;;water;;:.,ONLY,:;;,;;:,-115.0,-132.0,17.0
+9,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Lucy swam yesterday. She did not run yesterday.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Lucy only :;;swam;;: yesterday.,Lucy only swam :;;yesterday;;:.,ONLY,:;;,;;:,-89.0,-133.0,44.0
+10,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Hannah thinks about food when she's hungry. She does not think about anything else when she's hungry.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Hannah only thinks about :;;food;;: when she's hungry.,Hannah only thinks about food when she's :;;hungry;;:.,ONLY,:;;,;;:,-103.0,-86.5,-16.5
+11,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Claire plays chess when she's sober. She does not play chess when she's drunk.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Claire only plays chess when she's :;;sober;;:.,Claire only plays :;;chess;;: when she's sober.,ONLY,:;;,;;:,-103.0,-120.0,17.0
+12,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Jake visits the east coast when it's sunny. He does not visit the east coast when it's cloudy.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Jake only visits the east coast when it's :;;sunny;;:.,Jake only visits the :;;east;;: coast when it's sunny.,ONLY,:;;,;;:,-79.0,-83.5,4.5
+13,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Darius eats peanuts when he's drunk. He does not eat anything else when he's drunk.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Darius only eats :;;peanuts;;: when he's drunk.,Darius only eats peanuts when he's :;;drunk;;:.,ONLY,:;;,;;:,-87.5,-78.5,-9.0
+14,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Professor Johnson reviewed the valedictorian's book. He did not review anyone else's book.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Professor Johnson only reviewed the :;;valedictorian's;;: book.,Professor Johnson only reviewed the valedictorian's :;;book;;:.,ONLY,:;;,;;:,-113.0,-120.0,7.0
+15,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Stacy and Mary toured the big blue house. They did not tour the small blue house.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Stacy and Mary only toured the :;;big;;: blue house.,Stacy and Mary only toured the big :;;blue;;: house.,ONLY,:;;,;;:,-123.5,-110.0,-13.5
+16,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Linda went to the library during homecoming. She did not go anywhere else during homecoming.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Linda only went to the :;;library;;: during homecoming.,Linda only went to the library during :;;homecoming;;:.,ONLY,:;;,;;:,-106.0,-112.0,6.0
+17,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Marlon eats burgers with fries. She does not eat burgers with anything else.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Marlon only eats burgers with :;;fries;;:.,Marlon only eats :;;burgers;;: with fries.,ONLY,:;;,;;:,-77.0,-122.0,45.0
+18,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Gary disputed the claim that he was a spy. He did not dispute the claim that his wife was a spy.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Gary only disputed the claim that :;;he;;: was a spy.,Gary only disputed the claim that he was a :;;spy;;:.,ONLY,:;;,;;:,-136.0,-113.0,-23.0
+19,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Steven studied French literature. He did not study Italian literature.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Steven only studied :;;French;;: literature.,Steven only studied French :;;literature;;:.,ONLY,:;;,;;:,-130.0,-145.0,15.0
+20,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+The judged fined the athlete. He did not imprison him.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",the judge only :;;fined;;: the athlete.,the judge only fined the :;;athlete;;:.,ONLY,:;;,;;:,-113.5,-110.0,-3.5
+21,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+The manager hired the teenager for a two-week trial period. She did not hire him on a permanent basis.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",the manager only hired the teenager for a :;;two-week trial period;;:.,the manager only hired the :;;teenager;;: for a two-week trial period.,ONLY,:;;,;;:,-104.0,-114.0,10.0
+22,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Gavin visited France. He did not move there.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Gavin only :;;visited;;: France.,Gavin only visited :;;France;;:.,ONLY,:;;,;;:,-119.0,-105.0,-14.0
+23,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Jacques has a brown belt in karate. He does not have a black belt in karate.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Jacques only has a :;;brown;;: belt in karate.,Jacques only has a brown belt in :;;karate;;:.,ONLY,:;;,;;:,-140.0,-134.0,-6.0
+24,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Pete bought the Swiss company. He did not buy the French company.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Pete only bought the :;;Swiss;;: company.,Pete only bought :;;the;;: Swiss company.,ONLY,:;;,;;:,-108.0,-122.0,14.0
+25,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Janet considered buying a dress. She did not buy one.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Janet only :;;considered;;: buying a dress.,Janet only considered buying a :;;dress;;:.,ONLY,:;;,;;:,-105.0,-110.0,5.0
+26,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Hilde said that Dara lived in Italy. She did not say which city she lived in.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Hilde only said that Dara lived in :;;Italy;;:.,Hilde only said that :;;Dara;;: lived in Italy.,ONLY,:;;,;;:,-105.5,-142.0,36.5
+27,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Charles got a promotion. He did not get a raise.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Charles only got a :;;promotion;;:.,Charles only :;;got;;: a promotion.,ONLY,:;;,;;:,-101.5,-120.5,19.0
+28,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Zach makes chairs for churches. He does not make chairs for anyone else.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Zach only makes chairs for :;;churches;;:.,Zach only makes :;;chairs;;: for churches.,ONLY,:;;,;;:,-102.0,-94.0,-8.0
+29,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Jarvis knows the Italian student. He does not know the French student.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Jarvis only knows the :;;Italian;;: student.,Jarvis only knows the Italian :;;student;;:.,ONLY,:;;,;;:,-127.5,-132.0,4.5
+30,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Barbara took three brownies. She did not take any more brownies.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Barbara only took :;;three;;: brownies.,Barbara only took three :;;brownies;;:.,ONLY,:;;,;;:,-126.5,-105.5,-21.0
+31,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Zoe saw hummingbirds in May this year. She did not see them in June.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Zoe only saw hummingbirds in :;;May;;: this year.,Zoe only saw :;;hummingbirds;;: in May this year.,ONLY,:;;,;;:,-118.0,-117.0,-1.0
+32,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Paul came to Lena's luncheon. He did not come to her cocktail party.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Paul only came to Lena's :;;luncheon;;:.,Paul only came to :;;Lena's;;: luncheon.,ONLY,:;;,;;:,-102.0,-133.0,31.0
+33,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Rob wants the mayor of New York to come to the party. He does not want any other city's mayor to come to the party.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Rob only wants the mayor of :;;New York;;: to come to the party.,Rob only wants the :;;mayor;;: of New York to come to the party.,ONLY,:;;,;;:,-94.0,-109.5,15.5
+34,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Dave looks at Greek art during the summer. He does not look at Greek art during any other season.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Dave only looks at Greek art during the :;;summer;;:.,Dave only looks at :;;Greek;;: art during the summer.,ONLY,:;;,;;:,-82.5,-100.5,18.0
+35,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Jackson used the spade that Mary gave him. He did not use the spade that Steve gave him.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Jackson has only used the spade that :;;Mary;;: gave him.,Jackson has only used the :;;spade;;: that Mary gave him.,ONLY,:;;,;;:,-129.0,-122.5,-6.5
+36,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Professor Johnson taught the students about the French Revolution. He did not teach the students about the American Revolution.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Professor Johnson only taught the students about the :;;French Revolution;;:.,Professor Johnson only taught the :;;students;;: about the French Revolution.,ONLY,:;;,;;:,-90.5,-124.5,34.0
+37,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Albert works at the grocery store on Wednesdays. He does not work at the grocery store on any other day.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Albert only works at the grocery store on :;;Wednesdays;;:.,Albert only works at the :;;grocery store;;: on Wednesdays.,ONLY,:;;,;;:,-102.5,-125.5,23.0
+38,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Alfonso calls his boss when he is sick. Otherwise he does not call his boss.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Alfonso only calls his boss :;;when he is sick;;:.,Alfonso only calls :;;his boss;;: when he is sick.,ONLY,:;;,;;:,-111.5,-121.0,9.5
+39,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Remy has tried the pasta that Katherine made for him. He has not tried the ice cream that she made for him.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Remy has only tried the :;;pasta;;: that Katherine made for him.,Remy has only tried the pasta that :;;Katherine;;: made for him.,ONLY,:;;,;;:,-103.5,-151.0,47.5
+40,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Vicky asked the teacher about the American Revolution. She did not ask the teacher about the French Revolution.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Vicky only asked the teacher about the :;;American;;: Revolution.,Vicky only asked the teacher about the :;;American Revolution;;:.,ONLY,:;;,;;:,-107.0,-91.5,-15.5
+41,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Marv eats pasta with a fork. He does not use any other utensils.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Marv only eats pasta with a :;;fork;;:.,Marv only eats :;;pasta;;: with a fork.,ONLY,:;;,;;:,-126.5,-122.0,-4.5
+42,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Barry needs to buy books for Darlene. He does not need to buy her anything else.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Barry only needs to buy :;;books;;: for Darlene.,Barry only needs to buy books for :;;Darlene;;:.,ONLY,:;;,;;:,-105.0,-120.0,15.0
+43,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Selena feels like Derek is annoyed with her. He is not.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Selena only :;;feels;;: like Derek is annoyed with her.,Selena only feels like :;;Derek;;: is annoyed with her.,ONLY,:;;,;;:,-89.0,-132.0,43.0
+44,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Sparky becomes aggressive toward other dogs in summer. During other seasons he does not become aggressive.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Sparky only becomes aggressive toward other dogs :;;in summer;;:.,Sparky only becomes aggressive toward :;;other dogs;;: in summer.,ONLY,:;;,;;:,-117.0,-123.0,6.0
+45,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Bart put fruit in the fridge. He did not put anything else in the fridge.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Bart only put :;;fruit;;: in the fridge.,Bart only put fruit in the :;;fridge;;:.,ONLY,:;;,;;:,-85.0,-96.0,11.0
+46,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Kurt meant to hurt the governor. He did not mean to kill him.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Kurt only meant to :;;hurt;;: the governor.,Kurt only meant to hurt the :;;governor;;:.,ONLY,:;;,;;:,-110.5,-93.0,-17.5
+47,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Marie kept Lisa's needle. She did not keep her thimble.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Marie only kept Lisa's :;;needle;;:.,Marie only kept :;;Lisa's;;: needle.,ONLY,:;;,;;:,-103.5,-130.0,26.5
+48,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Nancy lets Andy dance in the basement. She does not let him dance anywhere else.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Nancy only lets Andy dance :;;in the basement;;:.,Nancy only lets Andy :;;dance;;: in the basement.,ONLY,:;;,;;:,-124.5,-132.0,7.5
+49,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Victor helped Fred pack. He did not help him with anything else.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Victor only helped Fred :;;pack;;:.,Victor only helped :;;Fred;;: pack.,ONLY,:;;,;;:,-129.0,-114.0,-15.0
+50,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Peter showed Rebecca the photo album. He did not let her keep it.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Peter only :;;showed;;: Rebecca the photo album.,Peter only showed Rebecca the :;;photo album;;:.,ONLY,:;;,;;:,-122.5,-107.0,-15.5
+51,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Linda heard the robin. She did not hear the crow.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Linda only heard the :;;robin;;:.,Linda only :;;heard;;: the robin.,ONLY,:;;,;;:,-106.5,-116.5,10.0
+52,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Who did Phil give a book to?<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Phil gave a book to the :;;senator;;:.,Phil gave a :;;book;;: to the senator.,QUESTION_ANSWER,:;;,;;:,-103.0,-122.5,19.5
+53,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Did David meet the president of Hungary, or the prime minister?<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",David met the :;;president;;: of Hungary.,David met the president of :;;Hungary;;:.,QUESTION_ANSWER,:;;,;;:,-121.0,-110.5,-10.5
+54,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Whose credit card is this?<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",That's the :;;manager's;;: credit card.,:;;That's;;: the manager's credit card.,QUESTION_ANSWER,:;;,;;:,-129.0,-141.0,12.0
+55,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Who did Harold think would visit the accountant?<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Harold thought that the :;;lawyer;;: would visit the accountant.,Harold thought that the lawyer would visit the :;;accountant;;:.,QUESTION_ANSWER,:;;,;;:,-85.0,-111.0,26.0
+56,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Who won the Most Valuable Player award last year?<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The Most Valuable Player award was given to the :;;quarterback;;:.,The Most Valuable Player award was :;;given;;: to the quarterback.,QUESTION_ANSWER,:;;,;;:,-138.0,-168.0,30.0
+57,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Who is the richest person in the city?<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The richest person in the city is the :;;mayor;;:.,The richest person in the :;;city;;: is the mayor.,QUESTION_ANSWER,:;;,;;:,-139.0,-155.0,16.0
+58,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Which region did the banker come from who denied the waiter a loan?<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The banker from the :;;eastern;;: region denied the waiter a loan.,The banker from the eastern region denied the :;;waiter;;: a loan.,QUESTION_ANSWER,:;;,;;:,-143.0,-157.0,14.0
+59,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Who does the analyst think will win the championship?<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The analyst thinks the :;;underdogs;;: will win the championship.,The :;;analyst;;: thinks the underdogs will win the championship.,QUESTION_ANSWER,:;;,;;:,-113.0,-134.0,21.0
+60,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Where did the teacher's wife move to?<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The teacher's wife moved to the :;;city;;:.,The :;;teacher's;;: wife moved to the city.,QUESTION_ANSWER,:;;,;;:,-106.0,-134.0,28.0
+61,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+How many books were on the shelf?<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",There were :;;four;;: books on the shelf.,There were four books on the :;;shelf;;:.,QUESTION_ANSWER,:;;,;;:,-137.0,-140.0,3.0
+62,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Is Cassandra allowed to have both cake and ice cream, or does she have to choose one?<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Cassandra can have cake :;;and;;: ice cream.,Cassandra can have :;;cake;;: and ice cream.,QUESTION_ANSWER,:;;,;;:,-175.0,-148.0,-27.0
+63,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Did the senator vote in favor of the housing bill?<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The senator voted :;;against;;: the housing bill.,The senator voted against the housing :;;bill;;:.,QUESTION_ANSWER,:;;,;;:,-132.0,-143.0,11.0
+64,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Did the secretary buy all of the cherries?<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The secretary bought :;;some;;: of the cherries.,The :;;secretary;;: bought some of the cherries.,QUESTION_ANSWER,:;;,;;:,-139.0,-131.0,-8.0
+65,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Who locked the door?<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The door was locked by the :;;policeman;;:.,The door :;;was;;: locked by the policeman.,QUESTION_ANSWER,:;;,;;:,-108.0,-154.0,46.0
+66,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+The teacher claimed that several students, including the valedictorian, were communists. Which claim was most upsetting to Becky?<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The claim that the :;;valedictorian;;: was a communist upset Becky the most.,The claim that the valedictorian was a :;;communist;;: upset Becky the most.,QUESTION_ANSWER,:;;,;;:,-154.0,-120.0,-34.0
+67,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Did Jack rent or buy the movie?<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Jack :;;rented;;: the movie.,Jack rented the :;;movie;;:.,QUESTION_ANSWER,:;;,;;:,-88.0,-118.0,30.0
+68,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Which cake is Dirk's favorite?<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Dirk's favorite cake is :;;cheesecake;;:.,Dirk's favorite cake :;;is;;: cheesecake.,QUESTION_ANSWER,:;;,;;:,-93.0,-120.0,27.0
+69,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+How long did Jessica run for?<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Jessica ran for :;;four hours;;:.,Jessica :;;ran;;: for four hours.,QUESTION_ANSWER,:;;,;;:,-112.0,-108.5,-3.5
+70,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Did Gary place the bowl above or below the table?<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Gary placed the bowl :;;below;;: the table.,Gary placed the :;;bowl;;: below the table.,QUESTION_ANSWER,:;;,;;:,-103.5,-91.0,-12.5
+71,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Did the leftovers get eaten by the dog or the cat?<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The :;;cat;;: ate the leftovers.,The cat ate the :;;leftovers;;:.,QUESTION_ANSWER,:;;,;;:,-113.0,-118.0,5.0
+72,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Which side of the house is the garage on?<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The garage is on the :;;left;;: side of the house.,The :;;garage;;: is on the left side of the house.,QUESTION_ANSWER,:;;,;;:,-111.5,-114.0,2.5
+73,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Who received the key to the city?<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The mayor gave the key to the city to his :;;secretary;;:.,The mayor gave the :;;key;;: to the city to his secretary.,QUESTION_ANSWER,:;;,;;:,-122.5,-126.0,3.5
+74,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Which door is locked?<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The :;;middle;;: door is locked.,The middle door is :;;locked;;:.,QUESTION_ANSWER,:;;,;;:,-106.5,-137.0,30.5
+75,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Who ate the most blackberries?<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The :;;professor;;: ate the most blackberries.,The professor ate the :;;most;;: blackberries.,QUESTION_ANSWER,:;;,;;:,-109.0,-144.0,35.0
+76,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+How did Louise destroy the birdhouse?<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Louise destroyed the birdhouse with a :;;hammer;;:.,Louise destroyed the :;;birdhouse;;: with a hammer.,QUESTION_ANSWER,:;;,;;:,-98.5,-129.0,30.5
+77,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+When will the train leave for Boston?<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The train will leave :;;tomorrow;;: for Boston.,The train will leave tomorrow for :;;Boston;;:.,QUESTION_ANSWER,:;;,;;:,-169.0,-166.0,-3.0
+78,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Where did Jackie's favorite book land?<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Jackie's favorite book landed :;;on my desk;;:.,Jackie's :;;favorite;;: book landed on my desk.,QUESTION_ANSWER,:;;,;;:,-130.0,-126.0,-4.0
+79,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+When did the plate break?<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The plate broke :;;yesterday;;:.,The plate :;;broke;;: yesterday.,QUESTION_ANSWER,:;;,;;:,-122.0,-124.5,2.5
+80,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+What did Kathy do with the orange?<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Kathy :;;ate;;: the orange.,Kathy ate the :;;orange;;:.,QUESTION_ANSWER,:;;,;;:,-109.0,-117.0,8.0
+81,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Jesse sent pictures of someone to Dave. Who were the pictures of?<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Jesse sent pictures of :;;herself;;: to Dave.,Jesse sent :;;pictures;;: of herself to Dave.,QUESTION_ANSWER,:;;,;;:,-135.0,-137.0,2.0
+82,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Whose car did Barry steal on Wednesday?<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+","On Wednesday, Barry stole the :;;chaplain's;;: car.","On :;;Wednesday;;:, Barry stole the chaplain's car.",QUESTION_ANSWER,:;;,;;:,-133.0,-160.0,27.0
+83,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+How was the party?<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The party was :;;fun;;:.,The :;;party;;: was fun.,QUESTION_ANSWER,:;;,;;:,-90.0,-122.5,32.5
+84,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Who cooked dinner last night?<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Last night's dinner was cooked by the :;;chef;;:.,Last night's dinner was :;;cooked;;: by the chef.,QUESTION_ANSWER,:;;,;;:,-107.5,-136.0,28.5
+85,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+What did the machinist buy at the store?<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The machinist bought :;;nails;;: at the store.,The machinist :;;bought;;: nails at the store.,QUESTION_ANSWER,:;;,;;:,-128.0,-144.0,16.0
+86,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+What fell off the shelf?<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",A :;;dictionary;;: fell off the shelf.,A dictionary fell :;;off;;: the shelf.,QUESTION_ANSWER,:;;,;;:,-113.5,-158.0,44.5
+87,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Where did you buy this piano?<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",This piano was purchased at the :;;mall;;:.,This :;;piano;;: was purchased at the mall.,QUESTION_ANSWER,:;;,;;:,-142.0,-153.0,11.0
+88,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+How many donuts did Claire eat during the contest?<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+","During the contest, Claire ate :;;six;;: donuts.","During the contest, Claire ate six :;;donuts;;:.",QUESTION_ANSWER,:;;,;;:,-131.0,-117.0,-14.0
+89,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+How long has the ketchup been in the fridge?<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The ketchup has spent :;;two weeks;;: in the fridge.,The :;;ketchup;;: has spent two weeks in the fridge.,QUESTION_ANSWER,:;;,;;:,-154.0,-134.0,-20.0
+90,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Whose foot did the manager step on during karaoke?<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+","During karaoke, the manager accidentally stepped on the :;;secretary's;;: foot.","During karaoke, the :;;manager;;: accidentally stepped on the secretary's foot.",QUESTION_ANSWER,:;;,;;:,-149.0,-169.0,20.0
+91,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Which month is Danielle's birthday?<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Danielle was born in :;;November;;:.,Danielle was :;;born;;: in November.,QUESTION_ANSWER,:;;,;;:,-117.0,-129.0,12.0
+92,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+What level did Ronnie reach in the video game he was playing?<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Ronnie reached level :;;eight;;:.,Ronnie reached :;;level;;: eight.,QUESTION_ANSWER,:;;,;;:,-115.5,-118.0,2.5
+93,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Which of the big houses got the most bids?<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The big :;;blue;;: house got the most bids.,The :;;big;;: blue house got the most bids.,QUESTION_ANSWER,:;;,;;:,-138.0,-142.0,4.0
+94,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Several people came in and bought bowls yesterday. Which one came back for a refund?<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The customer who bought the :;;red;;: bowl came back for a refund yesterday.,The customer who bought the red bowl came :;;back;;: for a refund yesterday.,QUESTION_ANSWER,:;;,;;:,-140.0,-218.0,78.0
+95,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+How did Joanna feel about the president's memoir?<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Joanna :;;loved;;: the president's memoir.,Joanna loved the :;;president's;;: memoir.,QUESTION_ANSWER,:;;,;;:,-81.0,-102.5,21.5
+96,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Which table did the students break during the party?<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The :;;wooden;;: table was broken during the party.,The wooden table was broken during the :;;party;;:.,QUESTION_ANSWER,:;;,;;:,-123.0,-120.0,-3.0
+97,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Who ate the last piece of cake?<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The last piece of cake was eaten by the :;;boss;;:.,The :;;last;;: piece of cake was eaten by the boss.,QUESTION_ANSWER,:;;,;;:,-110.5,-134.0,23.5
+98,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+When did the professor publish his latest article?<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The professor's latest article was published :;;yesterday;;:.,The professor's latest article was :;;published;;: yesterday.,QUESTION_ANSWER,:;;,;;:,-135.0,-146.0,11.0
+99,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+What did Gary use to transport his lumber?<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Gary transported his lumber in his :;;truck;;:.,Gary :;;transported;;: his lumber in his truck.,QUESTION_ANSWER,:;;,;;:,-94.0,-116.5,22.5
+100,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+What did the workers load onto the truck?<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The workers loaded the truck with :;;furniture;;:.,The :;;workers;;: loaded the truck with furniture.,QUESTION_ANSWER,:;;,;;:,-111.0,-131.0,20.0
+101,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Which of Jacob's parents signed his release form?<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Jacob's :;;mother;;: signed his release form.,Jacob's mother signed :;;his;;: release form.,QUESTION_ANSWER,:;;,;;:,-112.0,-144.0,32.0
+102,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+The professor went to Milan, ","and the :;;student;;: went to Milan, too.","and the student :;;went;;: to Milan, too.",TOO,:;;,;;:,-60.0,-91.5,31.5
+103,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+The janitor ate dinner yesterday, ","and he ate :;;dessert;;: yesterday, too.","and he ate dessert :;;yesterday;;:, too.",TOO,:;;,;;:,-67.5,-104.0,36.5
+104,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+The valedictorian gave a book to the principal, ","and she gave a book to the :;;dean;;:, too.","and she gave a :;;book;;: to the dean, too.",TOO,:;;,;;:,-88.0,-87.5,-0.5
+105,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Arnold was upset by the claim that the grandmaster was a cheater, ","and he was upset by the claim that the :;;novice;;: was a cheater, too.","and he was upset by the claim that the novice was a :;;cheater;;:, too.",TOO,:;;,;;:,-83.5,-96.0,12.5
+106,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+The salesman brought a laptop from home, ","and he brought a laptop from :;;work;;:, too.","and he :;;brought;;: a laptop from work, too.",TOO,:;;,;;:,-94.0,-80.0,-14.0
+107,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+The player tossed a red ball, ","and she :;;rolled;;: a red ball, too.","and she rolled a :;;red;;: ball, too.",TOO,:;;,;;:,-92.5,-78.0,-14.5
+108,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+The house has a balcony, ","and it has a :;;porch;;:, too.","and it :;;has;;: a porch, too.",TOO,:;;,;;:,-84.0,-91.0,7.0
+109,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+The blue car broke down, ","and the :;;red;;: car broke down, too.","and the red :;;car;;: broke down, too.",TOO,:;;,;;:,-73.0,-101.5,28.5
+110,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+The piano from Germany is out of tune, ","and the piano from :;;Japan;;: is out of tune, too.","and the piano from Japan is :;;out;;: of tune, too.",TOO,:;;,;;:,-77.0,-88.0,11.0
+111,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+The dog that drank the milk got sick, ","and the :;;cat;;: that drank the milk got sick, too.","and the cat that drank the :;;milk;;: got sick, too.",TOO,:;;,;;:,-74.0,-69.5,-4.5
+112,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+The contestant who ate thirty hot dogs won money, ","and the contestant who ate :;;twenty;;: hot dogs won money, too.","and the contestant who ate twenty hot dogs :;;won;;: money, too.",TOO,:;;,;;:,-87.5,-97.0,9.5
+113,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+The red house has a broken window, ","and the :;;blue;;: house has a broken window, too.","and the blue house has a :;;broken;;: window, too.",TOO,:;;,;;:,-55.5,-80.0,24.5
+114,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+A bonus was given to the senior engineer, ","and the :;;junior;;: engineer got a bonus, too.","and the junior engineer got a :;;bonus;;:, too.",TOO,:;;,;;:,-93.0,-89.0,-4.0
+115,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+The teacher found the principal's story unlikely, ","and he doubted the :;;dean's;;: story, too.","and he doubted the dean's :;;story;;:, too.",TOO,:;;,;;:,-100.0,-107.5,7.5
+116,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+The baker wondered who ate the cookie, ","and he wondered who ate the :;;biscuit;;:, too.","and :;;he;;: wondered who ate the biscuit, too.",TOO,:;;,;;:,-94.5,-110.5,16.0
+117,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+The accountant dropped his fork, ","and the :;;lawyer;;: dropped his fork, too.","and :;;the;;: lawyer dropped his fork, too.",TOO,:;;,;;:,-80.0,-106.5,26.5
+118,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Rebecca drinks protein shakes after lunch on Wednesdays, ","and she drinks protein shakes after :;;dinner;;: on Wednesdays, too.","and she drinks protein shakes after dinner on :;;Wednesdays;;:, too.",TOO,:;;,;;:,-95.0,-116.5,21.5
+119,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+The wood house collapsed, ","and the :;;stone;;: house fell apart, too.","and the stone house :;;fell apart;;:, too.",TOO,:;;,;;:,-78.0,-89.0,11.0
+120,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Louise ate the pastry with sesame seeds, ","and she ate the pastry that had :;;poppy;;: seeds, too.","and she ate the pastry that :;;had;;: poppy seeds, too.",TOO,:;;,;;:,-125.5,-134.0,8.5
+121,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+The dog fetched a stick, ","and she fetched a :;;ball;;:, too.","and she :;;fetched;;: a ball, too.",TOO,:;;,;;:,-84.5,-72.0,-12.5
+122,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+The cake had strawberries in it, ","and there were :;;raspberries;;: in it, too.","and there were raspberries in :;;it;;:, too.",TOO,:;;,;;:,-62.25,-81.0,18.75
+123,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Charlie got a zero in math, ","and he failed :;;physics;;:, too.","and he :;;failed;;: physics, too.",TOO,:;;,;;:,-109.5,-88.0,-21.5
+124,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Peter told his friends what made him happy, ","and he said what made him :;;sad;;:, too.","and he :;;said;;: what made him sad, too.",TOO,:;;,;;:,-116.5,-118.5,2.0
+125,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Peter managed to pet the dog, ","and he succeeded in :;;hugging;;: the dog, too.","and he succeeded in hugging the :;;dog;;:, too.",TOO,:;;,;;:,-119.0,-114.0,-5.0
+126,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Ulysses let Mindy cut his hair, ","and he let her :;;dye;;: his hair, too.","and he :;;let;;: her dye his hair, too.",TOO,:;;,;;:,-95.5,-113.5,18.0
+127,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Frank forgave Lisa for oversleeping, ","and he forgave Lisa for :;;underpreparing;;:, too.","and he forgave :;;Lisa;;: for underpreparing, too.",TOO,:;;,;;:,-131.0,-131.0,0.0
+128,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Percy warned Sarah that the professor had betrayed her, ","and he warned her about the :;;dean's;;: betrayal, too.","and he warned her about the dean's :;;betrayal;;:, too.",TOO,:;;,;;:,-85.5,-101.0,15.5
+129,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+The mayor and her assistant exchanged text messages, ","and they talked on the :;;phone;;:, too.","and :;;they;;: talked on the phone, too.",TOO,:;;,;;:,-89.5,-90.0,0.5
+130,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+The arsonist destroyed the natural history museum, ","and the :;;space;;: museum was destroyed, too.","and the space :;;museum;;: was destroyed, too.",TOO,:;;,;;:,-67.5,-85.0,17.5
+131,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+The artist did a painting of the president, ","and she did a :;;drawing;;: of the president, too.","and she did a drawing of the :;;president;;:, too.",TOO,:;;,;;:,-77.0,-80.0,3.0
+132,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+The thief stole the painting of Jerry's mother's dog, ","and the painting of Jerry's :;;brother's;;: dog was gone, too.","and the :;;painting;;: of Jerry's brother's dog was gone, too.",TOO,:;;,;;:,-114.0,-91.5,-22.5
+133,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Betsy reviewed a paper on Soviet economics, ","and she reviewed a paper about :;;American;;: economics, too.","and she reviewed a paper :;;about;;: American economics, too.",TOO,:;;,;;:,-98.0,-103.0,5.0
+134,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+The president invited the prime minister of a rich country, ","and he sent an invitation to the prime minister of a :;;poor;;: country, too.","and he sent an :;;invitation;;: to the prime minister of a poor country, too.",TOO,:;;,;;:,-106.0,-79.0,-27.0
+135,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Pedro regrets accusing his friend, ","and he has regrets about pointing the finger at his :;;classmate;;:, too.","and he has regrets about pointing the :;;finger;;: at his classmate, too.",TOO,:;;,;;:,-141.0,-162.0,21.0
+136,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+The sergeant scolded David, ","and David was reprimanded by the :;;corporal;;:, too.","and :;;David;;: was reprimanded by the corporal, too.",TOO,:;;,;;:,-105.0,-105.0,0.0
+137,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Jake got a debit card, ","and a :;;credit;;: card came in the mail, too.","and a credit card :;;came;;: in the mail, too.",TOO,:;;,;;:,-114.0,-115.5,1.5
+138,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Shohei pitched last night, ","and he :;;batted;;: last night, too.","and he batted last :;;night;;:, too.",TOO,:;;,;;:,-76.0,-117.5,41.5
+139,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+The architect likes lemon ice cream, ","and he likes :;;mango;;: ice cream, too.","and he :;;likes;;: mango ice cream, too.",TOO,:;;,;;:,-73.0,-81.0,8.0
+140,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Athletes should lift weights on training days, ","and they should :;;run;;: on training days, too.","and they should run on :;;training;;: days, too.",TOO,:;;,;;:,-113.5,-112.0,-1.5
+141,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+The general assessed the enemy's army, ","and he studied their :;;naval;;: capabilities, too.","and he studied their naval :;;capabilities;;:, too.",TOO,:;;,;;:,-87.0,-110.0,23.0
+142,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+The auditor likes ice cream with chocolate chips, ","and she likes ice cream with chocolate :;;sprinkles;;:, too.","and she likes ice cream with :;;chocolate;;: sprinkles, too.",TOO,:;;,;;:,-114.5,-90.5,-24.0
+143,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+The judge thinks the defendant is guilty, ","and the :;;jury;;: considers him guilty, too.","and the jury considers him :;;guilty;;:, too.",TOO,:;;,;;:,-103.0,-107.0,4.0
+144,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Dora bought a baseball card that Manny liked, ","and she bought one that :;;Vera;;: liked, too.","and she bought :;;one;;: that Vera liked, too.",TOO,:;;,;;:,-81.0,-102.0,21.0
+145,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+The applicant studied philosophy at Harvard, ","and at :;;Yale;;: he studied philosophy, too.","and at Yale he :;;studied;;: philosophy, too.",TOO,:;;,;;:,-93.0,-106.5,13.5
+146,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Julius vacationed in Italy last year, ","and he :;;worked;;: in Italy last year, too.","and he worked in Italy :;;last;;: year, too.",TOO,:;;,;;:,-86.0,-127.0,41.0
+147,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Jacques reads French-language novels, ","and he reads novels written in :;;English;;:, too.","and he reads novels :;;written;;: in English, too.",TOO,:;;,;;:,-102.5,-112.5,10.0
+148,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+The principal read the names of the students who passed the test, ","and she read the names of the students who did :;;not;;: pass the test, too.","and she read the names of the students who did not :;;pass;;: the test, too.",TOO,:;;,;;:,-114.0,-126.0,12.0
+149,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Selena dated men with tattoos on their arms, ","and she dated men with tattoos on their :;;chests;;:, too.","and she :;;dated;;: men with tattoos on their chests, too.",TOO,:;;,;;:,-76.0,-92.0,16.0
+150,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+The traditional French chef used olive oil, ","and the :;;modern;;: French chef used olive oil, too.","and the modern :;;French;;: chef used olive oil, too.",TOO,:;;,;;:,-76.0,-95.0,19.0
+151,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Bert bought a sleek white sports car, ","and he bought a sleek :;;black;;: sports car, too.","and he bought a sleek black :;;sports;;: car, too.",TOO,:;;,;;:,-92.5,-108.0,15.5
+152,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+When Nina buys mint ice cream, it's on a Wednesday every time.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Nina always buys mint ice cream on :;;Wednesdays;;:.,Nina always buys :;;mint;;: ice cream on Wednesdays.,ADV_QUANT,:;;,;;:,-87.5,-87.0,-0.5
+153,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+When David drinks whiskey, he's alone every time.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",David always drinks whiskey when he's :;;alone;;:.,David always drinks :;;whiskey;;: when he's alone.,ADV_QUANT,:;;,;;:,-100.0,-87.0,-13.0
+154,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+When someone brings in the newspaper on a weekday, it's the doctor every time.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",the :;;doctor;;: always brings in the newspaper on weekdays.,the doctor always brings in the newspaper on :;;weekdays;;:.,ADV_QUANT,:;;,;;:,-85.0,-93.0,8.0
+155,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+When Marie eats pancakes, it's for breakfast every time.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Marie always eats pancakes for :;;breakfast;;:.,Marie always eats :;;pancakes;;: for breakfast.,ADV_QUANT,:;;,;;:,-104.0,-102.5,-1.5
+156,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+When Joseph rides a bicycle in front of guests, it's his red bicycle every time.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Joseph always rides his :;;red;;: bicycle in front of guests.,Joseph always rides his red bicycle in front of :;;guests;;:.,ADV_QUANT,:;;,;;:,-75.5,-92.0,16.5
+157,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+When Gloria drives a sports car, it's a rental every time.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Gloria always :;;rents;;: sports cars.,Gloria always rents :;;sports;;: cars.,ADV_QUANT,:;;,;;:,-95.0,-102.0,7.0
+158,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+When Corey eats a sandwich, it's for lunch every time.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Corey always eats :;;sandwiches;;: for lunch.,Corey always eats sandwiches for :;;lunch;;:.,ADV_QUANT,:;;,;;:,-93.0,-105.0,12.0
+159,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+When someone prosecutes a murder trial, it's Melissa every time.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",:;;Melissa;;: always prosecutes murder trials.,Melissa always prosecutes :;;murder;;: trials.,ADV_QUANT,:;;,;;:,-109.5,-113.0,3.5
+160,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+When Mark plays chess, it's on the computer every time.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Mark always plays chess on the :;;computer;;:.,Mark always plays :;;chess;;: on the computer.,ADV_QUANT,:;;,;;:,-90.0,-95.0,5.0
+161,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+When Chester eats wings, it's with fries every time.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Chester always eats wings with :;;fries;;:.,Chester always eats :;;wings;;: with fries.,ADV_QUANT,:;;,;;:,-71.5,-89.5,18.0
+162,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+When Luke buys things at the small grocery store, it's meat most of the time.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Luke usually buys :;;meat;;: at the small grocery store.,Luke usually buys meat at the :;;small;;: grocery store.,ADV_QUANT,:;;,;;:,-86.0,-84.0,-2.0
+163,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+When Betsy drives fast, it's on the highway most of the time.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Betsy usually drives fast on the :;;highway;;:.,Betsy usually drives :;;fast;;: on the highway.,ADV_QUANT,:;;,;;:,-79.0,-91.0,12.0
+164,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+When Bradley is rude, it's to telemarketers most of the time.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Bradley is usually rude to :;;telemarketers;;:.,Bradley is usually :;;rude;;: to telemarketers.,ADV_QUANT,:;;,;;:,-101.0,-90.0,-11.0
+165,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+When Louise is emailing, she uses her phone most of the time.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Louise usually uses her :;;phone;;: for emails.,Louise usually uses her phone for :;;emails;;:.,ADV_QUANT,:;;,;;:,-106.0,-100.5,-5.5
+166,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+When Fred plays guitar, it's in a trio most of the time.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Fred usually plays guitar in a :;;trio;;:.,Fred usually plays :;;guitar;;: in a trio.,ADV_QUANT,:;;,;;:,-77.5,-107.0,29.5
+167,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+When Natalie skis, it's in winter most of the time.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Natalie usually skis in :;;winter;;:.,Natalie usually :;;skis;;: in winter.,ADV_QUANT,:;;,;;:,-98.5,-108.0,9.5
+168,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+When a secretary handles calls on Mondays, it's the junior secretary most of the time.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",the :;;junior;;: secretary usually handles calls on Mondays.,the junior secretary usually handles calls on :;;Mondays;;:.,ADV_QUANT,:;;,;;:,-91.0,-104.5,13.5
+169,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+When Terry greets his friends, he hugs them most of the time.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Terry usually :;;hugs;;: his friends.,Terry usually hugs his :;;friends;;:.,ADV_QUANT,:;;,;;:,-90.0,-90.5,0.5
+170,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+When someone pays for dinner, it's the boss most of the time.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",the :;;boss;;: usually pays for dinner.,the boss usually pays for :;;dinner;;:.,ADV_QUANT,:;;,;;:,-67.0,-84.5,17.5
+171,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+When Dale loses, it's to powerlifters most of the time.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Dale usually loses to :;;powerlifters;;:.,Dale usually :;;loses;;: to powerlifters.,ADV_QUANT,:;;,;;:,-80.5,-92.0,11.5
+172,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+When Bob eats meat for dinner, it's lean meat most of the time.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Bob mostly eats :;;lean;;: meat for dinner.,Bob mostly eats lean meat for :;;dinner;;:.,ADV_QUANT,:;;,;;:,-105.0,-96.5,-8.5
+173,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+When Dolly buys rugs, it's with cash most of the time.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Dolly mostly uses :;;cash;;: to buy rugs.,Dolly mostly uses cash to buy :;;rugs;;:.,ADV_QUANT,:;;,;;:,-84.5,-85.0,0.5
+174,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+When Gavin reads newspapers, it's in his study most of the time.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Gavin mostly reads newspapers in his :;;study;;:.,Gavin mostly reads :;;newspapers;;: in his study.,ADV_QUANT,:;;,;;:,-93.5,-119.0,25.5
+175,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+When Jerry writes in June, it's about baseball most of the time.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Jerry mostly writes about :;;baseball;;: in June.,Jerry mostly writes about baseball in :;;June;;:.,ADV_QUANT,:;;,;;:,-122.0,-114.0,-8.0
+176,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+When the software engineer codes, it's in the afternoon most of the time.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",the software engineer mostly codes in the :;;afternoon;;:.,the software engineer mostly :;;codes;;: in the afternoon.,ADV_QUANT,:;;,;;:,-86.0,-114.0,28.0
+177,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+When Vera has meetings, she's on the east coast most of the time.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Vera mostly has meetings when she's on the :;;east;;: coast.,Vera mostly has :;;meetings;;: when she's on the east coast.,ADV_QUANT,:;;,;;:,-128.0,-145.0,17.0
+178,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+When Warren invests in an American company, it's a tech company most of the time.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Warren mostly invests in American :;;tech;;: companies.,Warren mostly invests in :;;American;;: tech companies.,ADV_QUANT,:;;,;;:,-97.0,-109.0,12.0
+179,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+When someone takes care of the cats, it's the parents most of the time.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",the :;;parents;;: mostly take care of the cats.,the parents mostly take care of the :;;cats;;:.,ADV_QUANT,:;;,;;:,-91.5,-91.0,-0.5
+180,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+When Bill transports furniture, he uses his truck most of the time.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Bill mostly uses his :;;truck;;: to transport furniture.,Bill mostly uses his truck to transport :;;furniture;;:.,ADV_QUANT,:;;,;;:,-74.0,-111.5,37.5
+181,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+When Paul has a chess lesson, he works on positional chess most of the time.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Paul mostly works on :;;positional;;: chess during his lessons.,Paul mostly works on positional chess during his :;;lessons;;:.,ADV_QUANT,:;;,;;:,-149.0,-106.0,-43.0
+182,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+When someone leads the morning meeting on Mondays, it's the lawyer most of the time.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",the :;;lawyer;;: typically leads the morning meeting on Mondays.,the lawyer typically leads the morning meeting on :;;Mondays;;:.,ADV_QUANT,:;;,;;:,-78.0,-93.0,15.0
+183,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+When Bryan eats during the weekly meeting, it's his lunch most of the time.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Bryan typically eats :;;lunch;;: during the weekly meeting.,Bryan typically eats lunch during the :;;weekly meeting;;:.,ADV_QUANT,:;;,;;:,-82.5,-111.5,29.0
+184,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+When Lisa drinks beer, she's at a bar most of the time.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Lisa typically drinks beer at a :;;bar;;:.,Lisa typically drinks :;;beer;;: at a bar.,ADV_QUANT,:;;,;;:,-115.0,-111.0,-4.0
+185,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+When Helga eats sushi, she's in Japan most of the time.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Helga typically eats sushi in :;;Japan;;:.,Helga typically eats :;;sushi;;: in Japan.,ADV_QUANT,:;;,;;:,-117.5,-102.0,-15.5
+186,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+When Sparky barks, it's at children most of the time.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Sparky typically barks at :;;children;;:.,Sparky typically :;;barks;;: at children.,ADV_QUANT,:;;,;;:,-110.5,-108.5,-2.0
+187,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+When Jessica exercises in the morning, she runs most of the time.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Jessica typically :;;runs;;: in the morning.,Jessica typically runs in the :;;morning;;:.,ADV_QUANT,:;;,;;:,-88.0,-89.5,1.5
+188,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+When Randy skips a meeting, it's the morning meeting most of the time.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Randy typically skips :;;morning;;: meetings.,Randy typically :;;skips;;: morning meetings.,ADV_QUANT,:;;,;;:,-100.0,-105.0,5.0
+189,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+When the assistant teaches, he teaches from home most of the time.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",the assistant typically teaches from :;;home;;:.,the assistant typically :;;teaches;;: from home.,ADV_QUANT,:;;,;;:,-89.0,-109.0,20.0
+190,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+When Franny drinks wine, it's with dinner most of the time.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Franny typically drinks wine with :;;dinner;;:.,Franny typically drinks :;;wine;;: with dinner.,ADV_QUANT,:;;,;;:,-97.0,-94.0,-3.0
+191,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+When Linda defeats another player, it's a young player most of the time.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Therefore, ",Lindsay typically defeats :;;young;;: players.,Lindsay typically :;;defeats;;: young players.,ADV_QUANT,:;;,;;:,-107.0,-92.5,-14.5
+192,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Sarah was considering buying a green shirt. She ended up buying a red one instead.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Sarah didn't buy the :;;green;;: shirt.,Sarah didn't buy the green :;;shirt;;:.,CONTRAST1,:;;,;;:,-146.0,-165.0,19.0
+193,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Dave was considering buying a blue car. He bought a blue motorcycle instead.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Dave didn't buy the blue :;;car;;:.,Dave didn't buy the :;;blue;;: car.,CONTRAST1,:;;,;;:,-155.0,-148.0,-7.0
+194,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Professor Johnson was considering hiring an Italian student. He hired a French student instead.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Professor Johnson didn't hire the student from :;;Italy;;:.,Professor Johnson didn't hire the :;;student;;: from Italy.,CONTRAST1,:;;,;;:,-144.0,-144.0,0.0
+195,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+The math professor was hoping to win the teaching prize. The physics professor won it instead.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The :;;math;;: professor didn't win the teaching prize.,The math professor didn't win the :;;teaching;;: prize.,CONTRAST1,:;;,;;:,-136.0,-137.0,1.0
+196,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Lisa wanted to drive the car her mother gave her. Instead she had to drive the car her father gave her.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Lisa didn't drive the car her :;;mother;;: gave her.,:;;Lisa;;: didn't drive the car her mother gave her.,CONTRAST1,:;;,;;:,-132.0,-121.0,-11.0
+197,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Betsy wanted to ride her bike across the country. Unfortunately, she had to take a train instead.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Betsy didn't :;;bike;;: across the country.,Betsy didn't bike across the :;;country;;:.,CONTRAST1,:;;,;;:,-110.0,-155.0,45.0
+198,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+The teacher was hoping to get a raise this year. The dean got a raise instead.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The :;;teacher;;: didn't get a raise this year.,The teacher didn't get a raise this :;;year;;:.,CONTRAST1,:;;,;;:,-135.0,-163.0,28.0
+199,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Dr. Jones was hoping to cure the terrible disease. But he accidentally made it worse.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Dr. Jones didn't :;;cure;;: the terrible disease.,Dr. Jones didn't cure the :;;terrible;;: disease.,CONTRAST1,:;;,;;:,-114.5,-136.0,21.5
+200,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Fiona planned to read the Bible last year. She read it this year instead.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Fiona didn't read the Bible :;;last;;: year.,Fiona didn't :;;read;;: the Bible last year.,CONTRAST1,:;;,;;:,-132.0,-118.5,-13.5
+201,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Silvia's mother asked her to read the newspaper last night. She read a comic instead.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Silvia didn't read the :;;newspaper;;: last night.,:;;Silvia;;: didn't read the newspaper last night.,CONTRAST1,:;;,;;:,-102.0,-131.0,29.0
+202,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Jake wanted to walk the dog this morning. Gary did instead.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",:;;Jake;;: didn't walk the dog this morning.,Jake didn't walk the :;;dog;;: this morning.,CONTRAST1,:;;,;;:,-111.5,-115.0,3.5
+203,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Fred intended to compose a symphony. He composed a piano concerto instead.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Fred didn't compose a :;;symphony;;:.,Fred didn't :;;compose;;: a symphony.,CONTRAST1,:;;,;;:,-97.0,-106.0,9.0
+204,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Pierre wanted to have three children. He had two instead.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Pierre didn't have :;;three;;: children.,Pierre didn't have three :;;children;;:.,CONTRAST1,:;;,;;:,-119.0,-134.0,15.0
+205,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Vera was considering eating a chocolate muffin. She ate a blueberry muffin instead.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Vera didn't eat a :;;chocolate;;: muffin.,Vera didn't eat a chocolate :;;muffin;;:.,CONTRAST1,:;;,;;:,-158.0,-160.0,2.0
+206,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Arnold was considering paying for his meal with five dollar bills. He used tens instead.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Arnold didn't pay with :;;five;;: dollar bills.,Arnold didn't pay with five :;;dollar;;: bills.,CONTRAST1,:;;,;;:,-131.0,-147.0,16.0
+207,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Ann thought someone would steal her book of jokes. But it was her book of song lyrics that was stolen instead.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The book of :;;jokes;;: wasn't stolen.,The :;;book;;: of jokes wasn't stolen.,CONTRAST1,:;;,;;:,-131.0,-132.0,1.0
+208,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Bill thought that the talented student's diary was lost in the fire. But it turns out to have been the mediocre student's diary.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The :;;talented;;: student's diary wasn't lost in the fire.,The talented student's diary wasn't lost in the :;;fire;;:.,CONTRAST1,:;;,;;:,-143.0,-171.0,28.0
+209,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Rob wanted to buy Swiss jewelry, but he bought Swiss chocolate instead.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Rob didn't buy Swiss :;;jewelry;;:.,Rob didn't buy :;;Swiss;;: jewelry.,CONTRAST1,:;;,;;:,-108.0,-124.0,16.0
+210,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+The professor wanted to grade Dana's paper, but he only managed to read it.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The professor didn't :;;grade;;: Dana's paper.,The professor didn't grade Dana's :;;paper;;:.,CONTRAST1,:;;,;;:,-130.0,-158.0,28.0
+211,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Jessica was going to buy a car, but decided to lease it instead.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Jessica didn't :;;buy;;: the car.,:;;Jessica;;: didn't buy the car.,CONTRAST1,:;;,;;:,-122.0,-129.0,7.0
+212,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Steve was planning on investing in a tech company, but decided to invest in a car company instead.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Steve didn't invest in a :;;tech;;: company.,Steve didn't invest in a tech :;;company;;:.,CONTRAST1,:;;,;;:,-126.0,-142.0,16.0
+213,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Janet was going to buy the pink bicycle, but Patrick bought it instead.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",:;;Janet;;: didn't buy the pink bicycle.,Janet didn't buy the :;;pink;;: bicycle.,CONTRAST1,:;;,;;:,-126.0,-124.0,-2.0
+214,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+It seemed like Jerry took the watch from the drawer, but he actually took it from the shelf.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Jerry didn't take the watch from the :;;drawer;;:.,Jerry didn't :;;take;;: the watch from the drawer.,CONTRAST1,:;;,;;:,-133.0,-133.0,0.0
+215,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Becky thought she knocked the vase off the table, but it was actually a jar.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The :;;vase;;: didn't fall off the table.,The vase didn't fall off the :;;table;;:.,CONTRAST1,:;;,;;:,-125.5,-139.0,13.5
+216,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Paul thought he would receive a red envelope in the mail, but he actually received a green envelope.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",A :;;red;;: envelope didn't come in the mail.,A red :;;envelope;;: didn't come in the mail.,CONTRAST1,:;;,;;:,-146.0,-145.0,-1.0
+217,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Derek thought his dog attacked a squirrel, but it actually attacked a raccoon.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Derek's dog didn't bite a :;;squirrel;;:.,Derek's :;;dog;;: didn't bite a squirrel.,CONTRAST1,:;;,;;:,-139.0,-163.0,24.0
+218,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+David was considering dropping the evidence in a well, but instead dropped it in a gutter.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The evidence didn't fall down a :;;well;;:.,The :;;evidence;;: didn't fall down a well.,CONTRAST1,:;;,;;:,-176.0,-153.0,-23.0
+219,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Harvey was going to ride the elevator upward, but decided to ride it down instead.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The elevator didn't go :;;up;;:.,The elevator didn't :;;go;;: up.,CONTRAST1,:;;,;;:,-148.0,-149.0,1.0
+220,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Fred was going to use whole milk in the recipe, but instead he used skim milk.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Fred didn't cook with :;;whole;;: milk.,Fred didn't cook with whole :;;milk;;:.,CONTRAST1,:;;,;;:,-133.0,-133.0,0.0
+221,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Peter was going to read the poem that Lisa wrote for him, but instead he read the novel she wrote for him.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Peter didn't read the :;;poem;;: that Lisa wrote for him.,Peter didn't read the poem that :;;Lisa;;: wrote for him.,CONTRAST1,:;;,;;:,-111.0,-144.0,33.0
+222,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Blake was going to throw the football, but he kicked it instead.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Blake didn't :;;throw;;: the football.,Blake didn't throw the :;;football;;:.,CONTRAST1,:;;,;;:,-116.0,-111.0,-5.0
+223,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Chad and Mike were going to play on opposite teams, but they ended up playing on the same team instead.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Chad didn't play :;;against;;: Mike.,Chad didn't :;;play;;: against Mike.,CONTRAST1,:;;,;;:,-161.0,-168.0,7.0
+224,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+The car seemed to have rolled up the hill, but it actually rolled down.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The car didn't roll :;;up;;: the hill.,The car didn't roll up the :;;hill;;:.,CONTRAST1,:;;,;;:,-141.0,-149.0,8.0
+225,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Nancy called Ben. We thought his cell phone was ringing, but it was actually his landline.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Nancy didn't call Ben's :;;cell;;: phone.,Nancy didn't call :;;Ben's;;: cell phone.,CONTRAST1,:;;,;;:,-152.0,-150.0,-2.0
+226,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+We thought the manual was written by the lead programmer, but it was actually written by the lead product manager.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The lead :;;programmer;;: didn't write the manual.,The lead programmer didn't :;;write;;: the manual.,CONTRAST1,:;;,;;:,-139.0,-129.0,-10.0
+227,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Mary thought that the visitor was the president of France, but he was actually the president of the United States.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The president of :;;France;;: didn't visit.,The :;;president;;: of France didn't visit.,CONTRAST1,:;;,;;:,-144.0,-144.0,0.0
+228,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Randy thought that the trinket he bought was from eastern Canada, but it was actually from western Canada.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Randy didn't buy a trinket from :;;eastern;;: Canada.,Randy didn't buy a trinket from eastern :;;Canada;;:.,CONTRAST1,:;;,;;:,-137.0,-159.0,22.0
+229,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Charlotte thought she was petting her dog, but it was actually her friend's dog.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Charlotte wasn't petting :;;her;;: dog.,Charlotte wasn't petting her :;;dog;;:.,CONTRAST1,:;;,;;:,-130.0,-119.5,-10.5
+230,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Mike was considering inviting his coach to the party, but he invited his teammate instead.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",Mike's :;;coach;;: didn't get an invite to the party.,Mike's coach didn't get an :;;invite;;: to the party.,CONTRAST1,:;;,;;:,-139.0,-153.0,14.0
+231,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Dawn thought she might be getting a visit from the doctor, but she actually was visited by the nurse.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+",The :;;doctor;;: didn't show up to Dawn's house.,The doctor didn't show up to Dawn's :;;house;;:.,CONTRAST1,:;;,;;:,-185.0,-210.0,25.0
+232,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Mary doesn't like red wine. ",She likes :;;white;;: wine.,She likes white :;;wine;;:.,CONTRAST2,:;;,;;:,-83.0,-106.0,23.0
+233,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+The professor didn't review your book. ",The :;;dean;;: reviewed your book.,The dean :;;reviewed;;: your book.,CONTRAST2,:;;,;;:,-72.0,-72.5,0.5
+234,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Lacy didn't read a book about French architecture. ",She read a book about :;;British;;: architecture.,She read a book :;;about;;: British architecture.,CONTRAST2,:;;,;;:,-67.0,-76.0,9.0
+235,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Boris didn't buy a car. ",He :;;leased;;: a car.,He leased a :;;car;;:.,CONTRAST2,:;;,;;:,-83.5,-57.0,-26.5
+236,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Loretta didn't eat all of the cake. ",She ate :;;most;;: of the cake.,She ate most of the :;;cake;;:.,CONTRAST2,:;;,;;:,-100.0,-88.0,-12.0
+237,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+The arsonist didn't burn down the president's house. ",He burned down the :;;general's;;: house.,He burned :;;down;;: the general's house.,CONTRAST2,:;;,;;:,-100.0,-105.5,5.5
+238,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+The lawyer didn't steal the files. ",The :;;accountant;;: stole the files.,The accountant :;;stole;;: the files.,CONTRAST2,:;;,;;:,-70.5,-81.0,10.5
+239,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Gerald didn't buy his car in September. ",He bought his car in :;;August;;:.,He bought :;;his;;: car in August.,CONTRAST2,:;;,;;:,-82.0,-87.5,5.5
+240,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+The farmer didn't load his truck with hay. ",He loaded his truck with :;;wood;;:.,He loaded his :;;truck;;: with wood.,CONTRAST2,:;;,;;:,-76.5,-82.0,5.5
+241,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+The software engineer didn't work on his side project with his work laptop. ",He used his :;;personal;;: laptop to work on his side project.,He used his personal laptop to work on his :;;side;;: project.,CONTRAST2,:;;,;;:,-67.5,-104.5,37.0
+242,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Loretta didn't sue the man who damaged her car. ",She sued the man who :;;stole;;: her car.,She :;;sued;;: the man who stole her car.,CONTRAST2,:;;,;;:,-85.0,-96.0,11.0
+243,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+The secretary didn't send the email. ",The email was sent by the :;;manager;;:.,The :;;email;;: was sent by the manager.,CONTRAST2,:;;,;;:,-67.5,-63.5,-4.0
+244,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+The car didn't crash into the east side of the mall. ",The car crashed into the :;;south;;: side of the mall.,The car crashed into the south side of the :;;mall;;:.,CONTRAST2,:;;,;;:,-69.0,-86.5,17.5
+245,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Janet is not a history teacher. ",Her specialty is :;;math;;:.,Her specialty :;;is;;: math.,CONTRAST2,:;;,;;:,-74.5,-103.0,28.5
+246,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+The firm didn't invest in the stock because it was cheap. ",They invested in the stock because it was :;;valuable;;:.,They :;;invested;;: in the stock because it was valuable.,CONTRAST2,:;;,;;:,-96.0,-101.5,5.5
+247,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Janice didn't invent the device. ",She :;;advertised;;: the device.,She advertised the :;;device;;:.,CONTRAST2,:;;,;;:,-85.5,-82.5,-3.0
+248,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+The keys aren't in the red ceramic bowl. ",They're in the :;;blue;;: ceramic bowl.,They're in the blue :;;ceramic;;: bowl.,CONTRAST2,:;;,;;:,-46.5,-69.5,23.0
+249,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+The dog isn't lying in her bed. ",She's lying on the :;;couch;;:.,She's :;;lying;;: on the couch.,CONTRAST2,:;;,;;:,-59.25,-60.75,1.5
+250,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+David didn't walk the dog last night. ",The dog was walked by the :;;neighbors;;:.,The dog was :;;walked;;: by the neighbors.,CONTRAST2,:;;,;;:,-81.5,-87.5,6.0
+251,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Max isn't on a train from Washington to Boston. ",He's taking a :;;plane;;: from Washington to Boston.,He's taking a plane from :;;Washington;;: to Boston.,CONTRAST2,:;;,;;:,-59.75,-79.0,19.25
+252,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Sandy didn't unlock the door. ",The door is still :;;locked;;:.,The :;;door;;: is still locked.,CONTRAST2,:;;,;;:,-87.5,-87.0,-0.5
+253,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Susan didn't accompany the ambassador to the play. ",She was with the :;;judge;;:.,She :;;was;;: with the judge.,CONTRAST2,:;;,;;:,-78.5,-98.5,20.0
+254,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+That sculpture isn't made of styrofoam. ",It's sculpted entirely from :;;marble;;:.,It's sculpted entirely :;;from;;: marble.,CONTRAST2,:;;,;;:,-82.0,-100.0,18.0
+255,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Louis doesn't play cello in an orchestra. ",He's a cellist in a :;;quartet;;:.,He's a :;;cellist;;: in a quartet.,CONTRAST2,:;;,;;:,-80.0,-60.5,-19.5
+256,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Ralph isn't the lead tenor. ",He's the lead :;;baritone;;:.,He's the :;;lead;;: baritone.,CONTRAST2,:;;,;;:,-71.5,-61.75,-9.75
+257,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Vera didn't crash on her way to church. ",She crashed while she was driving to the :;;store;;:.,She crashed while she was :;;driving;;: to the store.,CONTRAST2,:;;,;;:,-98.0,-97.0,-1.0
+258,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Oliver didn't buy the orange he'd been looking at. ",He bought the :;;lemon;;: he'd been looking at.,He bought the lemon he'd been :;;looking;;: at.,CONTRAST2,:;;,;;:,-97.0,-106.0,9.0
+259,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+The senior detective didn't solve the case. ",The :;;junior;;: detective figured it out.,The junior :;;detective;;: figured it out.,CONTRAST2,:;;,;;:,-83.0,-85.5,2.5
+260,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+We didn't plant cucumbers in the garden this year. ",We planted :;;zucchini;;: in the garden this year.,We planted zucchini in the garden this :;;year;;:.,CONTRAST2,:;;,;;:,-75.5,-111.0,35.5
+261,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+The jury didn't return a guilty verdict yesterday. ",They declared the defendant :;;innocent;;:.,They declared the :;;defendant;;: innocent.,CONTRAST2,:;;,;;:,-57.0,-75.5,18.5
+262,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Pauline didn't have dinner with the mayor of the biggest city in the country. ",She ate with the mayor of the :;;smallest;;: city in the country.,She :;;ate;;: with the mayor of the smallest city in the country.,CONTRAST2,:;;,;;:,-58.75,-71.5,12.75
+263,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Marty didn't direct the movie. ",The movie was directed by an :;;amateur;;:.,The movie was :;;directed;;: by an amateur.,CONTRAST2,:;;,;;:,-68.5,-114.0,45.5
+264,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Laura didn't put the potatoes on the dining room table. ",The potatoes are on the :;;kitchen;;: table.,The :;;potatoes;;: are on the kitchen table.,CONTRAST2,:;;,;;:,-93.0,-77.0,-16.0
+265,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Tina didn't request a promotion. ",She :;;demanded;;: a promotion.,She demanded a :;;promotion;;:.,CONTRAST2,:;;,;;:,-71.0,-68.0,-3.0
+266,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+The maestro didn't perform at the concert. ",He was in the :;;audience;;: at the concert.,He was in the audience at the :;;concert;;:.,CONTRAST2,:;;,;;:,-70.0,-84.5,14.5
+267,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+The song didn't end in E major. ",The key at the end of the song was E :;;minor;;:.,The key at the :;;end;;: of the song was E minor.,CONTRAST2,:;;,;;:,-97.0,-114.0,17.0
+268,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Stacy didn't write the poem in her office last night. ",The poem was written in her office :;;this morning;;:.,The poem was written in her :;;office;;: this morning.,CONTRAST2,:;;,;;:,-111.5,-78.0,-33.5
+269,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Jake didn't read the first half of the book. ",He read the first :;;quarter;;: of the book.,He read the :;;first;;: quarter of the book.,CONTRAST2,:;;,;;:,-112.0,-108.0,-4.0
+270,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Vincent didn't use oil paints for this painting. ",He painted this painting with :;;watercolors;;:.,He :;;painted;;: this painting with watercolors.,CONTRAST2,:;;,;;:,-73.0,-102.5,29.5
+271,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Carly didn't attend the wedding. ",She attended the wedding :;;reception;;:.,She attended the :;;wedding;;: reception.,CONTRAST2,:;;,;;:,-115.5,-71.0,-44.5
+272,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+The liberal senator didn't vote for the new amendment. ",The :;;conservative;;: senator voted for the new amendment.,The conservative senator voted for the :;;new;;: amendment.,CONTRAST2,:;;,;;:,-67.0,-97.5,30.5
+273,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+The committee didn't rewrite the proposed law. ",They :;;scrapped;;: the proposed law.,They scrapped the :;;proposed;;: law.,CONTRAST2,:;;,;;:,-93.5,-93.5,0.0
+274,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Gertrude didn't use cake mix to bake her cake. ",She made the cake from :;;scratch;;:.,She made the :;;cake;;: from scratch.,CONTRAST2,:;;,;;:,-68.0,-69.5,1.5
+275,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+The military didn't drop bombs on the occupied country. ",The things that they dropped were :;;leaflets;;:.,The things that they :;;dropped;;: were leaflets.,CONTRAST2,:;;,;;:,-116.5,-106.0,-10.5
+276,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+The program that Jimmy hosts doesn't run at night. ",He hosts a :;;daytime;;: program.,He hosts a daytime :;;program;;:.,CONTRAST2,:;;,;;:,-60.25,-68.5,8.25
+277,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+We didn't film the upcoming season in May. ",The upcoming season was filmed in :;;June;;:.,The :;;upcoming;;: season was filmed in June.,CONTRAST2,:;;,;;:,-71.0,-68.0,-3.0
+278,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+The director didn't send the crew home for the day. ",The :;;actors;;: were sent home for the day.,The actors were sent :;;home;;: for the day.,CONTRAST2,:;;,;;:,-92.0,-92.5,0.5
+279,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+The research wasn't funded by a public grant. ",The research was :;;privately;;: funded.,The research was privately :;;funded;;:.,CONTRAST2,:;;,;;:,-92.0,-85.5,-6.5
+280,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+Jerry didn't accidentally eat dog food last night. ",His eating the dog food was :;;intentional;;:.,His eating the :;;dog;;: food was intentional.,CONTRAST2,:;;,;;:,-105.5,-111.0,5.5
+281,"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+The woman with the thick French accident didn't sell Bert that lumber. ",He got that lumber from the woman with the :;;Scottish;;: accent.,He got that lumber from the :;;woman;;: with the Scottish accent.,CONTRAST2,:;;,;;:,-95.0,-92.0,-3.0

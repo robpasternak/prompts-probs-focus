@@ -1,0 +1,162 @@
+{
+    "gemma_4_E2B": {
+        "model_name": "google/gemma-4-E2B-it",
+        "model_kwargs": {
+            "instruct": true,
+            "model_type": "hf_general"
+        }
+    },
+    "gemma_4_E4B": {
+        "model_name": "google/gemma-4-E4B-it",
+        "model_kwargs": {
+            "instruct": true,
+            "model_type": "hf_general"
+        }
+    },
+    "gemma_4_12B": {
+        "model_name": "google/gemma-4-12B-it",
+        "model_kwargs": {
+            "instruct": true,
+            "model_type": "hf_general"
+        }
+    },
+    "gemma_4_26B_A4B": {
+        "model_name": "google/gemma-4-26B-A4B-it",
+        "model_kwargs": {
+            "instruct": true,
+            "model_type": "hf_general"
+        }
+    },
+    "gemma_4_31B": {
+        "model_name": "google/gemma-4-31B-it",
+        "model_kwargs": {
+            "instruct": true,
+            "model_type": "hf_general"
+        }
+    },
+    "llama_3.2_1B":{
+        "model_name": "meta-llama/Llama-3.2-1B-Instruct",
+        "model_kwargs": {
+            "instruct": true,
+            "model_type": "hf_general"
+        }
+    },
+    "llama_3.2_3B": {
+        "model_name": "meta-llama/Llama-3.2-3B-Instruct",
+        "model_kwargs": {
+            "instruct": true,
+            "model_type": "hf_general"
+        }
+    },
+    "olmo_3_7B": {
+        "model_name": "allenai/Olmo-3-7B-Instruct",
+        "model_kwargs": {
+            "instruct": true,
+            "model_type": "hf_general"
+        }
+    },
+    "olmo_3_32B": {
+        "model_name": "allenai/Olmo-3-32B-Think",
+        "model_kwargs": {
+            "instruct": true,
+            "model_type": "hf_general",
+            "is_thinking_model": true
+        }
+    },
+    "qwen_3_0.6B": {
+        "model_name": "Qwen/Qwen3-0.6B",
+        "model_kwargs": {
+            "instruct": true,
+            "model_type": "hf_general",
+            "is_thinking_model": true
+        }
+    },
+    "qwen_3_1.7B": {
+        "model_name": "Qwen/Qwen3-1.7B",
+        "model_kwargs": {
+            "instruct": true,
+            "model_type": "hf_general",
+            "is_thinking_model": true
+        }
+    },
+    "qwen_3_4B": {
+        "model_name": "Qwen/Qwen3-4B",
+        "model_kwargs": {
+            "instruct": true,
+            "model_type": "hf_general",
+            "is_thinking_model": true
+        }
+    },
+    "qwen_3_8B": {
+        "model_name": "Qwen/Qwen3-8B",
+        "model_kwargs": {
+            "instruct": true,
+            "model_type": "hf_general",
+            "is_thinking_model": true
+        }
+    },
+    "qwen_3_14B": {
+        "model_name": "Qwen/Qwen3-14B",
+        "model_kwargs": {
+            "instruct": true,
+            "model_type": "hf_general",
+            "is_thinking_model": true
+        }
+    },
+    "qwen_3_32B": {
+        "model_name": "Qwen/Qwen3-32B",
+        "model_kwargs": {
+            "instruct": true,
+            "model_type": "hf_general",
+            "is_thinking_model": true
+        }
+    },
+    "qwen_3.5_0.8B": {
+        "model_name": "Qwen/Qwen3.5-0.8B",
+        "model_kwargs": {
+            "instruct": true,
+            "model_type": "hf_general",
+            "is_thinking_model": true
+        }
+    },
+    "qwen_3.5_2B": {
+        "model_name": "Qwen/Qwen3.5-2B",
+        "model_kwargs": {
+            "instruct": true,
+            "model_type": "hf_general",
+            "is_thinking_model": true
+        }
+    },
+    "qwen_3.5_4B": {
+        "model_name": "Qwen/Qwen3.5-4B",
+        "model_kwargs": {
+            "instruct": true,
+            "model_type": "hf_general",
+            "is_thinking_model": true
+        }
+    },
+    "qwen_3.5_9B": {
+        "model_name": "Qwen/Qwen3.5-9B",
+        "model_kwargs": {
+            "instruct": true,
+            "model_type": "hf_general",
+            "is_thinking_model": true
+        }
+    },
+    "qwen_3.5_27B": {
+        "model_name": "Qwen/Qwen3.5-27B",
+        "model_kwargs": {
+            "instruct": true,
+            "model_type": "hf_general",
+            "is_thinking_model": true
+        }
+    },
+    "qwen_3.5_35B_A3B": {
+        "model_name": "Qwen/Qwen3.5-35B-A3B",
+        "model_kwargs": {
+            "instruct": true,
+            "model_type": "hf_general",
+            "is_thinking_model": true
+        }
+    }
+}
