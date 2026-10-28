@@ -21,3 +21,6 @@ notebooks/.ipynb_checkpoints
 
 # Code for moving graphs to paper folder
 00_move_graphs.sh
+
+# .DS_Store
+.DS_Store
