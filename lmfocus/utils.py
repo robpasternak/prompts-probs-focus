@@ -1,3 +1,5 @@
+"""Utility functions."""
+
 from enum import Enum
 
 STANDARD_FOCUS_MARKERS = [

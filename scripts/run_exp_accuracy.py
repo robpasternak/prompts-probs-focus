@@ -27,7 +27,7 @@ def parse_args() -> argparse.Namespace:
     --batch-size <int>: Batch size for saving output CSVs (default: all rows, i.e. single batch)
     --quantize: Flag to 8-bit quantize the model (default: False)
     --dataset: Which dataset to use (1 or 2)
-    --test-type <str>: Type of test to run (choices: string_probs, forced_choice; default: string_probs)
+    --test-type <str>: Type of test to run (choices: string_probs, forced_choice, yes_no; default: string_probs)
     --prompt <int>: Index of the judgment prompt to use (default: 1)
     --device <str>: Device to run the model on (default: auto)
     --save-folder-suffix <str>: Suffix to append to the save folder name (default: "")

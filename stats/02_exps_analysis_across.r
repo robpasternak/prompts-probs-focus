@@ -1,36 +1,5 @@
 #!/usr/bin/env Rscript
 
-# Baseline-adjusted analysis for two experiments.
-#
-# Workflow:
-# 1) Read exp_01_results.csv (fm_type = Standard) and exp_02_results.csv
-#    (fm_type = Ad Hoc).
-# 2) Compute average accuracy by model + original_data_index + data_type
-#    in each file.
-# 3) Match the two experiments for each model + item + data_type.
-# 4) Treat Experiment 1 (HTML) accuracy as the baseline predictor and
-#    Experiment 2 (Random) accuracy as the outcome.
-# 5) Center HTML accuracy around its overall mean.
-# 6) Fit a mixed-effects linear model:
-#
-#       random_accuracy ~ standard_accuracy_centered * data_type
-#                         + (1 | original_data_index)
-#                         + (1 | model)
-#
-#    once for the full pooled dataset, with model as a random effect.
-#
-# 7) Save model statistics as:
-#       stats/stats_exps_baseline_adjusted.csv
-#
-#    and the paired item-level data as:
-#       stats/stats_exps_baseline_adjusted_data.csv
-#
-# Interpretation:
-# - standard_accuracy_centered = 0 corresponds to the average HTML accuracy.
-# - The data_type coefficients compare methods at average HTML accuracy.
-# - The standard_accuracy_centered:data_type interaction tests whether the
-#   relationship between HTML and Random accuracy differs between methods.
-
 suppressPackageStartupMessages({
   packages <- c(
     "readr",
@@ -212,13 +181,7 @@ read_experiment <- function(path, expected_fm_type) {
 
 
 # -------------------------------------------------------------------------
-# Average accuracy across bracketing types
-#
-# Produces one accuracy value for every:
-#
-#     model × item × data_type
-#
-# within each experiment.
+# Average accuracy across focus markers
 # -------------------------------------------------------------------------
 
 average_accuracy_by_item_type <- function(dat) {
@@ -244,7 +207,7 @@ average_accuracy_by_item_type <- function(dat) {
 
 
 # -------------------------------------------------------------------------
-# Build paired HTML / Random dataset
+# Build paired Standard / Random dataset
 # -------------------------------------------------------------------------
 
 build_baseline_dataframe <- function(exp01, exp02) {
@@ -328,7 +291,7 @@ build_baseline_dataframe <- function(exp01, exp02) {
       random_accuracy =
         .data$avg_accuracy_exp02,
 
-      n_html =
+      n_standard =
         .data$n_obs_exp01,
 
       n_random =
@@ -343,52 +306,7 @@ build_baseline_dataframe <- function(exp01, exp02) {
 
 
 # -------------------------------------------------------------------------
-# Center HTML accuracy
-#
-# Centering is done across the complete paired dataset.
-#
-# After this transformation:
-#
-#     standard_accuracy_centered = 0
-#
-# means that the observation has the average HTML accuracy.
-# -------------------------------------------------------------------------
-
-center_baseline_accuracy <- function(df) {
-
-  html_mean <- mean(
-    df$standard_accuracy,
-    na.rm = TRUE
-  )
-
-  message(
-    "Overall mean HTML accuracy: ",
-    sprintf("%.6f", html_mean)
-  )
-
-  df %>%
-    mutate(
-      standard_accuracy_centered =
-        .data$standard_accuracy - html_mean
-    )
-}
-
-
-# -------------------------------------------------------------------------
-# Fit baseline-adjusted model
-#
-# Random accuracy is predicted from:
-#
-#   1. centered HTML accuracy (baseline)
-#   2. experimental method
-#   3. centered HTML accuracy × experimental method
-#   4. random intercepts for original_data_index and model
-#
-# The method coefficients therefore represent method differences in
-# Random accuracy at the average HTML accuracy.
-#
-# The interaction tests whether the relationship between baseline
-# HTML accuracy and Random accuracy differs across methods.
+# Fit model
 # -------------------------------------------------------------------------
 
 fit_baseline_model <- function(df) {
@@ -591,15 +509,6 @@ baseline_df <- build_baseline_dataframe(
 
 
 message(
-  "Centering HTML baseline accuracy..."
-)
-
-baseline_df <- center_baseline_accuracy(
-  baseline_df
-)
-
-
-message(
   "Fitting baseline-adjusted mixed-effects model..."
 )
 
@@ -628,20 +537,6 @@ readr::write_csv(
   out_file
 )
 
-
-# Also save the paired item-level data.
-
-# paired_file <- file.path(
-#   out_dir,
-#   "stats/stats_exps_across_data.csv"
-# )
-
-# readr::write_csv(
-#   baseline_df,
-#   paired_file
-# )
-
-
 message(
   "Finished successfully."
 )
@@ -650,14 +545,6 @@ message(
   "Model output written to: ",
   normalizePath(
     out_file,
-    mustWork = FALSE
-  )
-)
-
-message(
-  "Paired data written to: ",
-  normalizePath(
-    paired_file,
     mustWork = FALSE
   )
 )

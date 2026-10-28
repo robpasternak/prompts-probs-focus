@@ -1,3 +1,4 @@
+"""Creates individual datasets from the seed CSV."""
 
 import random
 from pathlib import Path
@@ -71,13 +72,13 @@ def create_bracketing_datasets(
         df_bracketed.to_csv(output_csv_path, index=False)
 
 if __name__ == '__main__':
-    seed_csv_path_one = Path(__file__).parent.parent.parent / 'data' / 'datasets_seed' / 'seed_data_1.csv'
-    all_caps_output_csv_path_one = Path(__file__).parent.parent.parent / 'data' / 'datasets_1' / 'all_caps.csv'
-    dataset_dir_one = Path(__file__).parent.parent.parent / 'data' / 'datasets_1'
+    # seed_csv_path_one = Path(__file__).parent.parent.parent / 'data' / 'datasets_seed' / 'seed_data_1.csv'
+    # all_caps_output_csv_path_one = Path(__file__).parent.parent.parent / 'data' / 'datasets_1' / 'all_caps.csv'
+    # dataset_dir_one = Path(__file__).parent.parent.parent / 'data' / 'datasets_1'
     seed_csv_path_two = Path(__file__).parent.parent.parent / 'data' / 'datasets_seed' / 'seed_data_2.csv'
     all_caps_output_csv_path_two = Path(__file__).parent.parent.parent / 'data' / 'datasets_2' / 'all_caps.csv'
     dataset_dir_two = Path(__file__).parent.parent.parent / 'data' / 'datasets_2'
-    create_all_caps_dataset(seed_csv_path=seed_csv_path_one, output_csv_path=all_caps_output_csv_path_one)
-    create_bracketing_datasets(seed_csv_path=seed_csv_path_one, output_dir=dataset_dir_one, random_bracketings = 0)
-    create_all_caps_dataset(seed_csv_path=seed_csv_path_two, output_csv_path=all_caps_output_csv_path_two)
-    create_bracketing_datasets(seed_csv_path=seed_csv_path_two, output_dir=dataset_dir_two, random_bracketings = 0)
+    # create_all_caps_dataset(seed_csv_path=seed_csv_path_one, output_csv_path=all_caps_output_csv_path_one)
+    # create_bracketing_datasets(seed_csv_path=seed_csv_path_one, output_dir=dataset_dir_one, random_bracketings = 0)
+    # create_all_caps_dataset(seed_csv_path=seed_csv_path_two, output_csv_path=all_caps_output_csv_path_two)
+    # create_bracketing_datasets(seed_csv_path=seed_csv_path_two, output_dir=dataset_dir_two, random_bracketings = 0)

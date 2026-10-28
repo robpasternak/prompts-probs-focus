@@ -1,4 +1,4 @@
-"""Used to export seed data from multi-sheet Excel file to CSV"""
+"""Used to export seed data from multi-sheet Excel file (not contained in this repo) to CSV."""
 
 from pathlib import Path
 

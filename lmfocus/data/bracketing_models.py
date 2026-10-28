@@ -1,3 +1,5 @@
+"""Pydantic models for bracketing-based focus markers."""
+
 from pydantic import BaseModel
 
 

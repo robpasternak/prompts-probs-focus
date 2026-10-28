@@ -1,3 +1,5 @@
+"""Code for running experiments with LMs from Hugging Face."""
+
 import re
 from enum import Enum
 
@@ -85,9 +87,7 @@ class HFLLM:
                         rendered_prompt += suffix
             return rendered_prompt
         else:
-            return ValueError(
-                "make_prob_prompt_instruct is only applicable when instruct=True"
-            )
+            return "\n".join([message["content"] for message in messages if message["content"]])
 
     def get_sum_logprobs(self, prefixes, sentences, description=None):
         data = []

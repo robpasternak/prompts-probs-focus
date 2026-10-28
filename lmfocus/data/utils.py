@@ -1,3 +1,5 @@
+"""Utility functions."""
+
 def capitalize_first_letter(s: str, ignore_string: str) -> str:
     """
     Capitalizes the first letter of a string, not counting the ignore_string.
