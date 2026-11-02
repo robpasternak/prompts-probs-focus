@@ -35,7 +35,19 @@ The `lmfocus` package used in this repository was created with `uv`; for install
 
 ## How to cite
 
-BibTeX will be added soon.
+If you use any of the code or data from this repository in your work, please cite as follows:
+
+```
+@misc{Pasternak2026PromptsProbabilities,
+      title={Prompts and probabilities in the linguistic assessment of language models: Evidence from semantic focus-sensitivity}, 
+      author={Robert Pasternak},
+      year={2026},
+      eprint={2610.39923},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2610.39923}, 
+}
+```
 
 ## Statement on AI usage
 
