@@ -1,6 +1,6 @@
 # Prompts and probabilities in the linguistic assessment of language models: Evidence from semantic focus-sensitivity.
 
-This repository contains code and data for the paper ["Prompts and probabilities in the linguistic assessment of language models: Evidence from semantic focus-sensitivity"](https://arxiv.org/abs/2610.39923). If using any datasets or code from this repository, please cite the paper accordingly (information below).
+This repository contains code and data for the paper [Prompts and probabilities in the linguistic assessment of language models: Evidence from semantic focus-sensitivity](https://arxiv.org/abs/2610.39923). If using any datasets or code from this repository, please cite the paper accordingly (information below).
 
 The `lmfocus` package used in this repository was created with `uv`; for installation instructions, see [here](https://docs.astral.sh/uv/getting-started/installation/). Upon installing `uv`, run `uv sync` to install required packages.
 
